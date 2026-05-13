@@ -4,16 +4,8 @@ pagetitle: "Research | Peleg Kremer"
 ---
 
 ::: {.lead}
-My lab works at the intersection of urban geography, environmental science, and spatial data science. We use GIS, remote sensing, and machine learning to study how cities shape who is exposed to environmental burdens (heat, flooding, air pollution) and who has access to environmental benefits (parks, green space, cooling), with most of our fieldwork in the Philadelphia metropolitan region and comparative work across US and global cities.
+We use GIS, remote sensing, and machine learning to study how cities shape exposure to environmental burdens (heat, flooding, air pollution) and access to environmental benefits (parks, cooling, green space). Most fieldwork is in Philadelphia, with comparative work across US and global cities.
 :::
-
-Most of our published work falls along three threads that have developed alongside each other. The project pages linked below go into specific work in more depth, with key papers, current students, and figures.
-
-- **Urban structure and the environmental conditions people experience.** Built around the Structure of Urban Landscapes (STURLA) classification, which links the three-dimensional composition of city blocks to heat, air quality, and microbial diversity, from Philadelphia case studies to global comparisons. See the [STURLA project page](projects/ues.qmd).
-- **Green stormwater infrastructure, flooding, and equitable risk.** A collaboration with civil and computer engineering colleagues at Villanova and transportation researchers at George Mason that integrates spatial data, AI, and community knowledge into stormwater and flood-risk planning. See the [GSI project page](projects/gsi-nsf.qmd) and the [DISES mobility and flooding project page](projects/dises-nsf.qmd).
-- **Environmental justice and equitable access to urban amenities.** Through the SESYNC "Parks for People" research pursuit and local work in Philadelphia, this thread asks why access to nature in the city remains unequal, and what spatial frameworks could change that. See the [EJ project page](projects/ej-amenities.qmd).
-
-Vacant land and community gardens cut across all three threads in Philadelphia, primarily through the [Philadelphia Garden Data Collaborative](projects/pgdc.qmd), a long-standing partnership with civic organizations.
 
 ## Active projects
 
@@ -61,6 +53,6 @@ Methodological and substantive work, including a current single-author global an
 
 :::
 
-## Editorial and service roles
+## Editorial and service
 
-I am Associate Editor of *Sustainable Cities and Society* (2025 – present) and lead Special Issue Editor for its issue *Sustaining Cities Under Environmental Extremes* (2024 – 2026). I served on the NSF Human-Environment and Geographical Sciences senior review panel in 2024 and as an ad hoc reviewer in 2026. See the [About](about.qmd) page for a fuller list.
+Associate Editor, *[Sustainable Cities and Society](https://www.sciencedirect.com/journal/sustainable-cities-and-society)* (2025 – present) · Lead Editor, *Sustaining Cities Under Environmental Extremes* special issue (2024 – 2026) · NSF HEGS senior review panel (2024) and ad hoc reviewer (2026). Fuller list on the [About](about.qmd) page.
