@@ -1,5 +1,4 @@
 ---
-title: "Peleg Kremer"
 pagetitle: "Peleg Kremer | Villanova University"
 description: "Urban sustainability, ecosystem services, and environmental justice."
 toc: false
@@ -11,7 +10,7 @@ page-layout: full
 ::: {.hero-text}
 # Peleg Kremer
 ::: {.title-line}
-Associate Professor of Geography and the Environment &nbsp;·&nbsp; Villanova University
+Associate Professor &nbsp;·&nbsp; Villanova University
 :::
 
 ::: {.lead}
