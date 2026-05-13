@@ -1,0 +1,57 @@
+---
+title: "Students"
+pagetitle: "Students | Peleg Kremer"
+description: "Current and former graduate and undergraduate researchers."
+---
+
+::: {.lead}
+Working with students is one of the most rewarding parts of this job. Below are current advisees and alumni, with brief project descriptions. If you are a prospective student interested in spatial analysis of urban systems, please be in touch.
+:::
+
+## Current students
+
+### Master's thesis chair
+
+- **Charles Wildonger** (2025 – ) – Heavy metal contamination and transport in green stormwater infrastructure.
+- **Mac Sanders** (2025 – ) – Observational analysis of human activity, physical conditions, and social context around GSI sites in Kensington, Philadelphia.
+- **Prottoy Roy** (2025 – ) – Spatiotemporal modeling of nuisance flood risk: a critical review of urban-scale approaches.
+- **Emily Myers** (2024 – ) – Relating air pollution, social vulnerability and health outcomes in 500 US cities.
+
+### Master's thesis committee member
+
+- **Nick Salantiri** (2025 – ) – Land use/land cover impacts on freshwater salinization syndrome in two suburban headwater streams.
+
+### Dissertation committee member
+
+- **Tefera Shibeshi** (2025 – ) – Modeling of urban nuisance flooding.
+- **Musfiqur Rahman** (2023 – ) – AI for green stormwater infrastructure.
+
+### Undergraduate research / senior thesis
+
+- **Anna Koisewroski** (2025 – 2026) – Senior thesis.
+- **Sarah Scheller** (2026 – ) – Gentrification impacts on urban community precarity in Philadelphia.
+
+## Recent alumni
+
+### Master's thesis chair
+
+- **Luis Berrios-Hyden** (PhD candidacy 2024) – Spatial distribution of AMF diversity and heavy metal soil concentrations as a function of urban structure in Philadelphia.
+- **Kate Homet** (MS 2022) – Measuring the impacts of environmental, social, and maintenance variables on green stormwater infrastructure in Philadelphia.
+- **Radley Reist** (MS 2021) – Comparative analysis of urban structure and surface temperature.
+- **Charlotte Shade** (MS 2019) – The use of green infrastructure and its effect on climate resilience in Philadelphia.
+
+### Notable undergraduate research
+
+- **Madeline Scolio** – Senior thesis (2023), now lead author on multiple peer-reviewed papers including Scolio et al. 2024 (*Urban Climate*) and Scolio et al. 2025 (*Sustainable Cities and Society*; *Environmental Research: Infrastructure and Sustainability*).
+- **Kate Henderson** – Undergraduate honors thesis on niche modeling of tody birds in the Greater Antilles (Henderson et al. 2022, *Frontiers in Ecology and Evolution*).
+- **Samantha Bromberg** – Undergraduate honors thesis on ecosystem services in Philadelphia community gardens (2018-2019).
+
+## Recent graduates
+
+A representative selection of recent advisees, with first-position information available on request:
+
+Sophia Lemmons · Kenny Douyon · Rylie Fryberger · Anna Johnson · Cameron Lomerson · Megan Gaughan · Olivia Pistella · Charlotte Bohra · Kaitlyn Smith · Marie Mullen · Halina Takahashi · Brent Jenkins · Miles Trumbull · Gabi Manganello · Mary Corrigan · Michael Donodeo · Beatriz De Jesus · George Kowalski · Kirsten Ahn · Rebecca McDonough · Amira Temple · Meghan Conway · Dang Phang · Julie Greenwald · Erik Mitz · Ashley Seyfried · Joe Dangler · Meghan McMahon · Alexandra Henninger · Rachel Walsh · Gavin Lewis · Natalie Kvochak
+
+::: {.callout-note appearance="simple"}
+This list is current as of mid-2026 and is maintained as students enter and complete the program. Where students have given permission, I will eventually link to their LinkedIn / current position.
+:::

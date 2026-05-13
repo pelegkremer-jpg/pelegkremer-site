@@ -1,0 +1,32 @@
+---
+title: "Contact"
+pagetitle: "Contact | Peleg Kremer"
+---
+
+::: {.lead}
+The best way to reach me is by email. If you are a prospective student interested in spatial analysis of urban systems, please be in touch.
+:::
+
+## Email and office
+
+- **Email** : [peleg.kremer@villanova.edu](mailto:peleg.kremer@villanova.edu)
+- **Phone** : 610.519.4549
+- **Office** : Mendel Hall, G61B, Villanova University, 800 Lancaster Avenue, Villanova, PA 19085
+
+## Online
+
+- **Google Scholar** : [scholar.google.com/citations?user=bk56N0IAAAAJ](https://scholar.google.com/citations?hl=en&user=bk56N0IAAAAJ)
+- **ORCID** : [0000-0001-6844-5557](https://orcid.org/0000-0001-6844-5557)
+- **LinkedIn** : [linkedin.com/in/peleg-kremer-79656415](https://www.linkedin.com/in/peleg-kremer-79656415/)
+- **Department page** : [Villanova GEV](https://www1.villanova.edu/university/liberal-arts-sciences/programs/geography-the-environment.html)
+
+## Mailing address
+
+Department of Geography and the Environment\
+Villanova University\
+800 Lancaster Avenue\
+Villanova, PA 19085
+
+## For prospective students
+
+I advise master's students in the [GEV graduate program](https://www1.villanova.edu/university/liberal-arts-sciences/programs/geography-the-environment.html) and serve on dissertation committees across Villanova. Strong candidates typically have a background in geography, environmental science, planning, or a related field, and experience with GIS or programming (R or Python). Funded research assistantships are sometimes available through active grants; please email with a CV and a one-paragraph statement of interest.

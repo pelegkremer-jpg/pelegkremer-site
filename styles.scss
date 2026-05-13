@@ -1,0 +1,293 @@
+/*-- scss:defaults --*/
+
+// Field Notebook palette
+$paper:        #FAF7F2;
+$ink:          #1F2937;
+$ink-soft:     #4B5563;
+$forest:       #2F4F3E;
+$forest-dark:  #1F3528;
+$terra:        #B85C38;
+$terra-soft:   #D8896C;
+$rule:         #E2DCD0;
+$muted-bg:     #F3EFE6;
+
+$body-bg:           $paper;
+$body-color:        $ink;
+$link-color:        $forest;
+$link-hover-color:  $terra;
+
+$font-family-sans-serif: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+$font-family-serif:      "Crimson Pro", "Source Serif Pro", Georgia, serif;
+$headings-font-family:   $font-family-serif;
+$headings-color:         $forest-dark;
+$headings-font-weight:   600;
+
+$navbar-bg:    $paper;
+$navbar-fg:    $ink;
+$footer-bg:    $muted-bg;
+$footer-fg:    $ink-soft;
+
+/*-- scss:rules --*/
+
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@500;600;700&family=Inter:wght@400;500;600&display=swap');
+
+body {
+  background: $paper;
+  color: $ink;
+  font-feature-settings: "ss01", "cv05";
+}
+
+h1, h2, h3, h4 {
+  font-family: $font-family-serif;
+  letter-spacing: -0.01em;
+  color: $forest-dark;
+}
+
+h1 { font-size: 2.6rem; line-height: 1.15; margin-bottom: 0.6rem; }
+h2 { font-size: 1.8rem; margin-top: 2.4rem; }
+h3 { font-size: 1.3rem; margin-top: 1.8rem; }
+
+a { text-decoration: none; border-bottom: 1px solid rgba(47, 79, 62, 0.25); }
+a:hover { color: $terra; border-bottom-color: rgba(184, 92, 56, 0.5); }
+
+hr { border: 0; border-top: 1px solid $rule; margin: 2.5rem 0; }
+
+// Navbar
+.navbar {
+  border-bottom: 1px solid $rule;
+  padding-top: 0.6rem;
+  padding-bottom: 0.6rem;
+}
+.navbar-brand {
+  font-family: $font-family-serif;
+  font-weight: 600;
+  font-size: 1.25rem;
+}
+.navbar .nav-link {
+  font-size: 0.95rem;
+  letter-spacing: 0.01em;
+}
+
+// Site banner (above the hero on the home page)
+.site-banner {
+  width: 100%;
+  max-height: 340px;
+  object-fit: cover;
+  display: block;
+  margin: 0 0 0.5rem;
+  border-radius: 2px;
+  filter: saturate(0.9);
+}
+@media (max-width: 768px) {
+  .site-banner { max-height: 200px; }
+}
+
+// Hero
+.hero {
+  display: grid;
+  grid-template-columns: 1.4fr 1fr;
+  gap: 3rem;
+  align-items: center;
+  padding: 3.5rem 0 2.5rem;
+  border-bottom: 1px solid $rule;
+  margin-bottom: 2.5rem;
+}
+.hero-text h1 {
+  font-size: 3rem;
+  margin-bottom: 0.4rem;
+}
+.hero-text .title-line {
+  font-size: 1.15rem;
+  color: $ink-soft;
+  margin-bottom: 1.4rem;
+  font-family: $font-family-sans-serif;
+}
+.hero-text .lead {
+  font-size: 1.15rem;
+  line-height: 1.6;
+  color: $ink;
+}
+.hero-portrait {
+  width: 100%;
+  border-radius: 4px;
+  filter: saturate(0.92);
+}
+@media (max-width: 768px) {
+  .hero { grid-template-columns: 1fr; gap: 1.5rem; padding: 2rem 0 1.5rem; }
+  .hero-text h1 { font-size: 2.2rem; }
+}
+
+// Section labels
+.eyebrow {
+  text-transform: uppercase;
+  letter-spacing: 0.18em;
+  font-size: 0.78rem;
+  color: $terra;
+  font-weight: 600;
+  margin-bottom: 0.6rem;
+}
+
+// Grant strip
+.grants-strip {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0 2.5rem;
+}
+.grant-card {
+  background: $muted-bg;
+  border-left: 3px solid $forest;
+  padding: 1rem 1.1rem;
+  border-radius: 2px;
+}
+.grant-card .funder {
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: $terra;
+  font-weight: 600;
+}
+.grant-card .title {
+  font-family: $font-family-serif;
+  font-size: 1.05rem;
+  color: $forest-dark;
+  font-weight: 600;
+  margin: 0.25rem 0;
+  line-height: 1.25;
+}
+.grant-card .meta {
+  font-size: 0.85rem;
+  color: $ink-soft;
+}
+
+// What's new
+.news-strip ul { list-style: none; padding-left: 0; }
+.news-strip li {
+  display: grid;
+  grid-template-columns: 110px 1fr;
+  gap: 1rem;
+  padding: 0.7rem 0;
+  border-bottom: 1px solid $rule;
+}
+.news-strip .date {
+  color: $terra;
+  font-variant-numeric: tabular-nums;
+  font-size: 0.92rem;
+  font-weight: 500;
+}
+
+// Research theme cards
+.theme-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+.theme-card {
+  background: white;
+  border: 1px solid $rule;
+  border-radius: 4px;
+  padding: 1.5rem;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+.theme-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(31, 53, 40, 0.08);
+}
+.theme-card h3 {
+  margin-top: 0;
+  font-size: 1.2rem;
+}
+.theme-card .funder-tag {
+  display: inline-block;
+  font-size: 0.75rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: $terra;
+  font-weight: 600;
+  margin-bottom: 0.4rem;
+}
+.theme-card a { border-bottom: none; }
+
+// Publications
+.pub-year {
+  font-family: $font-family-serif;
+  font-size: 1.5rem;
+  color: $terra;
+  margin-top: 2rem;
+  border-bottom: 1px solid $rule;
+  padding-bottom: 0.3rem;
+}
+.pub-list { padding-left: 0; list-style: none; }
+.pub-list li {
+  padding: 0.7rem 0;
+  border-bottom: 1px dotted $rule;
+  font-size: 0.98rem;
+  line-height: 1.5;
+}
+.pub-list .venue { font-style: italic; color: $ink-soft; }
+.pub-list .pub-links {
+  display: inline-block;
+  margin-left: 0.4rem;
+  font-size: 0.85rem;
+}
+.pub-list .pub-links a {
+  color: $forest;
+  margin-right: 0.5rem;
+}
+
+// Buttons
+.button-row { margin: 1.2rem 0; }
+.btn-quiet {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  margin-right: 0.6rem;
+  background: $forest;
+  color: $paper;
+  border-radius: 2px;
+  font-size: 0.92rem;
+  border: none;
+}
+.btn-quiet:hover { background: $terra; color: $paper; }
+.btn-quiet.outline {
+  background: transparent;
+  color: $forest;
+  border: 1px solid $forest;
+}
+.btn-quiet.outline:hover { background: $forest; color: $paper; }
+
+// Project pages
+.project-meta {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 1.2rem;
+  background: $muted-bg;
+  padding: 1.2rem 1.4rem;
+  border-radius: 4px;
+  margin: 1.5rem 0 2rem;
+  font-size: 0.92rem;
+}
+.project-meta .label {
+  display: block;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-size: 0.72rem;
+  color: $terra;
+  margin-bottom: 0.25rem;
+}
+
+// Footer
+.page-footer-content {
+  border-top: 1px solid $rule;
+  font-size: 0.9rem;
+}
+
+// Pull quotes / aside
+blockquote {
+  border-left: 3px solid $terra;
+  padding-left: 1rem;
+  font-family: $font-family-serif;
+  font-size: 1.15rem;
+  color: $forest-dark;
+  margin: 1.5rem 0;
+}

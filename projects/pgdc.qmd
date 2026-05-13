@@ -1,0 +1,63 @@
+---
+title: "Philadelphia Garden Data Collaborative"
+pagetitle: "PGDC | Peleg Kremer"
+description: "A decade-long partnership protecting Philadelphia community gardens through spatial data and policy translation."
+---
+
+::: {.project-meta}
+::: {}
+::: {.label}
+Current funder
+:::
+William Penn Foundation
+:::
+::: {}
+::: {.label}
+Period
+:::
+2024 to 2027
+:::
+::: {}
+::: {.label}
+My role
+:::
+Co-PI (current), long-standing PGDC partner since 2015
+:::
+::: {}
+::: {.label}
+Co-PI
+:::
+Craig Borowiak (Haverford, Political Science)
+:::
+::: {}
+::: {.label}
+Civic partners
+:::
+Garden Justice Legal Initiative · Pennsylvania Horticultural Society · Neighborhood Gardens Trust
+:::
+:::
+
+## The collaborative
+
+The Philadelphia Garden Data Collaborative (PGDC) is a partnership between academics and Philadelphia civic organizations to:
+
+- Generate and maintain an authoritative spatial dataset of currently active community gardens in Philadelphia.
+- Keep that dataset current and accurate through field verification and remote sensing.
+- Use it to promote and protect public access to open and green spaces in Philadelphia.
+
+In my role with PGDC, I work with students to verify active garden locations, maintain a GIS database, provide spatial analysis and maps as required by partners. Recent applications include maps and analysis of gardens by community district for hearings in the Philadelphia City Council on urban agriculture, and identification of active gardens located on tax-delinquent parcels at risk of loss through sheriff sales.
+
+## What the current grants support
+
+"Beyond Land Precarity" (2025–2027) extends PGDC's empirical and policy work into the construction of an active garden database and a public platform that growers, civic organizations, and city agencies can use. The earlier "Baseline Research" award (2024–2025) supported the foundational survey work.
+
+## Key publications and outputs
+
+- Kremer, P., Borowiak, C., Scolio, M. (2026, in review). Beyond land precarity: building a garden database and platform to support Philadelphia growers. *Journal of Agriculture, Food Systems, and Community Development*.
+- Kremer, P., Borowiak, C., Scolio, M. (2026). Cultivating data: the Philadelphia Garden Data Collaborative's approach to urban garden preservation. AAG Annual Meeting, San Francisco.
+- Scolio, M., Kremer, P., Borowiak, C. (2026). Measuring community garden security: a study of Philadelphia's community gardens. AAG Annual Meeting, San Francisco.
+- William Penn Foundation Webinar Series: *Roots at Risk: How Secure are Philadelphia Urban Gardens?* (October 2025)
+
+## Students currently working on this project
+
+Madeline Scolio · Sarah Scheller · Kenny Douyon · Rylie Fryberger · Sophia Lemmons

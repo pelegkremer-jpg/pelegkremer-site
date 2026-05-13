@@ -1,0 +1,50 @@
+---
+title: "About"
+pagetitle: "About | Peleg Kremer"
+---
+
+Dr. Peleg Kremer is an Associate Professor in the Department of Geography and the Environment at Villanova University, where she also serves as Program Director for Environmental Studies. Her lab focuses on spatial patterns in social-ecological systems and urban sustainability. Using interdisciplinary approaches in spatial analysis, GIS, and remote sensing, she investigates the relationships between urban environmental and ecological processes and the built environment, with active programs of work on urban heat, air quality, flooding, green stormwater infrastructure, and equitable access to green space in Philadelphia and other US cities.
+
+She is currently Co-PI on four NSF awards and two William Penn Foundation grants, Associate Editor of *Sustainable Cities and Society*, and recipient of the 2023 Villanova Outstanding Faculty Mentor Award. She teaches undergraduate and graduate courses in Geographic Information Systems, urban sustainability, and the built environment, and has mentored more than two dozen graduate and undergraduate researchers since 2022.
+
+She holds a PhD in Energy and Environmental Policy from the University of Delaware.
+
+## Appointments
+
+| Years | Role |
+|:---|:---|
+| 2022 – present | Associate Professor, Department of Geography and the Environment, Villanova University |
+| 2021 – present | Program Director, Environmental Studies, Villanova University |
+| 2016 – 2022    | Assistant Professor, Department of Geography and the Environment, Villanova University |
+| 2015 – 2016    | Visiting Assistant Professor, Department of Geography and the Environment, Villanova University |
+
+## Education
+
+| Year | Degree |
+|:---|:---|
+| 2011 | PhD, Energy and Environmental Policy, University of Delaware |
+| 2005 | M.A., Geography, Tel Aviv University |
+| 2000 | B.Sc., Agricultural Economics, Hebrew University of Jerusalem |
+
+## Awards and honors
+
+- **Outstanding Faculty Mentor Teaching Award**, Villanova University, 2023
+- **WRA Innovation & Collaboration – Research Award**, Water Resources Association of the Delaware River Basin, 2024
+
+## Editorial roles
+
+- **Associate Editor**, *Sustainable Cities and Society* (2025 – present)
+- **Lead Special Issue Editor**, "Sustaining Cities under Environmental Extremes", *Sustainable Cities and Society* (2024 – 2026)
+- **Editorial Review Board**, *Frontiers in Environmental Science: Land Use Dynamics* (2018 – present)
+
+## Selected service
+
+- **Committee Chair**, GEV Committee on Diversity and Inclusion (2016 – present)
+- **Senior Review Panel**, NSF Human-Environment and Geographical Sciences (2024)
+- **Member**, Strategic Initiative for Climate, Justice, and Sustainability: Research Committee, Villanova (2024 – present)
+- **Member**, CLAS DEI Committee (2020 – present)
+- **Long-standing partner**, Philadelphia Garden Data Collaborative (2015 – present)
+
+## Professional memberships
+
+American Association of Geographers · American Geophysical Union · Association for Environmental Studies and Sciences

@@ -1,0 +1,66 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Peleg Kremer"
+  description: "Urban sustainability, ecosystem services, and environmental justice at Villanova University."
+  site-url: "https://pelegkremer.com"
+  favicon: assets/favicon.ico
+  open-graph: true
+  twitter-card:
+    creator: "@pelegkremer"
+    card-style: summary_large_image
+
+  navbar:
+    pinned: true
+    collapse-below: lg
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "Students"
+        href: students.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "News"
+        href: news.qmd
+      - text: "Contact"
+        href: contact.qmd
+
+  page-footer:
+    left: |
+      Peleg Kremer<br>
+      Department of Geography and the Environment<br>
+      Villanova University
+    center: |
+      [Email](mailto:peleg.kremer@villanova.edu) &nbsp;·&nbsp;
+      [Google Scholar](https://scholar.google.com/citations?hl=en&user=bk56N0IAAAAJ) &nbsp;·&nbsp;
+      [ORCID](https://orcid.org/0000-0001-6844-5557) &nbsp;·&nbsp;
+      [LinkedIn](https://www.linkedin.com/in/peleg-kremer-79656415/)
+    right: |
+      &copy; 2026 Peleg Kremer. Built with [Quarto](https://quarto.org).
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss
+    css: styles.css
+    toc: false
+    page-layout: full
+    fontsize: 1.05rem
+    linkcolor: "#2F4F3E"
+    mainfont: "Inter, system-ui, -apple-system, sans-serif"
+    monofont: "JetBrains Mono, ui-monospace, monospace"
+    grid:
+      sidebar-width: 200px
+      body-width: 900px
+      margin-width: 200px

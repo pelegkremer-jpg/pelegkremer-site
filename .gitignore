@@ -1,0 +1,25 @@
+# Quarto build artifacts
+/.quarto/
+/_site/
+/_freeze/
+/site_libs/
+
+# OS junk
+Thumbs.db
+.DS_Store
+ehthumbs.db
+desktop.ini
+
+# Office / editor backup files
+~$*
+*.~lock*
+*.tmp
+
+# Local environment
+.env
+.Renviron
+.Rhistory
+.RData
+.Rproj.user/
+__pycache__/
+*.pyc

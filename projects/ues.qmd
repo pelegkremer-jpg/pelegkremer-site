@@ -1,0 +1,64 @@
+---
+title: "Urban Structure and Environmental Conditions"
+pagetitle: "STURLA · Urban Structure | Peleg Kremer"
+description: "The Structure of Urban Landscapes (STURLA) classification, from Berlin–NYC case studies to a global analysis."
+---
+
+::: {.project-meta}
+::: {}
+::: {.label}
+Program of work
+:::
+2014 to present
+:::
+::: {}
+::: {.label}
+NSF support
+:::
+2018 to 2024
+:::
+::: {}
+::: {.label}
+My role
+:::
+PI on NSF GSS award; lead methodologist
+:::
+::: {}
+::: {.label}
+Key collaborators
+:::
+Dagmar Haase (Humboldt), Nadja Larondelle, Zoe Hamstead, Timon McPhearson, Kabindra Shakya (Villanova Chemistry)
+:::
+:::
+
+![Global distribution of dominant STURLA classes across 11,214 urban areas in 178 countries.](../assets/projects/sturla-global.png){fig-alt="World map of urban structure classes"}
+
+## The question
+
+How does the three-dimensional structure of cities, the way buildings, vegetation, and pavement combine at the block scale, shape the heat, air quality, and ecological processes that residents actually experience? Most urban environmental analyses rely on flat, two-dimensional land cover and miss this vertical dimension.
+
+## What we do
+
+At the heart of this work is the **Structure of Urban Landscapes (STURLA)** classification, which captures common three-dimensional compositions of urban form and links them to environmental indicators. The framework was first developed in a Berlin–New York City comparison (Larondelle et al. 2014), refined for New York City (Hamstead et al. 2016), and extended to Philadelphia (Mitz et al. 2021). In parallel, with Dr. Kabindra Shakya in Villanova Chemistry, we built a mobile platform for fine-scale air pollution monitoring (Shakya et al. 2019).
+
+Current work pushes STURLA in several directions:
+
+- **From surface temperature to the air temperature people experience.** Madeline Scolio led work linking remotely sensed surface temperature to air temperature, opening a path to use globally available remote sensing for urban heat exposure assessment (Scolio et al. 2024, *Urban Climate*).
+- **Grid sensitivity.** Dennis Weaver and Justin Stewart tested 399 grid configurations and found that grid size, not orientation, drives results, with the tightest urban structure-function relationships at roughly 200 to 500 meters (Kremer, Weaver, Stewart 2026, *Ecological Informatics*). The finding has implications well beyond STURLA.
+
+![Sensitivity of urban structure-temperature R² to grid size across 399 grid configurations.](../assets/projects/sturla-grid.png){fig-alt="R-squared vs grid size analysis"}
+
+- **Global scale.** A current single-author paper applies STURLA via Google Earth Engine to 11,214 urban areas across 178 countries, testing whether case-study temperature patterns generalize worldwide and surfacing climate-dependent cooling effects of trees and water (Kremer, in review, *Urban Climate*).
+
+## Key publications
+
+- Larondelle, N., Hamstead, Z. A., Kremer, P., Haase, D., McPhearson, T. (2014). Applying a novel urban structure classification to compare the relationships of urban structure and surface temperature in Berlin and New York City. *Applied Geography*, 53, 427-437.
+- Hamstead, Z. A., Kremer, P., Larondelle, N., McPhearson, T., Haase, D. (2016). Classification of the heterogeneous structure of urban landscapes (STURLA) as an indicator of landscape function applied to surface temperature in New York City. *Ecological Indicators*, 70, 574-585.
+- Shakya, K. M., Kremer, P., Henderson, K., McMahon, M., Peltier, R. E., Bromberg, S., Stewart, J. (2019). Mobile monitoring of air and noise pollution in Philadelphia neighborhoods during summer 2017. *Environmental Pollution*, 255, 113195.
+- Mitz, E., Kremer, P., Larondelle, N., Stewart, J. D. (2021). Structure of urban landscape and surface temperature: a case study in Philadelphia, PA. *Frontiers in Environmental Science*, 9.
+- Stewart, J. D., Kremer, P. (2022). Temporal change in relationships between urban structure and surface temperature. *Environment and Planning B*, 49(9), 2297-2311.
+- Scolio, M., Kremer, P., Zhang, Y., Shakya, K. M. (2024). Spatial-temporal modeling of the relationship between surface temperature and air temperature in metropolitan urban systems. *Urban Climate*, 55, 101921.
+
+![Surface temperature to air temperature relationship in the Philadelphia metropolitan area (Scolio et al. 2024, Urban Climate).](../assets/projects/surface-air-temp.jpg){fig-alt="Surface temperature vs. air temperature relationship"}
+- Kremer, P., Weaver, D., Stewart, J. D. (2026). Sensitivity of urban structure-temperature relationships to grid parameterization. *Ecological Informatics*, 93, 103587.
+- Kremer, P. (in review). Global analysis of urban structure and surface temperature. *Urban Climate*.

@@ -1,0 +1,77 @@
+---
+title: "Curriculum Vitae"
+pagetitle: "CV | Peleg Kremer"
+---
+
+::: {.button-row}
+[Download full CV (PDF)](assets/Kremer_CV.pdf){.btn-quiet}
+[About page](about.qmd){.btn-quiet .outline}
+[Publications](publications.qmd){.btn-quiet .outline}
+:::
+
+::: {.lead}
+A summary version of the CV is below. For the full document, including all conference presentations, posters, workshops, internal grants, and committee service, please download the PDF.
+:::
+
+## Education
+
+- **PhD, Energy and Environmental Policy** · University of Delaware, 2011
+- **M.A., Geography** · Tel Aviv University, 2005
+- **B.Sc., Agricultural Economics** · Hebrew University of Jerusalem, 2000
+
+## Academic appointments
+
+- 2022 – present : Associate Professor, Department of Geography and the Environment, Villanova University
+- 2021 – present : Program Director, Environmental Studies, Villanova University
+- 2016 – 2022 : Assistant Professor, Department of Geography and the Environment, Villanova University
+- 2015 – 2016 : Visiting Assistant Professor, Department of Geography and the Environment, Villanova University
+
+## Selected funded research (current)
+
+| Award | Funder | Role | Period |
+|:---|:---|:---|:---|
+| SCC-IRG Track 1: AI for GSI Sustainability | NSF | Co-PI | 2024 – 2028 |
+| DISES: Mobility Equity Gaps from Nuisance Flooding | NSF | Co-PI | 2024 – 2028 |
+| Beyond Land Precarity: Garden Database and Platform | William Penn Foundation | PI | 2025 – 2027 |
+| Global Centers Track 2: Nature-based Urban Hydrology | NSF | Supporting | 2024 – 2025 |
+| Heavy Metal Transport in GSI Sediments | Villanova GRASP | PI | 2026 – 2027 |
+
+## Selected funded research (recent)
+
+| Award | Funder | Role | Period |
+|:---|:---|:---|:---|
+| Community Garden and Land Security in Philadelphia | William Penn Foundation | Co-PI | 2024 – 2025 |
+| CDS&E: Revolutionizing Sustainable and Fair GSI through AI | NSF | Co-PI | 2022 – 2025 |
+| Multi-Dimensional Structure of Urban Landscape and Ecosystem Services | NSF | PI | 2018 – 2024 |
+| SCC-PG: Smart, Sustainable, Equitable GSI | NSF | Co-PI | 2022 – 2023 |
+
+## Editorial roles
+
+- Associate Editor, *Sustainable Cities and Society* (2025 – present)
+- Lead Special Issue Editor, *Sustaining Cities under Environmental Extremes*, *Sustainable Cities and Society* (2024 – 2026)
+- Editorial Review Board, *Frontiers in Environmental Science: Land Use Dynamics* (2018 – present)
+- Lead Special Issue Co-Editor, *The Future of Urban Sustainability: Smart, Efficient, Green or Just?*, *Sustainable Cities and Society* (2016 – 2019)
+
+## Selected awards
+
+- Outstanding Faculty Mentor Teaching Award, Villanova University (2023)
+- WRA Innovation and Collaboration – Research Award, Water Resources Association of the Delaware River Basin (2024)
+
+## Selected service
+
+- Senior Review Panel, NSF Human-Environment and Geographical Sciences (2024)
+- Ad Hoc Reviewer, NSF HEGS (2026)
+- Committee Chair, GEV Committee on Diversity and Inclusion (2016 – present)
+- Member, Strategic Initiative for Climate, Justice, and Sustainability: Research Committee, Villanova (2024 – present)
+- Member, CLAS DEI Committee (2020 – present)
+- Long-standing partner, Philadelphia Garden Data Collaborative (2015 – present)
+
+## Selected mentoring metrics
+
+- 26+ graduate and undergraduate student researchers mentored since 2022
+- Multiple advisees have first-authored peer-reviewed papers, including in *Urban Climate*, *Sustainable Cities and Society*, *Environmental Research: Infrastructure and Sustainability*, *Frontiers in Environmental Science*, and *Frontiers in Built Environment*
+- See [Students](students.qmd) for the current list
+
+## Professional memberships
+
+American Association of Geographers · American Geophysical Union · Association for Environmental Studies and Sciences

@@ -1,0 +1,180 @@
+---
+title: "Publications"
+pagetitle: "Publications | Peleg Kremer"
+description: "Peer-reviewed publications, book chapters, and other scholarly outputs."
+---
+
+::: {.lead}
+A current list of peer-reviewed journal articles, edited books and chapters, and selected other scholarly outputs. For the most up-to-date list with citation counts, see [Google Scholar](https://scholar.google.com/). BibTeX for everything below is available in [references.bib](references.bib).
+:::
+
+## Edited books
+
+::: {.pub-list}
+- Piselli, C., Altan, H., Balaban, O., **Kremer, P.** (Eds.). (2022). *Innovating Strategies and Solutions for Urban Performance and Regeneration*. Springer Nature. [Link](https://link.springer.com/book/10.1007/978-3-030-98187-7)
+:::
+
+## Book chapters
+
+::: {.pub-list}
+- McPhearson, T., Karki, M., Herzog, C., Abbadie, L., Karki, M., **Kremer, P.**, Perini, K., Santiago Fink, H., Sutto, P. (2018). Urban ecosystems and biodiversity. In R. C, S. D, M. S, D. S, & R.-L. P (Eds.), *Climate Change and Cities: Second Assessment Report of the Urban Climate Change Research Network* (pp. 257-318). Cambridge: Cambridge University Press.
+- Gómez-Baggethun, E., Gren, Å., Barton, D. N., Langemeyer, J., McPhearson, T., O'Farrell, P., Andersson, E., Hamstead, Z., **Kremer, P.** (2013). Urban ecosystem services. In *Urbanization, Biodiversity and Ecosystem Services: Challenges and Opportunities* (pp. 175-251). Springer Netherlands. [DOI](https://doi.org/10.1007/978-94-007-7088-1_11)
+- **Kremer, P.**, DeLiberty, T., Schreuder, Y. (2012). Defining local food systems. In N. Reid, J. D. Gatrell, & P. S. Ross (Eds.), *Local Food Systems in Old Industrial Regions: Concepts, Spatial Context, and Local Practices*. Vermont: Ashgate Publishing.
+:::
+
+## Peer-reviewed journal articles
+
+::: {.pub-year}
+2026
+:::
+::: {.pub-list}
+- Rahman, M., Smith, V. B., **Kremer, P.**, Wadzuk, B. M., Jiao, X., Amur, A., Arabi, S. Incorporating artificial intelligence into the future of stormwater management. *Discover Water*.
+- Ermagun, A., Janatabadi, F., Safarloo, Z., **Kremer, P.**, Lindley, S. Urban flooding restructures mobility through coupled behavioral and network disruption: a systematic review of evidence. *Sustainable Cities and Society*, 107285. [Link](https://www.sciencedirect.com/science/article/pii/S2210670726001721)
+- **Kremer, P.**, Weaver, D., Stewart, J. D. Sensitivity of urban structure-temperature relationships to grid parameterization. *Ecological Informatics*, 93, 103587. [DOI](https://doi.org/10.1016/j.ecoinf.2025.103587)
+:::
+
+::: {.pub-year}
+2025
+:::
+::: {.pub-list}
+- Hassebrock, J. M., **Kremer, P.**, Seng, K. E., Goldsmith, S. T. Long-term impacts of land cover change on nitrate export in mixed-use exurban and suburban watersheds. *Science of The Total Environment*, 1002, 180612. [DOI](https://doi.org/10.1016/j.scitotenv.2025.180612)
+- Al Mehedi, M. A., Smith, V., **Kremer, P.** A comparative analysis of urban and peri-urban flood identification using SAR imagery. *PLOS Water*, 4(9), e0000269. [DOI](https://doi.org/10.1371/journal.pwat.0000269)
+- Scolio, M., Amur, A., Olson, E., Smith, V., Wadzuk, B., Homet, K., Devlin, E., **Kremer, P.** Reconceptualizing urban flood modeling: toward intersectional and equitable urban flood risk planning. *Sustainable Cities and Society*, 130, 106578. [DOI](https://doi.org/10.1016/j.scs.2025.106578)
+- Good, K., Robert, E., **Kremer, P.**, Wang, Y., Wilson, J. M. Subbasin-level discharge-intake flow index to assess potential iodine point source discharges upstream of surface drinking water sources. *Discover Water*, 5(34). [Link](https://link.springer.com/article/10.1007/s43832-025-00211-3)
+- Scolio, M., **Kremer, P.**, Smith, V., Amur, A., Wadzuk, B., Homet, K., Devlin, E., Al Mehedi, M. A., Moore, L. Delineating urban flooding when incorporating community stormwater knowledge. *Environmental Research: Infrastructure and Sustainability*, 5(1), 015008. [DOI](https://doi.org/10.1088/2634-4505/adad11)
+- Terry, B., **Kremer, P.**, Goldsmith, S. T., Shakya, K. M. Land use regression model to predict nitrogen dioxide in the greater Philadelphia area. *Atmospheric Pollution Research*, 16(1), 102339. [DOI](https://doi.org/10.1016/j.apr.2024.102339)
+:::
+
+::: {.pub-year}
+2024
+:::
+::: {.pub-list}
+- Joo, H. E., Clark, J. A., **Kremer, P.**, Aronson, M. F. Socio-environmental drivers of human-nature interactions in urban green spaces. *Urban Ecosystems*, 27(6), 2397-2413. [DOI](https://doi.org/10.1007/s11252-024-01593-3)
+- Winkler, R. L., Clark, J. A., Locke, D. H., **Kremer, P.**, Aronson, M. F., Hoover, F.-A., Joo, H. E., La Rosa, D., Lee, K. J., Lerman, S. B., Pearsall, H., Vargo, T. L., Nilon, C. H., Lepczyk, C. A. Unequal access to social, environmental and health amenities in US urban parks. *Nature Cities*, 1(12), 861-870. [DOI](https://doi.org/10.1038/s44284-024-00153-2)
+- Marks, N. K., Cravotta, C. A., Rossi, M. L., Silva, C., **Kremer, P.**, Goldsmith, S. T. Exploring spatial and temporal symptoms of the freshwater salinization syndrome in a rural to urban watershed. *Science of The Total Environment*, 947, 174266. [DOI](https://doi.org/10.1016/j.scitotenv.2024.174266)
+- Lee, K., Aronson, M. F. J., Clark, J. A. G., Hoover, F.-A., Joo, H. E., **Kremer, P.**, La Rosa, D., Larson, K. L., Lepczyk, C. A., Lerman, S. B., Locke, D. H., Nilon, C. H., Pearsall, H., Vargo, T. L. V. Limitations of existing park quality instruments and suggestions for future research. *Landscape and Urban Planning*, 249, 105127. [DOI](https://doi.org/10.1016/j.landurbplan.2024.105127)
+- Scolio, M., Bohra, C., **Kremer, P.**, Shakya, K. M. Spatial analysis of intra-urban air pollution disparities through an environmental justice lens: a case study of Philadelphia, PA. *Atmosphere*, 15(7), 755. [DOI](https://doi.org/10.3390/atmos15070755)
+- Scolio, M., **Kremer, P.**, Zhang, Y., Shakya, K. M. Spatial-temporal modeling of the relationship between surface temperature and air temperature in metropolitan urban systems. *Urban Climate*, 55, 101921. [DOI](https://doi.org/10.1016/j.uclim.2024.101921)
+- Jezycki, K. E., Rodriguez, E., Craft, C. B., Neubauer, S. C., Morris, J. T., Goldsmith, S. T., **Kremer, P.**, Weston, N. B. Metal accumulation in salt marsh soils along the East Coast of the United States. *Science of The Total Environment*, 922, 171025. [DOI](https://doi.org/10.1016/j.scitotenv.2024.171025)
+- Cook, L. M., Good, K. D., Moretti, M., **Kremer, P.**, Wadzuk, B., Traver, R., Smith, V. Towards the intentional multifunctionality of urban green infrastructure: a paradox of choice? *npj Urban Sustainability*, 4(1). [DOI](https://doi.org/10.1038/s42949-024-00145-0)
+:::
+
+::: {.pub-year}
+2023
+:::
+::: {.pub-list}
+- Rossi, M. L., **Kremer, P.**, Cravotta, C. A., Seng, K. E., Goldsmith, S. T. Land development and road salt usage drive long-term changes in major-ion chemistry of streamwater in six exurban and suburban watersheds, southeastern Pennsylvania, 1999-2019. *Frontiers in Environmental Science*, 11. [DOI](https://doi.org/10.3389/fenvs.2023.1153133)
+- Henderson, A. F., Santoro, J. A., **Kremer, P.** Impacts of spatial scale and resolution on species distribution models of American chestnuts. *Forest Ecology and Management*.
+:::
+
+::: {.pub-year}
+2022
+:::
+::: {.pub-list}
+- Rossi, M. L., **Kremer, P.**, Cravotta, C. A., Scheirer, K. E., Goldsmith, S. T. Long-term impacts of impervious surface cover change and roadway deicing agent application on chloride concentrations in exurban and suburban watersheds. *Science of The Total Environment*, 851, 157933. [DOI](https://doi.org/10.1016/j.scitotenv.2022.157933)
+- Marks, N. K., Hosseiny, H., Bill, V. P., Ahn, K. L., Crimmins, M. C., **Kremer, P.**, Smith, V. B. Spatial integration of urban runoff modeling, heat, and social vulnerability for blue-green infrastructure planning and management. *Journal of Water Resources Planning and Management*, 148(11). [DOI](https://doi.org/10.1061/(asce)wr.1943-5452.0001593)
+- Stewart, J. D., **Kremer, P.** Temporal change in relationships between urban structure and surface temperature. *Environment and Planning B: Urban Analytics and City Science*, 49(9), 2297-2311. [DOI](https://doi.org/10.1177/23998083221083677)
+- Henderson, A. F., Santoro, J. A., **Kremer, P.** Ensemble modeling for American chestnut distribution: locating potential restoration sites in Pennsylvania. *Frontiers in Ecology and Evolution*.
+- Homet, K., **Kremer, P.**, Smith, V., Strader, S. Multi-variable assessment of green stormwater infrastructure planning across a city landscape: incorporating social, environmental, built-environment, and maintenance vulnerabilities. *Frontiers in Environmental Science*, 10. [DOI](https://doi.org/10.3389/fenvs.2022.958704)
+- Homet, K., **Kremer, P.**, Smith, V., Ampomah, R., Strader, S. M. Mapping predicted areas of common maintenance impacts to green stormwater infrastructure in Philadelphia, Pennsylvania. *Journal of Sustainable Water in the Built Environment*, 8(3). [DOI](https://doi.org/10.1061/jswbay.0000986)
+- Cummings, L. E., Stewart, J. D., **Kremer, P.**, Shakya, K. Predicting citywide distribution of air pollution using mobile monitoring and three-dimensional urban structure. *Sustainable Cities and Society*, 76, 103510. [DOI](https://doi.org/10.1016/j.scs.2021.103510)
+:::
+
+::: {.pub-year}
+2021
+:::
+::: {.pub-list}
+- Crimmins, M., Park, S., Smith, V., **Kremer, P.** A spatial assessment of high-resolution drainage characteristics and roadway safety during wet conditions. *Applied Geography*, 133, 102477. [DOI](https://doi.org/10.1016/j.apgeog.2021.102477)
+- Cummings, L. E., Stewart, J. D., Reist, R., Shakya, K. M., **Kremer, P.** Mobile monitoring of air pollution reveals spatial and temporal variation in an urban landscape. *Frontiers in Built Environment*, 7. [DOI](https://doi.org/10.3389/fbuil.2021.648620)
+- Mitz, E., **Kremer, P.**, Larondelle, N., Stewart, J. D. Structure of urban landscape and surface temperature: a case study in Philadelphia, PA. *Frontiers in Environmental Science*, 9. [DOI](https://doi.org/10.3389/fenvs.2021.592716)
+- Stewart, J. D., **Kremer, P.**, Shakya, K. M., Conway, M., Saad, A. Outdoor atmospheric microbial diversity is associated with urban landscape structure and differs from indoor-transit systems as revealed by mobile monitoring and three-dimensional spatial analysis. *Frontiers in Ecology and Evolution*, 9. [DOI](https://doi.org/10.3389/fevo.2021.620461)
+:::
+
+::: {.pub-year}
+2020
+:::
+::: {.pub-list}
+- Wellmann, T., Lausch, A., Andersson, E., Knapp, S., Cortinovis, C., Jache, J., Scheuer, S., **Kremer, P.**, Mascarenhas, A., Kraemer, R., Haase, A., Schug, F., Haase, D. Remote sensing in urban planning: contributions towards ecologically sound policies? *Landscape and Urban Planning*, 204, 103921. [DOI](https://doi.org/10.1016/j.landurbplan.2020.103921)
+- Shade, C., **Kremer, P.**, Rockwell, J. S., Henderson, K. G. The effects of urban development and current green infrastructure policy on future climate change resilience. *Ecology and Society*, 25(4). [DOI](https://doi.org/10.5751/es-12076-250437)
+- Conway, M., Shakya, K., **Kremer, P.** Mapping social vulnerability to air pollution in Philadelphia, PA. *Veritas: Villanova Research Journal*, 2, 122-130. [DOI](https://doi.org/10.61372/vvrj.v2i0.2551)
+- Temple, A., **Kremer, P.** Spatial and temporal analysis of farmers markets and their regional farms in Philadelphia, PA. *Veritas: Villanova Research Journal*, 2, 116-121. [DOI](https://doi.org/10.61372/vvrj.v2i0.2539)
+- Godschall, S., Smith, V., Hubler, J., **Kremer, P.** A decision process for optimizing multi-hazard shelter location using global data. *Sustainability*, 12(15), 6252. [DOI](https://doi.org/10.3390/su12156252)
+- Hosseiny, H., Crimmins, M., Smith, V. B., **Kremer, P.** A generalized automated framework for urban runoff modeling and its application at a citywide landscape. *Water*, 12(2), 357. [DOI](https://doi.org/10.3390/w12020357)
+:::
+
+::: {.pub-year}
+2019
+:::
+::: {.pub-list}
+- Shakya, K. M., **Kremer, P.**, Henderson, K., McMahon, M., Peltier, R. E., Bromberg, S., Stewart, J. Mobile monitoring of air and noise pollution in Philadelphia neighborhoods during summer 2017. *Environmental Pollution*, 255, 113195. [DOI](https://doi.org/10.1016/j.envpol.2019.113195)
+- **Kremer, P.**, Haase, A., Haase, D. The future of urban sustainability: smart, efficient, green or just? Introduction to the special issue. *Sustainable Cities and Society*, 51, 101761. [DOI](https://doi.org/10.1016/j.scs.2019.101761)
+- Shade, C., **Kremer, P.** Predicting land use changes in Philadelphia following green infrastructure policies. *Land*, 8(2), 28. [DOI](https://doi.org/10.3390/land8020028)
+:::
+
+::: {.pub-year}
+2018
+:::
+::: {.pub-list}
+- Hamstead, Z. A., Fisher, D., Ilieva, R. T., Wood, S. A., McPhearson, T., **Kremer, P.** Geolocated social media as a rapid indicator of park visitation and equitable park access. *Computers, Environment and Urban Systems*, 72, 38-50. [DOI](https://doi.org/10.1016/j.compenvurbsys.2018.01.007)
+- **Kremer, P.**, Larondelle, N., Zhang, Y., Pasles, E. B., Haase, D. Within-class and neighborhood effects on the relationship between composite urban classes and surface temperature. *Sustainability*, 10(3), 645.
+:::
+
+::: {.pub-year}
+2017
+:::
+::: {.pub-list}
+- Haase, D., Kabisch, S., Haase, A., Andersson, E., Banzhaf, E., Baró, F., Brenck, M., Fischer, L. K., Frantzeskaki, N., Kabisch, N., Krellenberg, K., **Kremer, P.**, Kronenberg, J., Larondelle, N., Mathey, J., Pauleit, S., Ring, I., Rink, D., Schwarz, N., Wolff, M. Greening cities, to be socially inclusive? About the alleged paradox of society and ecology in cities. *Habitat International*, 64, 41-48. [DOI](https://doi.org/10.1016/j.habitatint.2017.04.005)
+- Gittleman, M., Farmer, C. J., **Kremer, P.**, McPhearson, T. Estimating stormwater runoff for community gardens in New York City. *Urban Ecosystems*, 20(1), 129-139. [DOI](https://doi.org/10.1007/s11252-016-0575-8)
+:::
+
+::: {.pub-year}
+2016
+:::
+::: {.pub-list}
+- **Kremer, P.**, Hamstead, Z., Haase, D., McPhearson, T., Frantzeskaki, N., Andersson, E., Kabisch, N., Larondelle, N., Rall, E. L., Voigt, A., Baró, F., Bertram, C., Gómez-Baggethun, E., Hansen, R., Kaczorowska, A., Kain, J.-H., Kronenberg, J., Langemeyer, J., Pauleit, S., Rehdanz, K., Schewenius, M., van Ham, C., Wurster, D., Elmqvist, T. Key insights for the future of urban ecosystem services research. *Ecology and Society*, 21(2). [DOI](https://doi.org/10.5751/es-08445-210229)
+- Hamstead, Z. A., **Kremer, P.**, Larondelle, N., McPhearson, T., Haase, D. Classification of the heterogeneous structure of urban landscapes (STURLA) as an indicator of landscape function applied to surface temperature in New York City. *Ecological Indicators*, 70, 574-585. [DOI](https://doi.org/10.1016/j.ecolind.2015.10.014)
+- **Kremer, P.**, Hamstead, Z. A., McPhearson, T. The value of urban ecosystem services in New York City: a spatially explicit multicriteria analysis of landscape scale valuation scenarios. *Environmental Science & Policy*, 62, 57-68. [DOI](https://doi.org/10.1016/j.envsci.2016.04.012)
+:::
+
+::: {.pub-year}
+2015
+:::
+::: {.pub-list}
+- **Kremer, P.**, Hamstead, Z. Transformation of urban vacant lots for the common good: an introduction to the special issue. *Cities and the Environment*, 8(2). [Link](http://digitalcommons.lmu.edu/cate/vol8/iss2/1)
+- **Kremer, P.**, Andersson, E., McPhearson, T., Elmqvist, T. Advancing the frontier of urban ecosystem services research. *Ecosystem Services*, 12, 149-151. [DOI](https://doi.org/10.1016/j.ecoser.2015.01.008)
+- Andersson, E., Tengö, M., McPhearson, T., **Kremer, P.** Cultural ecosystem services as a gateway for improving urban sustainability. *Ecosystem Services*, 12, 165-168. [DOI](https://doi.org/10.1016/j.ecoser.2014.08.002)
+- Andersson, E., McPhearson, T., **Kremer, P.**, Gomez-Baggethun, E., Haase, D., Tuvendal, M., Wurster, D. Scale and context dependence of ecosystem service providing units. *Ecosystem Services*, 12, 157-164. [DOI](https://doi.org/10.1016/j.ecoser.2014.08.001)
+:::
+
+::: {.pub-year}
+2014 and earlier
+:::
+::: {.pub-list}
+- Larondelle, N., Hamstead, Z. A., **Kremer, P.**, Haase, D., McPhearson, T. (2014). Applying a novel urban structure classification to compare the relationships of urban structure and surface temperature in Berlin and New York City. *Applied Geography*, 53, 427-437. [DOI](https://doi.org/10.1016/j.apgeog.2014.07.004)
+- Haase, D., Larondelle, N., Andersson, E., Artmann, M., Borgström, S., Breuste, J., Gomez-Baggethun, E., Gren, Å., Hamstead, Z., Hansen, R., Kabisch, N., **Kremer, P.**, Langemeyer, J., Rall, E. L., McPhearson, T., Pauleit, S., Qureshi, S., Schwarz, N., Voigt, A., Wurster, D., Elmqvist, T. (2014). A quantitative review of urban ecosystem service assessments: concepts, models, and implementation. *AMBIO*, 43(4), 413-433. [DOI](https://doi.org/10.1007/s13280-014-0504-0)
+- McPhearson, T., Hamstead, Z. A., **Kremer, P.** (2014). Urban ecosystem services for resilience planning and management in New York City. *AMBIO*, 43(4), 502-515. [DOI](https://doi.org/10.1007/s13280-014-0509-8)
+- **Kremer, P.**, Hamstead, Z. A., McPhearson, T. (2013). A social-ecological assessment of vacant lots in New York City. *Landscape and Urban Planning*, 120, 218-233. [DOI](https://doi.org/10.1016/j.landurbplan.2013.05.003)
+- McPhearson, T., **Kremer, P.**, Hamstead, Z. A. (2013). Mapping ecosystem services in New York City: applying a social-ecological approach in urban vacant land. *Ecosystem Services*, 5, 11-26. [DOI](https://doi.org/10.1016/j.ecoser.2013.06.005)
+- **Kremer, P.**, Schreuder, Y. (2012). The feasibility of regional food systems in metropolitan areas: an investigation of Philadelphia's foodshed. *Journal of Agriculture, Food Systems, and Community Development*, 171-191. [DOI](https://doi.org/10.5304/jafscd.2012.022.005)
+- **Kremer, P.**, DeLiberty, T. L. (2011). Local food practices and growing potential: mapping the case of Philadelphia. *Applied Geography*, 31(4), 1252-1261. [DOI](https://doi.org/10.1016/j.apgeog.2011.01.007)
+:::
+
+## Other media
+
+::: {.pub-list}
+- Godelnik, R., **Kremer, P.** (2024). 1.5°C lifestyles and the city. *The Nature of Cities*. [Link](https://www.thenatureofcities.com/2024/05/12/1-5c-lifestyles-and-the-city/)
+- **Kremer, P.**, Haase, A., Haase, D. (2020). Placing equity at the center of the urban greening agenda. *The Nature of Cities*. [Link](https://www.thenatureofcities.com/2020/01/18/placing-equity-at-the-center-of-urban-greening-agenda/)
+- **Kremer, P.**, Godelnik, R. (2019). Can cities be Greta? *The Nature of Cities*. [Link](https://www.thenatureofcities.com/2019/10/01/can-cities-be-a-greta/)
+- Stewart, J., **Kremer, P.** (2021). The urban atmospheric microbiome. *The Palgrave Encyclopedia of Urban and Regional Futures* (pp. 1956-1961). Palgrave MacMillan. [DOI](https://doi.org/10.1007/978-3-030-87745-3_180)
+:::
+
+## In review and forthcoming
+
+::: {.pub-list}
+- **Kremer, P.** Urban structure shapes land surface temperature: evidence from a global analysis of urban areas. *Urban Climate* (in review).
+- **Kremer, P.**, Borowiak, C., Scolio, M. Beyond land precarity: building a garden database and platform to support Philadelphia growers. *Journal of Agriculture, Food Systems, and Community Development*.
+- Smith, V. B., **Kremer, P.**, Amur, A., Scolio, M., Wadzuk, B. M., Arabi, S., Cooney, S. E., Jiao, X. From smart to insightful: integrating technology and community engagement for green stormwater infrastructure management. *Urban Forestry & Urban Greening*.
+- Arabi, S., Yaméogo, D. D. S., **Kremer, P.**, Smith, V. B. Geospatial foundation models for water resources management: current status and paths forward. *Environmental Modelling & Software*.
+- Freeman, A., Pinton, D., Langley, J. A., Sansom, L., Doughty, C., **Kremer, P.**, Canestrelli, A., Chambers, L., Chapman, S. K. (2025). Mangrove presence is associated with lower rates of coastal wetland loss at marsh-mangrove ecotone. *Estuaries and Coasts*.
+- **Kremer, P.**, Goldsmith, S. T., Berrios, L., Arnold, L. R. Total and bioaccessible metal concentrations in river flood sediment deposits in two urban communities following Hurricane Ida. *GeoHealth*.
+:::

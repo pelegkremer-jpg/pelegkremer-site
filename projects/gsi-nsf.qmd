@@ -1,0 +1,57 @@
+---
+title: "Green Stormwater Infrastructure: Community, Data, AI"
+pagetitle: "GSI · NSF SCC-IRG | Peleg Kremer"
+description: "NSF SCC-IRG Track 1 integrating community dynamics, environmental data, and AI for sustainable GSI."
+---
+
+::: {.project-meta}
+::: {}
+::: {.label}
+Funder
+:::
+NSF SCC-IRG · Track 1
+:::
+::: {}
+::: {.label}
+Period
+:::
+2024 to 2028
+:::
+::: {}
+::: {.label}
+My role
+:::
+Co-PI
+:::
+::: {}
+::: {.label}
+Team
+:::
+Smith (PI), Jiao, Wadzuk, Kremer, plus Cooney, Bartos, Coonfield, Wolfand, Poor
+:::
+:::
+
+![Incorporating community stormwater knowledge changes which neighborhoods are identified as flood-prone (Scolio et al. 2025, Environmental Research: Infrastructure and Sustainability).](../assets/projects/flood-community.jpg){fig-alt="Community-informed flood map"}
+
+## The question
+
+Green stormwater infrastructure (GSI) is increasingly central to municipal stormwater strategy, but its performance varies widely with site conditions, maintenance, and the social context in which it is embedded. How can cities integrate spatial data with AI and community knowledge to plan, evaluate, and improve GSI in ways that are both effective and equitable?
+
+## What this project does
+
+A team of civil engineers, computer engineers, geographers, and community partners working together on a community-integrated AI framework for GSI sustainability. My lab contributes the geospatial analysis and the integration of social and environmental data with the engineering and hydrologic models. The project builds on a prior NSF planning grant (2022–2023) and a CDS&E award on AI for sustainable and fair GSI (2022–2025).
+
+![GSI maintenance vulnerability across Philadelphia (Homet, Kremer, Smith, Strader 2022, Frontiers in Environmental Science).](../assets/projects/gsi-maintenance.jpg){fig-alt="Map of GSI maintenance vulnerability in Philadelphia"}
+
+## Key publications
+
+- Cook, L. M., Good, K. D., Moretti, M., Kremer, P., Wadzuk, B., Traver, R., Smith, V. (2024). Towards the intentional multifunctionality of urban green infrastructure: a paradox of choice? *npj Urban Sustainability*, 4(1). [DOI](https://doi.org/10.1038/s42949-024-00145-0)
+- Rahman, M., Smith, V. B., Kremer, P., Wadzuk, B. M., Jiao, X., Amur, A., Arabi, S. (2026). Incorporating artificial intelligence into the future of stormwater management. *Discover Water*.
+- Homet, K., Kremer, P., Smith, V., Strader, S. (2022). Multi-variable assessment of green stormwater infrastructure planning across a city landscape. *Frontiers in Environmental Science*, 10. [DOI](https://doi.org/10.3389/fenvs.2022.958704)
+- Scolio, M., Amur, A., Olson, E., Smith, V., Wadzuk, B., Homet, K., Devlin, E., Kremer, P. (2025). Reconceptualizing urban flood modeling: Toward intersectional and equitable urban flood risk planning. *Sustainable Cities and Society*, 130, 106578.
+- Scolio, M., Kremer, P., Smith, V., Amur, A., Wadzuk, B., Homet, K., Devlin, E., Al Mehedi, M. A., Moore, L. (2025). Delineating urban flooding when incorporating community stormwater knowledge. *Environmental Research: Infrastructure and Sustainability*, 5(1), 015008.
+- Al Mehedi, M. A., Smith, V., Kremer, P. (2025). A comparative analysis of urban and peri-urban flood identification using SAR imagery. *PLOS Water*, 4(9), e0000269.
+
+## Students currently working on this project
+
+Achira Amur · Madeline Scolio · Musfiqur Rahman · Charles Wildonger · Mac Sanders · Prottoy Roy

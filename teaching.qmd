@@ -1,0 +1,37 @@
+---
+title: "Teaching"
+pagetitle: "Teaching | Peleg Kremer"
+---
+
+::: {.lead}
+I teach undergraduate and graduate courses in Geographic Information Systems, urban sustainability, and the built environment. My approach is learning-centered and project-based, with most courses producing applied spatial analyses that connect to ongoing research or to community partners.
+:::
+
+## Regularly taught courses
+
+| Course | Title | Level |
+|:---|:---|:---|
+| GEV 4700 | Geographic Information Systems | Undergraduate |
+| GEV 3521 | GIS for Urban Sustainability | Undergraduate |
+| GEV 4301 | Topics: Google Earth Engine | Undergraduate / Graduate |
+| GEV 7041 | GIS for Environmental Systems | Graduate |
+| GEV 7040 | Introduction to GIS | Graduate |
+| GEV 7030 | Proposal Development | Graduate |
+| GEV 6005 | Senior Research Seminar | Undergraduate |
+| GEV 1002 | Geography of a Globalizing World | Undergraduate |
+
+## Other instruction
+
+- Independent studies and supervised research (15+ courses)
+- Senior thesis and master's thesis advising (see [Students](students.qmd))
+- Guest lectures across the Villanova curriculum, including GEV 7000 (Research Methods), the University Race and Justice course, and RES 4150 (Real Estate Development)
+
+## Recognition
+
+- **Outstanding Faculty Mentor Teaching Award**, Villanova University, 2023
+- **Learning-Centered Approach in Graduate Instruction of Spatial Techniques** development grant, Villanova, 2021-2022
+
+## Workshops organized
+
+- *Remote Sensing with Google Earth Engine*, Geography Awareness Week, Villanova, November 2024
+- *Pathways to Urban Sustainability: Challenges and Opportunities*, interactive AAG 2023 poster session, Denver
