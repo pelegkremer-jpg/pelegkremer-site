@@ -118,7 +118,7 @@ Research themes
 
 ::: {.theme-card}
 ::: {.funder-tag}
-Theme · STURLA
+STURLA
 :::
 ### [Urban structure and environmental conditions](projects/ues.qmd)
 How the three-dimensional structure of cities, the way buildings, vegetation, and pavement combine at the block scale, shapes the heat, air quality, and ecological processes residents experience.
@@ -126,7 +126,7 @@ How the three-dimensional structure of cities, the way buildings, vegetation, an
 
 ::: {.theme-card}
 ::: {.funder-tag}
-NSF SCC-IRG · CDS&E
+Green infrastructure
 :::
 ### [Green stormwater infrastructure](projects/gsi-nsf.qmd)
 Integrating spatial data with AI and community knowledge to plan, evaluate, and improve GSI in ways that are effective and equitable.
@@ -134,7 +134,7 @@ Integrating spatial data with AI and community knowledge to plan, evaluate, and 
 
 ::: {.theme-card}
 ::: {.funder-tag}
-NSF DISES
+Urban flooding
 :::
 ### [Mobility and nuisance flooding](projects/dises-nsf.qmd)
 How chronic, low-grade flooding restructures everyday mobility and access to opportunity in underserved communities.
@@ -142,7 +142,7 @@ How chronic, low-grade flooding restructures everyday mobility and access to opp
 
 ::: {.theme-card}
 ::: {.funder-tag}
-William Penn Foundation
+Community gardens
 :::
 ### [Philadelphia Garden Data Collaborative](projects/pgdc.qmd)
 A long-term partnership with civic organizations to protect community gardens through spatial data, monitoring, and policy translation.
