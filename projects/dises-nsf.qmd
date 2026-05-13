@@ -31,7 +31,7 @@ Ermagun & Xiong (Co-PIs), Smith, Kremer, Wadzuk (Supporting), Levy (Co-PI)
 :::
 :::
 
-![Integrated assessment of urban runoff, heat, and social vulnerability in Philadelphia (Marks et al. 2022, Journal of Water Resources Planning and Management).](../assets/projects/vulnerability-integrated.jpg){fig-alt="Integrated runoff, heat, and social vulnerability map"}
+![Citywide urban runoff modeling framework applied to Philadelphia (Hosseiny et al. 2020, *Water*).](../assets/projects/urban-runoff.jpg){fig-alt="Urban runoff modeling framework"}
 
 ## The question
 
