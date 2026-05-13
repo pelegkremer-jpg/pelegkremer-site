@@ -37,14 +37,6 @@ PI with Borowiak (Co-PI) · 2025 to 2027
 
 ::: {.theme-card}
 ::: {.funder-tag}
-NSF Global Centers · Track 2
-:::
-### Nature-based Urban Hydrology Center
-Supporting role with Wadzuk (PI), Smith, Chapman · 2024 to 2025
-:::
-
-::: {.theme-card}
-::: {.funder-tag}
 Ongoing
 :::
 ### [STURLA: Urban structure and ecosystem services](projects/ues.qmd)
