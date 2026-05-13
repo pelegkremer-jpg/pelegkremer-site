@@ -32,4 +32,34 @@ Working with students is one of the most rewarding parts of this job. Below are 
 ## Lab alumni · undergraduate
 
 - **Madeline Scolio** – Senior thesis, now lead author on multiple peer-reviewed papers including Scolio et al. 2024 (*Urban Climate*) and Scolio et al. 2025 (*Sustainable Cities and Society*; *Environmental Research: Infrastructure and Sustainability*).
-- **Kate Henderson** – Undergraduate honors thesis on niche modeling of tody birds in the Greater Antilles (Henderson et al. 2022, *Frontiers in Ecology and Evolution*).
+- **Kate Henderson** – Honors thesis on niche modeling of tody birds in the Greater Antilles (Henderson et al. 2022, *Frontiers in Ecology and Evolution*).
+- **Kenny Douyon** – Land security assessment of community gardens in Philadelphia.
+- **Rylie Fryberger** – Community garden closures in Philadelphia and the Philadelphia Community Gardens Survey.
+- **Anna Johnson** – Food swamps and obesity in Indianapolis.
+- **Gabi Manganello** – Flooding impacts of sea level rise on Long Beach Island, NJ.
+- **Mary Corrigan** – Green space and obesity prevalence in San Diego and Phoenix.
+- **Michael Donodeo** – Tourist demand for SEPTA stations during the 2026 World Cup.
+- **Cameron Lomerson** – Remote sensing of air pollution in the Philadelphia metro before and during the COVID-19 pandemic.
+- **Megan Gaughan** – Air pollution along a major urban artery.
+- **Olivia Pistella** – Park quality and environmental justice.
+- **Charlotte Bohra** – Air quality in Philadelphia from an environmental justice lens.
+- **Kaitlyn Smith** – Crime rates and temperature in Philadelphia.
+- **Marie Mullen** – Wind farm site suitability in Pennsylvania.
+- **Brent Jenkins** – Surface temperature and air temperature in a peri-urban environment.
+- **Miles Trumbull** – Site risk assessment for soil metals.
+- **Halina Takahashi** – Urban structure and ecosystem services.
+- **Beatriz De Jesus** – Sustainability perception assessment.
+- **George Kowalski** – Supermarket use and sociodemographic distribution.
+- **Kirsten Ahn** – Local flooding, heat, and health outcomes in Philadelphia.
+- **Rebecca McDonough** – Air pollution analysis in Philadelphia.
+- **Amira Temple** – Spatial distribution of the local food system in Philadelphia.
+- **Meghan Conway** – Social vulnerability and air pollution.
+- **Dang Phang** – Urban structure, surface temperature, and human wellbeing.
+- **Julie Greenwald** – Philadelphia's local food system through an environmental justice lens.
+- **Erik Mitz** – Urban structure and surface temperature in Philadelphia (Mitz et al. 2021, *Frontiers in Environmental Science*).
+- **Ashley Seyfried** – Urban form and greenspace distribution: a nationwide spatial-temporal study.
+- **Joe Dangler** – Morphological impacts of post-tropical cyclone Sandy on Long Beach, NY.
+- **Meghan McMahon** – Fine-scale analysis of Philadelphia air pollution.
+- **Alexandra Henninger** – Food production in urban farms.
+- **Rachel Walsh** – Spatial patterns in organic farming and farm tenure across the USA.
+- **Gavin Lewis** – Verification and analysis of community gardens in Philadelphia.
