@@ -41,7 +41,7 @@ Nuisance flooding (chronic, low-grade flooding from drainage failure, sea level 
 
 A Dynamics of Integrated Socio-Environmental Systems (DISES) award combining transportation engineering, civil engineering, geography, and community partners. My lab contributes the geospatial analysis of flood-mobility coupling and the equity framing that connects environmental exposure to mobility disruption. Field sites include Philadelphia neighborhoods with documented nuisance-flooding histories.
 
-![Urban runoff modeling component of the integrated framework (Marks et al. 2022).](../assets/projects/vulnerability-runoff.jpg){fig-alt="Urban runoff modeling result"}
+![Incorporating community stormwater knowledge changes which neighborhoods are identified as flood-prone (Scolio et al. 2025, Environmental Research: Infrastructure and Sustainability).](../assets/projects/flood-community.jpg){fig-alt="Community-informed flood map"}
 
 ## Key publications
 

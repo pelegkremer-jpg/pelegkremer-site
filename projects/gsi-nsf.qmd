@@ -31,8 +31,6 @@ Smith (PI), Jiao, Wadzuk, Kremer, plus Cooney, Bartos, Coonfield, Wolfand, Poor
 :::
 :::
 
-![Incorporating community stormwater knowledge changes which neighborhoods are identified as flood-prone (Scolio et al. 2025, Environmental Research: Infrastructure and Sustainability).](../assets/projects/flood-community.jpg){fig-alt="Community-informed flood map"}
-
 ## The question
 
 Green stormwater infrastructure (GSI) is increasingly central to municipal stormwater strategy, but its performance varies widely with site conditions, maintenance, and the social context in which it is embedded. How can cities integrate spatial data with AI and community knowledge to plan, evaluate, and improve GSI in ways that are both effective and equitable?
