@@ -10,8 +10,6 @@ The Philadelphia Garden Data Collaborative (PGDC) is a partnership between acade
 
 Philadelphia's 2023 Urban Agriculture Strategic Plan recognized PGDC as the authoritative data source for community gardens citywide, the first time garden data infrastructure was formally embedded in municipal planning.
 
-In my role with PGDC, I work with students to verify active garden locations, maintain a GIS database, and provide spatial analysis and maps for partner organizations. Recent applications include maps and analysis of gardens by community district for Philadelphia City Council hearings on urban agriculture.
-
 ## Why this work matters
 
 Philadelphia's community gardens face threats from development pressure, insecure land tenure, and policy neglect. The numbers:
