@@ -25,7 +25,6 @@ Working with students is one of the most rewarding parts of this job. Below are 
 
 - **Tefera Shibeshi** – Modeling of urban nuisance flooding.
 - **Musfiqur Rahman** – AI for green stormwater infrastructure.
-- **Abdullah Al Mehedi** – Surface water hydrology in built environments.
 
 ## Recent alumni
 
@@ -36,8 +35,12 @@ Working with students is one of the most rewarding parts of this job. Below are 
 - **Radley Reist** – Comparative analysis of urban structure and surface temperature.
 - **Charlotte Shade** – The use of green infrastructure and its effect on climate resilience in Philadelphia.
 
+### Dissertation committee member
+
+- **Abdullah Al Mehedi** – Surface water hydrology in built environments.
+
 ### Notable undergraduate research
 
 - **Madeline Scolio** – Senior thesis, now lead author on multiple peer-reviewed papers including Scolio et al. 2024 (*Urban Climate*) and Scolio et al. 2025 (*Sustainable Cities and Society*; *Environmental Research: Infrastructure and Sustainability*).
 - **Kate Henderson** – Undergraduate honors thesis on niche modeling of tody birds in the Greater Antilles (Henderson et al. 2022, *Frontiers in Ecology and Evolution*).
-- **Anna Koisewroski** – Senior thesis.
+- **Anna Koisewroski** – Honors thesis on redlining and the legacy of environmental degradation in Philadelphia and Pittsburgh.
