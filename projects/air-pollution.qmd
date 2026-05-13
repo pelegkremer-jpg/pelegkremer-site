@@ -1,0 +1,44 @@
+---
+title: "Urban Air Pollution"
+pagetitle: "Urban Air Pollution | Peleg Kremer"
+description: "Mobile monitoring and spatial analysis of urban air pollution in Philadelphia and across US cities."
+---
+
+::: {.project-meta}
+::: {}
+::: {.label}
+Program of work
+:::
+2016 to present
+:::
+::: {}
+::: {.label}
+My role
+:::
+Co-lead with Kabindra Shakya
+:::
+::: {}
+::: {.label}
+Key collaborator
+:::
+Kabindra Shakya (Villanova Chemistry)
+:::
+:::
+
+## The work
+
+Sustained collaboration with Dr. Kabindra Shakya in Villanova Chemistry on fine-scale spatial analysis of urban air pollution. The program combines mobile monitoring of air and noise pollution in Philadelphia neighborhoods with spatial analysis of pollution exposure, environmental-justice patterns, and built-environment drivers.
+
+Past student-led work has included citywide mobile monitoring (Kate Henderson, Samantha Bromberg, Meghan McMahon), land-use regression for nitrogen dioxide (Ben Terry), spatial modeling that links pollution to three-dimensional urban structure (Lucas Cummings), and environmental-justice mapping of intra-urban pollution disparities in Philadelphia (Madeline Scolio, Charlotte Bohra, Olivia Pistella). Current work by Emily Myers extends this to PM2.5 exposure and chronic disease across 500 US cities.
+
+## Key publications
+
+- Terry, B., Kremer, P., Goldsmith, S. T., Shakya, K. M. (2025). Land use regression model to predict nitrogen dioxide in the greater Philadelphia area. *Atmospheric Pollution Research*, 16(1), 102339. [DOI](https://doi.org/10.1016/j.apr.2024.102339)
+- Scolio, M., Bohra, C., Kremer, P., Shakya, K. M. (2024). Spatial analysis of intra-urban air pollution disparities through an environmental justice lens: a case study of Philadelphia, PA. *Atmosphere*, 15(7), 755. [DOI](https://doi.org/10.3390/atmos15070755)
+- Cummings, L. E., Stewart, J. D., Kremer, P., Shakya, K. (2022). Predicting citywide distribution of air pollution using mobile monitoring and three-dimensional urban structure. *Sustainable Cities and Society*, 76, 103510. [DOI](https://doi.org/10.1016/j.scs.2021.103510)
+- Cummings, L. E., Stewart, J. D., Reist, R., Shakya, K. M., Kremer, P. (2021). Mobile monitoring of air pollution reveals spatial and temporal variation in an urban landscape. *Frontiers in Built Environment*, 7. [DOI](https://doi.org/10.3389/fbuil.2021.648620)
+- Shakya, K. M., Kremer, P., Henderson, K., McMahon, M., Peltier, R. E., Bromberg, S., Stewart, J. (2019). Mobile monitoring of air and noise pollution in Philadelphia neighborhoods during summer 2017. *Environmental Pollution*, 255, 113195. [DOI](https://doi.org/10.1016/j.envpol.2019.113195)
+
+## Students currently working on this project
+
+Emily Myers

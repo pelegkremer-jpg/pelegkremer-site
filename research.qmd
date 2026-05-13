@@ -43,5 +43,13 @@ Ongoing
 Methodological and substantive work, including a current single-author global analysis (in review at *Urban Climate*).
 :::
 
+::: {.theme-card}
+::: {.funder-tag}
+Ongoing
+:::
+### [Urban air pollution](projects/air-pollution.qmd)
+Mobile monitoring and spatial analysis of urban air pollution in Philadelphia with Dr. Kabindra Shakya (Villanova Chemistry); current work by Emily Myers links PM2.5 exposure to chronic disease across 500 US cities.
+:::
+
 :::
 
