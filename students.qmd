@@ -19,10 +19,12 @@ Working with students is one of the most rewarding parts of this job. Below are 
 ## Current undergraduate students
 
 - **Anna Koisewroski** – Honors thesis on redlining and the legacy of environmental degradation in Philadelphia and Pittsburgh.
+- **Sophia Lemmons** – Philadelphia Garden Data Collaborative.
 
 ## Lab alumni · graduate
 
 - **Luis Berrios-Hyden** – Spatial distribution of AMF diversity and heavy metal soil concentrations as a function of urban structure in Philadelphia.
+- **Lucas Cummings** – Air pollution and urban structure in Philadelphia.
 - **Kate Homet** – Measuring the impacts of environmental, social, and maintenance variables on green stormwater infrastructure in Philadelphia.
 - **Radley Reist** – Comparative analysis of urban structure and surface temperature.
 - **Charlotte Shade** – The use of green infrastructure and its effect on climate resilience in Philadelphia.
