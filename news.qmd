@@ -11,7 +11,11 @@ Short, dated entries about new papers, talks, grants, and lab activity. Older it
 ## 2026
 
 ### Apr 2026 · AAG San Francisco
-Three Kremer-lab papers at the AAG annual meeting: PGDC garden security (Scolio, **Kremer**, Borowiak), PM2.5 and chronic disease across 500 US cities (Myers, **Kremer**, Zhang, Shakya, Henderson), and the global STURLA analysis (**Kremer**, Borowiak, Scolio).
+Three Kremer-lab papers at the AAG annual meeting:
+
+- *Cultivating Data: The Philadelphia Garden Data Collaborative's Approach to Urban Garden Preservation* (**Kremer**, Borowiak, Scolio).
+- *Measuring Community Garden Security: A Study of Philadelphia's Community Gardens* (Scolio, **Kremer**, Borowiak).
+- *An Exploration of the Intersection of PM2.5 Air Pollution, Social Vulnerability, and Chronic Disease Across 500 US Cities* (Myers, **Kremer**, Zhang, Shakya, Henderson).
 
 ### Mar 2026 · Ecological Informatics
 **Kremer, P., Weaver, D., Stewart, J. D.** (2026). Sensitivity of urban structure-temperature relationships to grid parameterization. *Ecological Informatics*, 93, 103587. [DOI](https://doi.org/10.1016/j.ecoinf.2025.103587)
