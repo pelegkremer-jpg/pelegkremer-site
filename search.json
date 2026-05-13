@@ -263,21 +263,42 @@
     "href": "projects/pgdc.html",
     "title": "Philadelphia Garden Data Collaborative",
     "section": "",
-    "text": "The Philadelphia Garden Data Collaborative (PGDC) is a partnership between academics and Philadelphia civic organizations, ongoing since 2015, to:\n\nGenerate and maintain an authoritative spatial dataset of currently active community gardens in Philadelphia.\nKeep that dataset current and accurate through field verification and remote sensing.\nUse it to promote and protect public access to open and green spaces in Philadelphia.\n\nIn my role with PGDC, I work with students to verify active garden locations, maintain a GIS database, and provide spatial analysis and maps as required by partners. Recent applications include maps and analysis of gardens by community district for hearings in the Philadelphia City Council on urban agriculture, and identification of active gardens located on tax-delinquent parcels at risk of loss through sheriff sales."
+    "text": "The Philadelphia Garden Data Collaborative (PGDC) is a partnership between academics and Philadelphia civic organizations, founded in 2014 to fill a persistent data gap. Partial records of community gardens existed across multiple organizations, but each was incomplete and held in isolation. PGDC’s first task was collating these disparate datasets into Philadelphia’s first unified, parcel-level garden database. Today PGDC documents 556 gardens across 1,421 parcels, spanning ten garden types (community, school, church, individual, market farm, orchard, and more).\nPhiladelphia’s 2023 Urban Agriculture Strategic Plan recognized PGDC as the authoritative data source for community gardens citywide, the first time garden data infrastructure was formally embedded in municipal planning.\nIn my role with PGDC, I work with students to verify active garden locations, maintain a GIS database, and provide spatial analysis and maps for partner organizations. Recent applications include maps and analysis of gardens by community district for Philadelphia City Council hearings on urban agriculture."
   },
   {
     "objectID": "projects/pgdc.html#about-pgdc",
     "href": "projects/pgdc.html#about-pgdc",
     "title": "Philadelphia Garden Data Collaborative",
     "section": "",
-    "text": "The Philadelphia Garden Data Collaborative (PGDC) is a partnership between academics and Philadelphia civic organizations, ongoing since 2015, to:\n\nGenerate and maintain an authoritative spatial dataset of currently active community gardens in Philadelphia.\nKeep that dataset current and accurate through field verification and remote sensing.\nUse it to promote and protect public access to open and green spaces in Philadelphia.\n\nIn my role with PGDC, I work with students to verify active garden locations, maintain a GIS database, and provide spatial analysis and maps as required by partners. Recent applications include maps and analysis of gardens by community district for hearings in the Philadelphia City Council on urban agriculture, and identification of active gardens located on tax-delinquent parcels at risk of loss through sheriff sales."
+    "text": "The Philadelphia Garden Data Collaborative (PGDC) is a partnership between academics and Philadelphia civic organizations, founded in 2014 to fill a persistent data gap. Partial records of community gardens existed across multiple organizations, but each was incomplete and held in isolation. PGDC’s first task was collating these disparate datasets into Philadelphia’s first unified, parcel-level garden database. Today PGDC documents 556 gardens across 1,421 parcels, spanning ten garden types (community, school, church, individual, market farm, orchard, and more).\nPhiladelphia’s 2023 Urban Agriculture Strategic Plan recognized PGDC as the authoritative data source for community gardens citywide, the first time garden data infrastructure was formally embedded in municipal planning.\nIn my role with PGDC, I work with students to verify active garden locations, maintain a GIS database, and provide spatial analysis and maps for partner organizations. Recent applications include maps and analysis of gardens by community district for Philadelphia City Council hearings on urban agriculture."
+  },
+  {
+    "objectID": "projects/pgdc.html#why-this-work-matters",
+    "href": "projects/pgdc.html#why-this-work-matters",
+    "title": "Philadelphia Garden Data Collaborative",
+    "section": "Why this work matters",
+    "text": "Why this work matters\nPhiladelphia’s community gardens face threats from development pressure, insecure land tenure, and policy neglect. The numbers:\n\n61.7% of garden parcels have insecure tenure.\n~140 gardens lost since 2008, including 49 in the past five years.\n209 sites (41%) face active gentrification pressure.\n\nGardens face a double threat: gentrification displaces gardens in rising markets, while disinvestment leads to abandonment in declining ones."
+  },
+  {
+    "objectID": "projects/pgdc.html#the-sheriff-sale-monitoring-system",
+    "href": "projects/pgdc.html#the-sheriff-sale-monitoring-system",
+    "title": "Philadelphia Garden Data Collaborative",
+    "section": "The sheriff sale monitoring system",
+    "text": "The sheriff sale monitoring system\nIn July 2024, PGDC launched a weekly automated monitoring system that cross-references Philadelphia’s list of properties scheduled for tax-lien auction against the PGDC database of garden parcel locations. For the first time, garden advocates can intervene before a garden is lost, not after.\n20+ garden parcels saved from sheriff sale since launch. 90% of sheriff-sold properties since July 2019 were in areas at or below the poverty line, so the system also prioritizes protection where it is most urgently needed."
+  },
+  {
+    "objectID": "projects/pgdc.html#partners",
+    "href": "projects/pgdc.html#partners",
+    "title": "Philadelphia Garden Data Collaborative",
+    "section": "Partners",
+    "text": "Partners\n\nGarden Justice Legal Initiative uses law, organizing, and policy advocacy to help Philadelphia gardeners and farmers secure land access and resist displacement in historically disinvested communities.\nNeighborhood Gardens Trust is Philadelphia’s primary land trust for garden preservation, acquiring and protecting sites permanently.\nPennsylvania Horticultural Society brings deep gardener relationships and neighborhood greening programs across the city, in operation since 1827.\nSoil Generation is a Black- and Brown-led land and food sovereignty collective that ensures community voice drives PGDC data governance.\nDr. Craig Borowiak (Haverford College) and Dr. Peleg Kremer (Villanova University) are PGDC’s academic partners, leading data-collection protocols, database design and development, and spatial analysis."
   },
   {
     "objectID": "projects/pgdc.html#current-work",
     "href": "projects/pgdc.html#current-work",
     "title": "Philadelphia Garden Data Collaborative",
     "section": "Current work",
-    "text": "Current work\n“Beyond Land Precarity” (2025–2027), with support from the William Penn Foundation, extends PGDC’s empirical and policy work into the construction of an active garden database and a public platform that growers, civic organizations, and city agencies can use."
+    "text": "Current work\n“Beyond Land Precarity” (2025–2027), with support from the William Penn Foundation and the PhilaChange Foundation, extends PGDC’s empirical and policy work into the construction of an active garden database and a public platform that growers, civic organizations, and city agencies can use."
   },
   {
     "objectID": "projects/pgdc.html#key-publications-and-outputs",
@@ -298,7 +319,7 @@
     "href": "projects/pgdc.html#project-details",
     "title": "Philadelphia Garden Data Collaborative",
     "section": "Project details",
-    "text": "Project details\n\n\n\nPartnership active\n\n2015 to present\n\n\n\nMy role\n\nCo-PI on current grant; long-standing PGDC partner since 2015\n\n\n\nAcademic co-PI\n\nCraig Borowiak (Haverford, Political Science)\n\n\n\nCivic partners\n\nGarden Justice Legal Initiative · Pennsylvania Horticultural Society · Neighborhood Gardens Trust · Soil Generation\n\n\n\nCurrent support\n\nWilliam Penn Foundation, “Beyond Land Precarity” (2025 to 2027)"
+    "text": "Project details\n\n\n\nPartnership active\n\n2014 to present\n\n\n\nMy role\n\nAcademic partner since 2014; Co-PI on current grant\n\n\n\nAcademic co-PI\n\nCraig Borowiak (Haverford, Political Science)\n\n\n\nCurrent support\n\nWilliam Penn Foundation and PhilaChange Foundation, “Beyond Land Precarity” (2025 to 2027)"
   },
   {
     "objectID": "projects/ues.html",
