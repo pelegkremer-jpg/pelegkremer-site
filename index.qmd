@@ -85,27 +85,27 @@ What is new
 - ::: {.date}
   2026 · Apr
   :::
-  Three Kremer-lab papers at the AAG annual meeting in San Francisco: PGDC garden security, PM2.5 and chronic disease across 500 US cities, and the global STURLA analysis.
+  Three Kremer-lab papers at the AAG annual meeting in San Francisco: [PGDC garden security](projects/pgdc.qmd), PM2.5 and chronic disease across 500 US cities, and the [global STURLA analysis](projects/ues.qmd).
 
 - ::: {.date}
   2026 · Mar
   :::
-  *Sensitivity of urban structure-temperature relationships to grid parameterization* out in **Ecological Informatics** with Dennis Weaver and Justin Stewart.
+  [*Sensitivity of urban structure-temperature relationships to grid parameterization*](https://doi.org/10.1016/j.ecoinf.2025.103587) out in **Ecological Informatics** with Dennis Weaver and Justin Stewart.
 
 - ::: {.date}
   2025 · Oct
   :::
-  WPF Webinar with Craig Borowiak: *Roots at Risk: How Secure are Philadelphia Urban Gardens?*
+  WPF Webinar with Craig Borowiak: [*Roots at Risk: How Secure are Philadelphia Urban Gardens?*](https://vimeo.com/1129186476)
 
 - ::: {.date}
   2025 · Jul
   :::
-  Began as Associate Editor of **Sustainable Cities and Society**.
+  Began as Associate Editor of [**Sustainable Cities and Society**](https://www.sciencedirect.com/journal/sustainable-cities-and-society).
 
 - ::: {.date}
   2024 · Dec
   :::
-  *Unequal access to social, environmental and health amenities in US urban parks* published in **Nature Cities** (Winkler, Clark, Locke, Kremer et al.).
+  [*Unequal access to social, environmental and health amenities in US urban parks*](https://doi.org/10.1038/s44284-024-00153-2) published in **Nature Cities** (Winkler, Clark, Locke, Kremer et al.).
 :::
 
 [See all news](news.qmd){.btn-quiet .outline}
