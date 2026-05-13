@@ -29,7 +29,7 @@ Co-PI with Ermagun and Xiong (PIs), Smith, Wadzuk · 2024 to 2028
 
 ::: {.theme-card}
 ::: {.funder-tag}
-William Penn Foundation
+Philadelphia Garden Data Collaborative
 :::
 ### [Beyond Land Precarity: Philadelphia Garden Database and Platform](projects/pgdc.qmd)
 PI with Borowiak (Co-PI) · 2025 to 2027
