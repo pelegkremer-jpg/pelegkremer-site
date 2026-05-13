@@ -189,39 +189,32 @@
     "text": "Data and code\nWinkler, R. L., Clark, J. A. G., Locke, D. H., Kremer, P., Aronson, M. F. J., Hoover, F.-A., Joo, H. E., La Rosa, D., Lee, K. J., Lerman, S. B., Pearsall, H., Vargo, T. L. V., Nilon, C. H., Lepczyk, C. A. (2025). Data and code for analyzing unequal access to social, environmental, and health amenities in United States urban parks. Forest Service Research Data Archive. USDA Forest Service. DOI"
   },
   {
-    "objectID": "projects/dises-nsf.html",
-    "href": "projects/dises-nsf.html",
-    "title": "Mobility Equity Gaps and Nuisance Flooding",
+    "objectID": "projects/air-pollution.html",
+    "href": "projects/air-pollution.html",
+    "title": "Urban Air Pollution",
     "section": "",
-    "text": "Funder\n\nNSF DISES\n\n\n\nPeriod\n\n2024 to 2028\n\n\n\nMy role\n\nCo-PI\n\n\n\nTeam\n\nErmagun & Xiong (Co-PIs), Smith, Kremer, Wadzuk (Supporting), Levy (Co-PI)"
+    "text": "Program of work\n\n2016 to present\n\n\n\nMy role\n\nCo-lead with Kabindra Shakya\n\n\n\nKey collaborator\n\nKabindra Shakya (Villanova Chemistry)"
   },
   {
-    "objectID": "projects/dises-nsf.html#the-question",
-    "href": "projects/dises-nsf.html#the-question",
-    "title": "Mobility Equity Gaps and Nuisance Flooding",
-    "section": "The question",
-    "text": "The question\nNuisance flooding (chronic, low-grade flooding from drainage failure, sea level rise, and intense precipitation) is increasingly common in US cities, but its everyday consequences for the people who live with it are poorly understood. How does this kind of flooding restructure mobility, access to opportunity, and exposure to risk in underserved communities, and how can transportation and stormwater planning be reoriented to close those gaps?"
+    "objectID": "projects/air-pollution.html#the-work",
+    "href": "projects/air-pollution.html#the-work",
+    "title": "Urban Air Pollution",
+    "section": "The work",
+    "text": "The work\nSustained collaboration with Dr. Kabindra Shakya in Villanova Chemistry on fine-scale spatial analysis of urban air pollution. The program combines mobile monitoring of air and noise pollution in Philadelphia neighborhoods with spatial analysis of pollution exposure, environmental-justice patterns, and built-environment drivers.\nPast student-led work has included citywide mobile monitoring (Kate Henderson, Samantha Bromberg, Meghan McMahon), land-use regression for nitrogen dioxide (Ben Terry), spatial modeling that links pollution to three-dimensional urban structure (Lucas Cummings), and environmental-justice mapping of intra-urban pollution disparities in Philadelphia (Madeline Scolio, Charlotte Bohra, Olivia Pistella). Current work by Emily Myers extends this to PM2.5 exposure and chronic disease across 500 US cities."
   },
   {
-    "objectID": "projects/dises-nsf.html#what-this-project-does",
-    "href": "projects/dises-nsf.html#what-this-project-does",
-    "title": "Mobility Equity Gaps and Nuisance Flooding",
-    "section": "What this project does",
-    "text": "What this project does\nA Dynamics of Integrated Socio-Environmental Systems (DISES) award combining transportation engineering, civil engineering, geography, and community partners. My lab contributes the geospatial analysis of flood-mobility coupling and the equity framing that connects environmental exposure to mobility disruption. Field sites include Philadelphia neighborhoods with documented nuisance-flooding histories.\n\n\n\nIncorporating community stormwater knowledge changes which neighborhoods are identified as flood-prone (Scolio et al. 2025, Environmental Research: Infrastructure and Sustainability)."
-  },
-  {
-    "objectID": "projects/dises-nsf.html#key-publications",
-    "href": "projects/dises-nsf.html#key-publications",
-    "title": "Mobility Equity Gaps and Nuisance Flooding",
+    "objectID": "projects/air-pollution.html#key-publications",
+    "href": "projects/air-pollution.html#key-publications",
+    "title": "Urban Air Pollution",
     "section": "Key publications",
-    "text": "Key publications\n\nErmagun, A., Janatabadi, F., Safarloo, Z., Kremer, P., Lindley, S. (2026). Urban flooding restructures mobility through coupled behavioral and network disruption: a systematic review of evidence. Sustainable Cities and Society, 107285.\nMarks, N. K., Hosseiny, H., Bill, V. P., Ahn, K. L., Crimmins, M. C., Kremer, P., Smith, V. B. (2022). Spatial integration of urban runoff modeling, heat, and social vulnerability for blue-green infrastructure planning and management. Journal of Water Resources Planning and Management, 148(11).\nHosseiny, H., Crimmins, M., Smith, V. B., Kremer, P. (2020). A generalized automated framework for urban runoff modeling and its application at a citywide landscape. Water, 12(2), 357. DOI"
+    "text": "Key publications\n\nTerry, B., Kremer, P., Goldsmith, S. T., Shakya, K. M. (2025). Land use regression model to predict nitrogen dioxide in the greater Philadelphia area. Atmospheric Pollution Research, 16(1), 102339. DOI\nScolio, M., Bohra, C., Kremer, P., Shakya, K. M. (2024). Spatial analysis of intra-urban air pollution disparities through an environmental justice lens: a case study of Philadelphia, PA. Atmosphere, 15(7), 755. DOI\nCummings, L. E., Stewart, J. D., Kremer, P., Shakya, K. (2022). Predicting citywide distribution of air pollution using mobile monitoring and three-dimensional urban structure. Sustainable Cities and Society, 76, 103510. DOI\nCummings, L. E., Stewart, J. D., Reist, R., Shakya, K. M., Kremer, P. (2021). Mobile monitoring of air pollution reveals spatial and temporal variation in an urban landscape. Frontiers in Built Environment, 7. DOI\nShakya, K. M., Kremer, P., Henderson, K., McMahon, M., Peltier, R. E., Bromberg, S., Stewart, J. (2019). Mobile monitoring of air and noise pollution in Philadelphia neighborhoods during summer 2017. Environmental Pollution, 255, 113195. DOI"
   },
   {
-    "objectID": "projects/dises-nsf.html#students-currently-working-on-this-project",
-    "href": "projects/dises-nsf.html#students-currently-working-on-this-project",
-    "title": "Mobility Equity Gaps and Nuisance Flooding",
+    "objectID": "projects/air-pollution.html#students-currently-working-on-this-project",
+    "href": "projects/air-pollution.html#students-currently-working-on-this-project",
+    "title": "Urban Air Pollution",
     "section": "Students currently working on this project",
-    "text": "Students currently working on this project\nTefera Shibeshi · Prottoy Roy"
+    "text": "Students currently working on this project\nEmily Myers"
   },
   {
     "objectID": "projects/gsi-nsf.html",
@@ -257,6 +250,41 @@
     "title": "Green Stormwater Infrastructure: Community, Data, AI",
     "section": "Students currently working on this project",
     "text": "Students currently working on this project\nAchira Amur · Madeline Scolio · Musfiqur Rahman · Charles Wildonger · Mac Sanders · Prottoy Roy"
+  },
+  {
+    "objectID": "projects/dises-nsf.html",
+    "href": "projects/dises-nsf.html",
+    "title": "Mobility Equity Gaps and Nuisance Flooding",
+    "section": "",
+    "text": "Funder\n\nNSF DISES\n\n\n\nPeriod\n\n2024 to 2028\n\n\n\nMy role\n\nCo-PI\n\n\n\nTeam\n\nErmagun & Xiong (Co-PIs), Smith, Kremer, Wadzuk (Supporting), Levy (Co-PI)"
+  },
+  {
+    "objectID": "projects/dises-nsf.html#the-question",
+    "href": "projects/dises-nsf.html#the-question",
+    "title": "Mobility Equity Gaps and Nuisance Flooding",
+    "section": "The question",
+    "text": "The question\nNuisance flooding (chronic, low-grade flooding from drainage failure, sea level rise, and intense precipitation) is increasingly common in US cities, but its everyday consequences for the people who live with it are poorly understood. How does this kind of flooding restructure mobility, access to opportunity, and exposure to risk in underserved communities, and how can transportation and stormwater planning be reoriented to close those gaps?"
+  },
+  {
+    "objectID": "projects/dises-nsf.html#what-this-project-does",
+    "href": "projects/dises-nsf.html#what-this-project-does",
+    "title": "Mobility Equity Gaps and Nuisance Flooding",
+    "section": "What this project does",
+    "text": "What this project does\nA Dynamics of Integrated Socio-Environmental Systems (DISES) award combining transportation engineering, civil engineering, geography, and community partners. My lab contributes the geospatial analysis of flood-mobility coupling and the equity framing that connects environmental exposure to mobility disruption. Field sites include Philadelphia neighborhoods with documented nuisance-flooding histories.\n\n\n\nIncorporating community stormwater knowledge changes which neighborhoods are identified as flood-prone (Scolio et al. 2025, Environmental Research: Infrastructure and Sustainability)."
+  },
+  {
+    "objectID": "projects/dises-nsf.html#key-publications",
+    "href": "projects/dises-nsf.html#key-publications",
+    "title": "Mobility Equity Gaps and Nuisance Flooding",
+    "section": "Key publications",
+    "text": "Key publications\n\nErmagun, A., Janatabadi, F., Safarloo, Z., Kremer, P., Lindley, S. (2026). Urban flooding restructures mobility through coupled behavioral and network disruption: a systematic review of evidence. Sustainable Cities and Society, 107285.\nMarks, N. K., Hosseiny, H., Bill, V. P., Ahn, K. L., Crimmins, M. C., Kremer, P., Smith, V. B. (2022). Spatial integration of urban runoff modeling, heat, and social vulnerability for blue-green infrastructure planning and management. Journal of Water Resources Planning and Management, 148(11).\nHosseiny, H., Crimmins, M., Smith, V. B., Kremer, P. (2020). A generalized automated framework for urban runoff modeling and its application at a citywide landscape. Water, 12(2), 357. DOI"
+  },
+  {
+    "objectID": "projects/dises-nsf.html#students-currently-working-on-this-project",
+    "href": "projects/dises-nsf.html#students-currently-working-on-this-project",
+    "title": "Mobility Equity Gaps and Nuisance Flooding",
+    "section": "Students currently working on this project",
+    "text": "Students currently working on this project\nTefera Shibeshi · Prottoy Roy"
   },
   {
     "objectID": "projects/pgdc.html",
@@ -438,7 +466,7 @@
     "href": "research.html#active-projects",
     "title": "Research",
     "section": "Active projects",
-    "text": "Active projects\n\n\n\nNSF SCC-IRG · Track 1\n\n\nIntegrating Community Dynamics, Environmental Data, and AI to Advance GSI Sustainability\nCo-PI with Smith (PI), Jiao, Wadzuk · 2024 to 2028\n\n\n\n\nNSF DISES\n\n\nAbating Mobility Equity Gaps Induced by Nuisance Flooding\nCo-PI with Ermagun and Xiong (PIs), Smith, Wadzuk · 2024 to 2028\n\n\n\n\nPhiladelphia Garden Data Collaborative\n\n\nBeyond Land Precarity: Philadelphia Garden Database and Platform\nPI with Borowiak (Co-PI) · 2025 to 2027\n\n\n\n\nOngoing\n\n\nSTURLA: Urban structure and ecosystem services\nMethodological and substantive work, including a current single-author global analysis (in review at Urban Climate)."
+    "text": "Active projects\n\n\n\nNSF SCC-IRG · Track 1\n\n\nIntegrating Community Dynamics, Environmental Data, and AI to Advance GSI Sustainability\nCo-PI with Smith (PI), Jiao, Wadzuk · 2024 to 2028\n\n\n\n\nNSF DISES\n\n\nAbating Mobility Equity Gaps Induced by Nuisance Flooding\nCo-PI with Ermagun and Xiong (PIs), Smith, Wadzuk · 2024 to 2028\n\n\n\n\nPhiladelphia Garden Data Collaborative\n\n\nBeyond Land Precarity: Philadelphia Garden Database and Platform\nPI with Borowiak (Co-PI) · 2025 to 2027\n\n\n\n\nOngoing\n\n\nSTURLA: Urban structure and ecosystem services\nMethodological and substantive work, including a current single-author global analysis (in review at Urban Climate).\n\n\n\n\nOngoing\n\n\nUrban air pollution\nMobile monitoring and spatial analysis of urban air pollution in Philadelphia with Dr. Kabindra Shakya (Villanova Chemistry); current work by Emily Myers links PM2.5 exposure to chronic disease across 500 US cities."
   },
   {
     "objectID": "about.html",
