@@ -187,12 +187,26 @@ hr { border: 0; border-top: 1px solid $rule; margin: 2.5rem 0; }
   background: white;
   border: 1px solid $rule;
   border-radius: 4px;
-  padding: 1.5rem;
+  padding: 1.5rem 1.5rem 2.8rem 1.5rem;
+  position: relative;
   transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+.theme-card::after {
+  content: "\2192";
+  position: absolute;
+  bottom: 0.9rem;
+  right: 1.2rem;
+  font-size: 1.4rem;
+  line-height: 1;
+  color: $terra;
+  transition: transform 0.15s ease;
 }
 .theme-card:hover {
   transform: translateY(-2px);
   box-shadow: 0 6px 20px rgba(31, 53, 40, 0.08);
+}
+.theme-card:hover::after {
+  transform: translateX(4px);
 }
 .theme-card h3 {
   margin-top: 0;

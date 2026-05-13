@@ -6,8 +6,6 @@ toc: false
 page-layout: full
 ---
 
-![](assets/hero.jpg){.site-banner fig-alt="Banner image"}
-
 ::: {.hero}
 
 ::: {.hero-text}
