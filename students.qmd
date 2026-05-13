@@ -8,39 +8,29 @@ description: "Current and former graduate and undergraduate researchers."
 Working with students is one of the most rewarding parts of this job. Below are current advisees and alumni, with brief project descriptions. If you are a prospective student interested in spatial analysis of urban systems, please be in touch.
 :::
 
-## Current students
-
-### Master's thesis chair
+## Current graduate students
 
 - **Charles Wildonger** – Heavy metal contamination and transport in green stormwater infrastructure.
 - **Mac Sanders** – Observational analysis of human activity, physical conditions, and social context around GSI sites in Kensington, Philadelphia.
 - **Prottoy Roy** – Spatiotemporal modeling of nuisance flood risk: a critical review of urban-scale approaches.
 - **Emily Myers** – Relating air pollution, social vulnerability and health outcomes in 500 US cities.
-
-### Master's thesis committee member
-
 - **Nick Salantiri** – Land use/land cover impacts on freshwater salinization syndrome in two suburban headwater streams.
-
-### Dissertation committee member
-
 - **Tefera Shibeshi** – Modeling of urban nuisance flooding.
 - **Musfiqur Rahman** – AI for green stormwater infrastructure.
 
-## Recent alumni
+## Current undergraduate students
 
-### Master's thesis chair
+- **Anna Koisewroski** – Honors thesis on redlining and the legacy of environmental degradation in Philadelphia and Pittsburgh.
 
+## Lab alumni · graduate
+
+- **Abdullah Al Mehedi** – Surface water hydrology in built environments.
 - **Luis Berrios-Hyden** – Spatial distribution of AMF diversity and heavy metal soil concentrations as a function of urban structure in Philadelphia.
 - **Kate Homet** – Measuring the impacts of environmental, social, and maintenance variables on green stormwater infrastructure in Philadelphia.
 - **Radley Reist** – Comparative analysis of urban structure and surface temperature.
 - **Charlotte Shade** – The use of green infrastructure and its effect on climate resilience in Philadelphia.
 
-### Dissertation committee member
-
-- **Abdullah Al Mehedi** – Surface water hydrology in built environments.
-
-### Notable undergraduate research
+## Lab alumni · undergraduate
 
 - **Madeline Scolio** – Senior thesis, now lead author on multiple peer-reviewed papers including Scolio et al. 2024 (*Urban Climate*) and Scolio et al. 2025 (*Sustainable Cities and Society*; *Environmental Research: Infrastructure and Sustainability*).
 - **Kate Henderson** – Undergraduate honors thesis on niche modeling of tody birds in the Greater Antilles (Henderson et al. 2022, *Frontiers in Ecology and Evolution*).
-- **Anna Koisewroski** – Honors thesis on redlining and the legacy of environmental degradation in Philadelphia and Pittsburgh.
