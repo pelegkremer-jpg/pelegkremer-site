@@ -307,6 +307,55 @@ hr { border: 0; border-top: 1px solid $rule; margin: 2.5rem 0; }
   font-size: 0.9rem;
 }
 
+// Vertical timeline (used on PGDC page; reusable elsewhere)
+.timeline {
+  position: relative;
+  margin: 1.5rem 0 2rem;
+  padding-left: 1.8rem;
+}
+.timeline::before {
+  content: "";
+  position: absolute;
+  left: 0.45rem;
+  top: 0.25rem;
+  bottom: 0.25rem;
+  width: 2px;
+  background: $forest;
+}
+.timeline-event {
+  position: relative;
+  margin-bottom: 1.3rem;
+  padding-left: 0.5rem;
+}
+.timeline-event::before {
+  content: "";
+  position: absolute;
+  left: -1.7rem;
+  top: 0.4rem;
+  width: 12px;
+  height: 12px;
+  background: $paper;
+  border: 2px solid $terra;
+  border-radius: 50%;
+  box-sizing: border-box;
+}
+.timeline-event-highlight::before {
+  background: $terra;
+}
+.timeline-year {
+  font-family: $font-family-serif;
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: $forest-dark;
+  margin-bottom: 0.15rem;
+  font-variant-numeric: tabular-nums;
+}
+.timeline-text {
+  font-size: 0.95rem;
+  color: $ink;
+  line-height: 1.45;
+}
+
 // Figures inside content: cap size so they don't overwhelm the layout
 figure {
   margin: 1.5rem auto;

@@ -10,6 +10,84 @@ The Philadelphia Garden Data Collaborative (PGDC) is a partnership between acade
 
 Philadelphia's 2023 Urban Agriculture Strategic Plan recognized PGDC as the authoritative data source for community gardens citywide, the first time garden data infrastructure was formally embedded in municipal planning.
 
+## A decade of community-engaged garden data
+
+::: {.timeline}
+
+::: {.timeline-event}
+::: {.timeline-year}
+2014
+:::
+::: {.timeline-text}
+Founding members begin collaboration on Philadelphia garden data.
+:::
+:::
+
+::: {.timeline-event}
+::: {.timeline-year}
+2015–2016
+:::
+::: {.timeline-text}
+Disparate datasets from PHS, NGT, and prior surveys collated into Philadelphia's first unified garden database.
+:::
+:::
+
+::: {.timeline-event}
+::: {.timeline-year}
+2016
+:::
+::: {.timeline-text}
+Garden database supports analysis for an urban agriculture hearing at Philadelphia City Council.
+:::
+:::
+
+::: {.timeline-event}
+::: {.timeline-year}
+2019
+:::
+::: {.timeline-text}
+PGDC officially formed; second iteration of the garden database developed for Philadelphia's Urban Ag Plan.
+:::
+:::
+
+::: {.timeline-event}
+::: {.timeline-year}
+2021
+:::
+::: {.timeline-text}
+Analysis of garden parcels with US Bank liens and tax delinquency to support lien-based preservation advocacy.
+:::
+:::
+
+::: {.timeline-event}
+::: {.timeline-year}
+2022
+:::
+::: {.timeline-text}
+Garden and parcel dataset restructured and expanded.
+:::
+:::
+
+::: {.timeline-event .timeline-event-highlight}
+::: {.timeline-year}
+2024
+:::
+::: {.timeline-text}
+Full field validation of all gardens and parcels; security index and gentrification analysis completed. Sheriff sale monitoring system launched.
+:::
+:::
+
+::: {.timeline-event .timeline-event-highlight}
+::: {.timeline-year}
+2025 to now
+:::
+::: {.timeline-text}
+Funding secured to develop the database into a platform for the urban agriculture community; ongoing analysis and outreach.
+:::
+:::
+
+:::
+
 ## Why this work matters
 
 Philadelphia's community gardens face threats from development pressure, insecure land tenure, and policy neglect. The numbers:
