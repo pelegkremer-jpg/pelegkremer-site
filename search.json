@@ -91,18 +91,32 @@
     "text": "Working with students is one of the most rewarding parts of this job. Below are current advisees and alumni, with brief project descriptions. If you are a prospective student interested in spatial analysis of urban systems, please be in touch."
   },
   {
-    "objectID": "students.html#current-students",
-    "href": "students.html#current-students",
+    "objectID": "students.html#current-graduate-students",
+    "href": "students.html#current-graduate-students",
     "title": "Students",
-    "section": "Current students",
-    "text": "Current students\n\nMaster’s thesis chair\n\nCharles Wildonger – Heavy metal contamination and transport in green stormwater infrastructure.\nMac Sanders – Observational analysis of human activity, physical conditions, and social context around GSI sites in Kensington, Philadelphia.\nProttoy Roy – Spatiotemporal modeling of nuisance flood risk: a critical review of urban-scale approaches.\nEmily Myers – Relating air pollution, social vulnerability and health outcomes in 500 US cities.\n\n\n\nMaster’s thesis committee member\n\nNick Salantiri – Land use/land cover impacts on freshwater salinization syndrome in two suburban headwater streams.\n\n\n\nDissertation committee member\n\nTefera Shibeshi – Modeling of urban nuisance flooding.\nMusfiqur Rahman – AI for green stormwater infrastructure."
+    "section": "Current graduate students",
+    "text": "Current graduate students\n\nCharles Wildonger – Heavy metal contamination and transport in green stormwater infrastructure.\nMac Sanders – Observational analysis of human activity, physical conditions, and social context around GSI sites in Kensington, Philadelphia.\nProttoy Roy – Spatiotemporal modeling of nuisance flood risk: a critical review of urban-scale approaches.\nEmily Myers – Relating air pollution, social vulnerability and health outcomes in 500 US cities.\nNick Salantiri – Land use/land cover impacts on freshwater salinization syndrome in two suburban headwater streams.\nTefera Shibeshi – Modeling of urban nuisance flooding.\nMusfiqur Rahman – AI for green stormwater infrastructure."
   },
   {
-    "objectID": "students.html#recent-alumni",
-    "href": "students.html#recent-alumni",
+    "objectID": "students.html#current-undergraduate-students",
+    "href": "students.html#current-undergraduate-students",
     "title": "Students",
-    "section": "Recent alumni",
-    "text": "Recent alumni\n\nMaster’s thesis chair\n\nLuis Berrios-Hyden – Spatial distribution of AMF diversity and heavy metal soil concentrations as a function of urban structure in Philadelphia.\nKate Homet – Measuring the impacts of environmental, social, and maintenance variables on green stormwater infrastructure in Philadelphia.\nRadley Reist – Comparative analysis of urban structure and surface temperature.\nCharlotte Shade – The use of green infrastructure and its effect on climate resilience in Philadelphia.\n\n\n\nDissertation committee member\n\nAbdullah Al Mehedi – Surface water hydrology in built environments.\n\n\n\nNotable undergraduate research\n\nMadeline Scolio – Senior thesis, now lead author on multiple peer-reviewed papers including Scolio et al. 2024 (Urban Climate) and Scolio et al. 2025 (Sustainable Cities and Society; Environmental Research: Infrastructure and Sustainability).\nKate Henderson – Undergraduate honors thesis on niche modeling of tody birds in the Greater Antilles (Henderson et al. 2022, Frontiers in Ecology and Evolution).\nAnna Koisewroski – Honors thesis on redlining and the legacy of environmental degradation in Philadelphia and Pittsburgh."
+    "section": "Current undergraduate students",
+    "text": "Current undergraduate students\n\nAnna Koisewroski – Honors thesis on redlining and the legacy of environmental degradation in Philadelphia and Pittsburgh."
+  },
+  {
+    "objectID": "students.html#lab-alumni-graduate",
+    "href": "students.html#lab-alumni-graduate",
+    "title": "Students",
+    "section": "Lab alumni · graduate",
+    "text": "Lab alumni · graduate\n\nAbdullah Al Mehedi – Surface water hydrology in built environments.\nLuis Berrios-Hyden – Spatial distribution of AMF diversity and heavy metal soil concentrations as a function of urban structure in Philadelphia.\nKate Homet – Measuring the impacts of environmental, social, and maintenance variables on green stormwater infrastructure in Philadelphia.\nRadley Reist – Comparative analysis of urban structure and surface temperature.\nCharlotte Shade – The use of green infrastructure and its effect on climate resilience in Philadelphia."
+  },
+  {
+    "objectID": "students.html#lab-alumni-undergraduate",
+    "href": "students.html#lab-alumni-undergraduate",
+    "title": "Students",
+    "section": "Lab alumni · undergraduate",
+    "text": "Lab alumni · undergraduate\n\nMadeline Scolio – Senior thesis, now lead author on multiple peer-reviewed papers including Scolio et al. 2024 (Urban Climate) and Scolio et al. 2025 (Sustainable Cities and Society; Environmental Research: Infrastructure and Sustainability).\nKate Henderson – Undergraduate honors thesis on niche modeling of tody birds in the Greater Antilles (Henderson et al. 2022, Frontiers in Ecology and Evolution)."
   },
   {
     "objectID": "news.html",
