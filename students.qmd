@@ -15,8 +15,6 @@ Working with students is one of the most rewarding parts of this job. Below are 
 - **Prottoy Roy** – Spatiotemporal modeling of nuisance flood risk: a critical review of urban-scale approaches.
 - **Emily Myers** – Relating air pollution, social vulnerability and health outcomes in 500 US cities.
 - **Nick Salantiri** – Land use/land cover impacts on freshwater salinization syndrome in two suburban headwater streams.
-- **Tefera Shibeshi** – Modeling of urban nuisance flooding.
-- **Musfiqur Rahman** – AI for green stormwater infrastructure.
 
 ## Current undergraduate students
 
@@ -24,7 +22,6 @@ Working with students is one of the most rewarding parts of this job. Below are 
 
 ## Lab alumni · graduate
 
-- **Abdullah Al Mehedi** – Surface water hydrology in built environments.
 - **Luis Berrios-Hyden** – Spatial distribution of AMF diversity and heavy metal soil concentrations as a function of urban structure in Philadelphia.
 - **Kate Homet** – Measuring the impacts of environmental, social, and maintenance variables on green stormwater infrastructure in Philadelphia.
 - **Radley Reist** – Comparative analysis of urban structure and surface temperature.
