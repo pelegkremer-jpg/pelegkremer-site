@@ -307,6 +307,36 @@ hr { border: 0; border-top: 1px solid $rule; margin: 2.5rem 0; }
   font-size: 0.9rem;
 }
 
+// Figures inside content: cap size so they don't overwhelm the layout
+figure {
+  margin: 1.5rem auto;
+  max-width: 640px;
+}
+figure img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 4px;
+}
+figure figcaption {
+  font-size: 0.9rem;
+  color: $ink-soft;
+  margin-top: 0.5rem;
+  text-align: center;
+  line-height: 1.4;
+}
+// Bare images (not wrapped in figure) get the same treatment
+.quarto-figure {
+  margin: 1.5rem auto;
+  max-width: 640px;
+}
+.quarto-figure img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 4px;
+}
+
 // Pull quotes / aside
 blockquote {
   border-left: 3px solid $terra;

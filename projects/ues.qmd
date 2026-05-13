@@ -45,10 +45,11 @@ Current work pushes STURLA in several directions:
 
 - **From surface temperature to the air temperature people experience.** Madeline Scolio led work linking remotely sensed surface temperature to air temperature, opening a path to use globally available remote sensing for urban heat exposure assessment (Scolio et al. 2024, *Urban Climate*).
 - **Grid sensitivity.** Dennis Weaver and Justin Stewart tested 399 grid configurations and found that grid size, not orientation, drives results, with the tightest urban structure-function relationships at roughly 200 to 500 meters (Kremer, Weaver, Stewart 2026, *Ecological Informatics*). The finding has implications well beyond STURLA.
-
-![Sensitivity of urban structure-temperature R² to grid size across 399 grid configurations.](../assets/projects/sturla-grid.png){fig-alt="R-squared vs grid size analysis"}
-
 - **Global scale.** A current single-author paper applies STURLA via Google Earth Engine to 11,214 urban areas across 178 countries, testing whether case-study temperature patterns generalize worldwide and surfacing climate-dependent cooling effects of trees and water (Kremer, in review, *Urban Climate*).
+
+![Surface temperature to air temperature relationship in the Philadelphia metropolitan area (Scolio et al. 2024, Urban Climate).](../assets/projects/surface-air-temp.jpg){fig-alt="Surface temperature vs. air temperature relationship"}
+
+![Sensitivity of urban structure-temperature R² to grid size across 399 grid configurations (Kremer, Weaver, Stewart 2026, Ecological Informatics).](../assets/projects/sturla-grid.png){fig-alt="R-squared vs grid size analysis"}
 
 ## Key publications
 
@@ -58,7 +59,5 @@ Current work pushes STURLA in several directions:
 - Mitz, E., Kremer, P., Larondelle, N., Stewart, J. D. (2021). Structure of urban landscape and surface temperature: a case study in Philadelphia, PA. *Frontiers in Environmental Science*, 9.
 - Stewart, J. D., Kremer, P. (2022). Temporal change in relationships between urban structure and surface temperature. *Environment and Planning B*, 49(9), 2297-2311.
 - Scolio, M., Kremer, P., Zhang, Y., Shakya, K. M. (2024). Spatial-temporal modeling of the relationship between surface temperature and air temperature in metropolitan urban systems. *Urban Climate*, 55, 101921.
-
-![Surface temperature to air temperature relationship in the Philadelphia metropolitan area (Scolio et al. 2024, Urban Climate).](../assets/projects/surface-air-temp.jpg){fig-alt="Surface temperature vs. air temperature relationship"}
 - Kremer, P., Weaver, D., Stewart, J. D. (2026). Sensitivity of urban structure-temperature relationships to grid parameterization. *Ecological Informatics*, 93, 103587.
 - Kremer, P. (in review). Global analysis of urban structure and surface temperature. *Urban Climate*.
