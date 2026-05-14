@@ -1,0 +1,154 @@
+---
+title: "Land in Common"
+subtitle: "Community gardens, vacancy, and the right to urban space"
+pagetitle: "Land in Common | Peleg Kremer"
+description: "Urban vacant land, community gardens, and the Philadelphia Garden Data Collaborative."
+---
+
+::: {.lead}
+Vacant land is a persistent structural feature of US cities, often comprising 12 to 15 percent of land area. Rather than treating vacancy as failure, my lab conceptualizes urban vacant land as a generative space in which communities exercise creative rights, most visibly through community gardens and urban agriculture. As founding member and technical lead of the Philadelphia Garden Data Collaborative, my lab builds and maintains the only authoritative GIS dataset of active community gardens in Philadelphia and uses it to inform policy and protect gardens at risk of loss.
+:::
+
+## What we do
+
+Three interconnected lines of work:
+
+- **Vacant land as a social-ecological resource.** Early work in New York City reframed vacant lots from blight to a generative urban resource, mapping their ecosystem services and social value rather than only their disuse.
+- **Authoritative garden data.** Through the Philadelphia Garden Data Collaborative, we build and maintain Philadelphia's first unified, parcel-level dataset of active community gardens, kept current through field verification and remote sensing.
+- **From data to protection.** We translate that dataset into policy analysis, City Council testimony, and the sheriff sale monitoring system that lets advocates intervene before a garden is lost.
+
+## The Philadelphia Garden Data Collaborative
+
+The Philadelphia Garden Data Collaborative (PGDC) is a partnership between academics and Philadelphia civic organizations, founded in 2014 to fill a persistent data gap. Partial records of community gardens existed across multiple organizations, but each was incomplete and held in isolation. PGDC's first task was collating these disparate datasets into Philadelphia's first unified, parcel-level garden database. Today PGDC documents **556 gardens across 1,421 parcels**, spanning ten garden types (community, school, church, individual, market farm, orchard, and more).
+
+Philadelphia's 2023 Urban Agriculture Strategic Plan recognized PGDC as the authoritative data source for community gardens citywide, the first time garden data infrastructure was formally embedded in municipal planning.
+
+### A decade of community-engaged garden data
+
+::: {.timeline}
+
+::: {.timeline-event}
+::: {.timeline-year}
+2014
+:::
+::: {.timeline-text}
+Founding members begin collaboration on Philadelphia garden data.
+:::
+:::
+
+::: {.timeline-event}
+::: {.timeline-year}
+2015–2016
+:::
+::: {.timeline-text}
+Disparate datasets from PHS, NGT, and prior surveys collated into Philadelphia's first unified garden database.
+:::
+:::
+
+::: {.timeline-event}
+::: {.timeline-year}
+2016
+:::
+::: {.timeline-text}
+Garden database supports analysis for an urban agriculture hearing at Philadelphia City Council.
+:::
+:::
+
+::: {.timeline-event}
+::: {.timeline-year}
+2019
+:::
+::: {.timeline-text}
+PGDC officially formed; second iteration of the garden database developed for Philadelphia's Urban Ag Plan.
+:::
+:::
+
+::: {.timeline-event}
+::: {.timeline-year}
+2021
+:::
+::: {.timeline-text}
+Analysis of garden parcels with US Bank liens and tax delinquency to support lien-based preservation advocacy.
+:::
+:::
+
+::: {.timeline-event}
+::: {.timeline-year}
+2022
+:::
+::: {.timeline-text}
+Garden and parcel dataset restructured and expanded.
+:::
+:::
+
+::: {.timeline-event .timeline-event-highlight}
+::: {.timeline-year}
+2024
+:::
+::: {.timeline-text}
+Full field validation of all gardens and parcels; security index and gentrification analysis completed. Sheriff sale monitoring system launched.
+:::
+:::
+
+::: {.timeline-event .timeline-event-highlight}
+::: {.timeline-year}
+2025 to now
+:::
+::: {.timeline-text}
+Funding secured to develop the database into a platform for the urban agriculture community; ongoing analysis and outreach.
+:::
+:::
+
+:::
+
+## Why garden security matters
+
+Philadelphia's community gardens face threats from development pressure, insecure land tenure, and policy neglect. The numbers:
+
+- **61.7%** of garden parcels have insecure tenure.
+- **~140 gardens** lost since 2008, including **49 in the past five years**.
+- **209 sites (41%)** face active gentrification pressure.
+
+Gardens face a double threat: gentrification displaces gardens in rising markets, while disinvestment leads to abandonment in declining ones.
+
+## The sheriff sale monitoring system
+
+In July 2024, PGDC launched a weekly automated monitoring system that cross-references Philadelphia's list of properties scheduled for tax-lien auction against the PGDC database of garden parcel locations. For the first time, garden advocates can intervene *before* a garden is lost, not after.
+
+**20+ garden parcels saved from sheriff sale since launch.** 90% of sheriff-sold properties since July 2019 were in areas at or below the poverty line, so the system also prioritizes protection where it is most urgently needed.
+
+## Active funded projects
+
+**Beyond Land Precarity: Building a Garden Database and Platform to Support Philadelphia Growers.** PI, with Borowiak (Co-PI). 2025 to 2027. Supported by the William Penn Foundation and the PhilaChange Foundation. Extends PGDC's empirical and policy work into the construction of an active garden database and a public platform that growers, civic organizations, and city agencies can use.
+
+## Featured publications
+
+Selected papers; the full list is on the [Publications](../publications.qmd) page.
+
+- Kremer, P., Borowiak, C., Scolio, M. (2026, in review). Beyond land precarity: building a garden database and platform to support Philadelphia growers. *Journal of Agriculture, Food Systems, and Community Development*.
+
+  *Describes the PGDC's approach to building durable, community-governed garden data infrastructure.*
+
+- Kremer, P., Hamstead, Z. A., McPhearson, T. (2013). A social-ecological assessment of vacant lots in New York City. *Landscape and Urban Planning*, 120, 218-233. [DOI](https://doi.org/10.1016/j.landurbplan.2013.05.003) [EJ]{.ej-tag}
+
+  *Reframes vacant lots as a social-ecological resource rather than blight, mapping their value to communities.*
+
+- McPhearson, T., Kremer, P., Hamstead, Z. A. (2013). Mapping ecosystem services in New York City: applying a social-ecological approach in urban vacant land. *Ecosystem Services*, 5, 11-26. [DOI](https://doi.org/10.1016/j.ecoser.2013.06.005)
+
+  *Maps the ecosystem services provided by vacant land across New York City.*
+
+- Kremer, P., Hamstead, Z. (2015). Transformation of urban vacant lots for the common good: an introduction to the special issue. *Cities and the Environment*, 8(2). [Link](http://digitalcommons.lmu.edu/cate/vol8/iss2/1)
+
+  *Frames vacant land as a site where communities exercise creative rights to urban space.*
+
+- Gittleman, M., Farmer, C. J., Kremer, P., McPhearson, T. (2017). Estimating stormwater runoff for community gardens in New York City. *Urban Ecosystems*, 20(1), 129-139. [DOI](https://doi.org/10.1007/s11252-016-0575-8)
+
+  *Quantifies the stormwater benefits that community gardens provide to the city.*
+
+## Current team
+
+**Madeline Scolio**, **Sarah Scheller**, and **Sophia Lemmons** currently work on PGDC garden security, gentrification analysis, and the garden database. See the [Students](../students.qmd) page for the full list.
+
+## Partners and collaborators
+
+Dr. Craig Borowiak, Haverford College (academic co-PI); the Garden Justice Legal Initiative of the Public Interest Law Center of Philadelphia; the Pennsylvania Horticultural Society; the Neighborhood Gardens Trust; and Soil Generation, a Black- and Brown-led land and food sovereignty collective.

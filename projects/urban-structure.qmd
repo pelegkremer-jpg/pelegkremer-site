@@ -1,0 +1,66 @@
+---
+title: "Urban Structure and the Environment"
+subtitle: "Urban form, heat, and air quality"
+pagetitle: "Urban Structure and the Environment | Peleg Kremer"
+description: "Three-dimensional urban form and its relationship to heat, air quality, and ecological function."
+---
+
+![Global distribution of dominant STURLA classes across 11,214 urban areas in 178 countries.](../assets/projects/sturla-global.png){fig-alt="World map of urban structure classes"}
+
+::: {.lead}
+How does the way buildings, vegetation, and pavement combine at the block scale shape what residents breathe and the heat they experience? Most analyses of urban environments rely on flat, two-dimensional land cover and miss the vertical dimension entirely. With colleagues in Berlin, Leipzig, and Philadelphia, my lab developed the Structure of Urban Landscapes (STURLA) classification to capture three-dimensional urban form, and we now use it across cities to ask how composition shapes temperature, air quality, and ecological function.
+:::
+
+## What we do
+
+Three interconnected lines of work:
+
+- **Three-dimensional classification of urban form.** The STURLA classification captures common compositions of buildings, vegetation, and pavement at the block scale. It was developed through a Berlin–New York City comparison, refined for New York City, extended to Philadelphia, and now applied via Google Earth Engine to more than 11,000 urban areas worldwide.
+- **Urban form and the heat people experience.** We link the structure of city blocks to surface and air temperature, including work that bridges remotely sensed surface temperature to the air temperature residents actually feel, and work that quantifies how the choice of analysis grid shapes conclusions.
+- **Fine-scale urban air pollution.** With Dr. Kabindra Shakya in Villanova Chemistry, we built a mobile platform for monitoring air and noise pollution in Philadelphia neighborhoods, and use it to study how pollution exposure varies with urban form and along lines of environmental justice.
+
+![Sensitivity of urban structure-temperature relationships to grid size across 399 grid configurations (Kremer, Weaver, Stewart 2026, Ecological Informatics).](../assets/projects/sturla-grid.png){fig-alt="R-squared vs grid size analysis"}
+
+## Active funded projects
+
+**NSF Geography and Spatial Sciences: Multi-Dimensional Structure of Urban Landscape and the Supply and Distribution of Ecosystem Services.** PI, with Shakya. 2018 to 2024. Established and extended the STURLA framework and the mobile air pollution monitoring program in Philadelphia.
+
+## Featured publications
+
+Selected papers; the full list is on the [Publications](../publications.qmd) page.
+
+- Kremer, P. (in review). Global analysis of urban structure and surface temperature. *Urban Climate*.
+
+  *Applies STURLA via a Google Earth Engine pipeline to 11,214 urban areas across 178 countries, testing whether case-study temperature patterns generalize worldwide.*
+
+- Kremer, P., Weaver, D., Stewart, J. D. (2026). Sensitivity of urban structure-temperature relationships to grid parameterization. *Ecological Informatics*, 93, 103587. [DOI](https://doi.org/10.1016/j.ecoinf.2025.103587)
+
+  *Tests 399 grid configurations and shows that grid size, not orientation, drives results, with implications for any analysis that relies on gridded urban data.*
+
+- Scolio, M., Kremer, P., Zhang, Y., Shakya, K. M. (2024). Spatial-temporal modeling of the relationship between surface temperature and air temperature in metropolitan urban systems. *Urban Climate*, 55, 101921. [DOI](https://doi.org/10.1016/j.uclim.2024.101921)
+
+  *Bridges remotely sensed surface temperature to human-relevant air temperature, opening a path to use globally available remote sensing for urban heat exposure assessment.*
+
+- Scolio, M., Bohra, C., Kremer, P., Shakya, K. M. (2024). Spatial analysis of intra-urban air pollution disparities through an environmental justice lens: a case study of Philadelphia, PA. *Atmosphere*, 15(7), 755. [DOI](https://doi.org/10.3390/atmos15070755) [EJ]{.ej-tag}
+
+  *Maps fine-scale particulate air pollution disparities in Philadelphia onto historical patterns of redlining and disinvestment.*
+
+- Hamstead, Z. A., Kremer, P., Larondelle, N., McPhearson, T., Haase, D. (2016). Classification of the heterogeneous structure of urban landscapes (STURLA) as an indicator of landscape function applied to surface temperature in New York City. *Ecological Indicators*, 70, 574-585. [DOI](https://doi.org/10.1016/j.ecolind.2015.10.014)
+
+  *Establishes the STURLA methodology and links it to surface temperature in New York City.*
+
+- Shakya, K. M., Kremer, P., Henderson, K., McMahon, M., Peltier, R. E., Bromberg, S., Stewart, J. (2019). Mobile monitoring of air and noise pollution in Philadelphia neighborhoods during summer 2017. *Environmental Pollution*, 255, 113195. [DOI](https://doi.org/10.1016/j.envpol.2019.113195)
+
+  *Demonstrates the mobile monitoring platform for capturing fine-scale variation in air and noise pollution across the city.*
+
+![Surface temperature to air temperature relationship in the Philadelphia metropolitan area (Scolio et al. 2024, Urban Climate).](../assets/projects/surface-air-temp.jpg){fig-alt="Surface temperature vs. air temperature relationship"}
+
+## Current team
+
+- **Emily Myers** – PM2.5 exposure, social vulnerability, and chronic disease across 500 US cities.
+
+Recent contributors include Dennis Weaver and Justin Stewart (grid sensitivity and temporal change), Madeline Scolio (surface-to-air temperature, air pollution and environmental justice), and Ben Terry (land-use regression for nitrogen dioxide). See the [Students](../students.qmd) page for the full list.
+
+## Partners and collaborators
+
+Dr. Dagmar Haase, Humboldt University of Berlin and the Leibniz Institute of Ecological Urban and Regional Development (IOER), Leipzig; Dr. Kabindra Shakya, Villanova University Department of Chemistry; Dr. Timon McPhearson, The New School; and Dr. Neele Larondelle.

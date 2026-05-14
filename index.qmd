@@ -82,7 +82,7 @@ What is new
 - ::: {.date}
   2026 · Apr
   :::
-  Three Kremer-lab papers at the AAG annual meeting in San Francisco: [PGDC's approach to urban garden preservation](projects/pgdc.qmd), [measuring community garden security in Philadelphia](projects/pgdc.qmd), and PM2.5 and chronic disease across 500 US cities.
+  Three Kremer-lab papers at the AAG annual meeting in San Francisco: [PGDC's approach to urban garden preservation](projects/land-in-common.qmd), [measuring community garden security in Philadelphia](projects/land-in-common.qmd), and PM2.5 and chronic disease across 500 US cities.
 
 - ::: {.date}
   2026 · Mar
@@ -115,42 +115,42 @@ Research themes
 
 ::: {.theme-card}
 ::: {.funder-tag}
-STURLA
+Urban form, heat, and air quality
 :::
-### [Urban structure and environmental conditions](projects/ues.qmd)
-How the three-dimensional structure of cities, the way buildings, vegetation, and pavement combine at the block scale, shapes the heat, air quality, and ecological processes residents experience.
-:::
-
-::: {.theme-card}
-::: {.funder-tag}
-Green infrastructure
-:::
-### [Green stormwater infrastructure](projects/gsi-nsf.qmd)
-Integrating spatial data with AI and community knowledge to plan, evaluate, and improve GSI in ways that are effective and equitable.
+### [Urban Structure and the Environment](projects/urban-structure.qmd)
+How the three-dimensional structure of cities shapes the heat residents experience and the air they breathe, from Philadelphia case studies to a global analysis.
 :::
 
 ::: {.theme-card}
 ::: {.funder-tag}
-Urban flooding
+Spatial data, AI, and community knowledge
 :::
-### [Mobility and nuisance flooding](projects/dises-nsf.qmd)
-How chronic, low-grade flooding restructures everyday mobility and access to opportunity in underserved communities.
-:::
-
-::: {.theme-card}
-::: {.funder-tag}
-Community gardens
-:::
-### [Philadelphia Garden Data Collaborative](projects/pgdc.qmd)
-A long-term partnership with civic organizations to protect community gardens through spatial data, monitoring, and policy translation.
+### [Urban Flooding and Green Infrastructure](projects/urban-flooding.qmd)
+Using spatial data, community knowledge, and AI to plan stormwater and flood adaptation that is both effective and equitable.
 :::
 
 ::: {.theme-card}
 ::: {.funder-tag}
-Cross-cutting
+Community gardens and the right to urban space
 :::
-### [Environmental justice and amenity access](projects/ej-amenities.qmd)
-Why access to nature in the city remains unequal, and what spatial frameworks could change that.
+### [Land in Common](projects/land-in-common.qmd)
+Urban vacant land as a generative space, and the Philadelphia Garden Data Collaborative's work to document and protect community gardens.
+:::
+
+::: {.theme-card}
+::: {.funder-tag}
+Unequal access to urban nature
+:::
+### [Environmental Justice and Green Space](projects/environmental-justice.qmd)
+Why access to parks and environmental amenities remains unequal, and what fine-scale spatial analysis can change about it.
+:::
+
+::: {.theme-card}
+::: {.funder-tag}
+Spatial infrastructure for urban research
+:::
+### [Methods and Tools](projects/methods-tools.qmd)
+The methods, datasets, and platforms the lab builds and maintains across projects: STURLA, mobile air pollution monitoring, and the PGDC platform.
 :::
 
 :::

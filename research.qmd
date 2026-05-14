@@ -4,52 +4,61 @@ pagetitle: "Research | Peleg Kremer"
 ---
 
 ::: {.lead}
-We use GIS, remote sensing, and machine learning to study how cities shape exposure to environmental burdens (heat, flooding, air pollution) and access to environmental benefits (parks, cooling, green space). Most fieldwork is in Philadelphia, with comparative work across US and global cities.
+My lab investigates how the structure, function, and governance of urban social-ecological systems shape the distribution of environmental benefits and risks across cities. We use spatial analysis, GIS, remote sensing, and increasingly machine learning to ask how cities can become more sustainable, just, and resilient in the face of climate change, rapid urban growth, and persistent social inequity. Most of our fieldwork is in Philadelphia, with comparative and global work in collaboration with partners across the United States, Europe, and Asia.
 :::
 
-## Active projects
+## Research themes
 
 ::: {.theme-grid}
 
 ::: {.theme-card}
 ::: {.funder-tag}
-NSF SCC-IRG · Track 1
+Urban form, heat, and air quality
 :::
-### [Integrating Community Dynamics, Environmental Data, and AI to Advance GSI Sustainability](projects/gsi-nsf.qmd)
-Co-PI with Smith (PI), Jiao, Wadzuk · 2024 to 2028
-:::
-
-::: {.theme-card}
-::: {.funder-tag}
-NSF DISES
-:::
-### [Abating Mobility Equity Gaps Induced by Nuisance Flooding](projects/dises-nsf.qmd)
-Co-PI with Ermagun and Xiong (PIs), Smith, Wadzuk · 2024 to 2028
+### [Urban Structure and the Environment](projects/urban-structure.qmd)
+How does the way buildings, vegetation, and pavement combine at the block scale shape what residents breathe and the heat they experience? With colleagues in Berlin, Leipzig, and Philadelphia, we developed the Structure of Urban Landscapes (STURLA) classification to capture three-dimensional urban form, and now use it across cities to ask how composition shapes temperature, air quality, and ecological function.
 :::
 
 ::: {.theme-card}
 ::: {.funder-tag}
-Philadelphia Garden Data Collaborative
+Spatial data, AI, and community knowledge
 :::
-### [Beyond Land Precarity: Philadelphia Garden Database and Platform](projects/pgdc.qmd)
-PI with Borowiak (Co-PI) · 2025 to 2027
-:::
-
-::: {.theme-card}
-::: {.funder-tag}
-Ongoing
-:::
-### [STURLA: Urban structure and ecosystem services](projects/ues.qmd)
-Methodological and substantive work, including a current single-author global analysis (in review at *Urban Climate*).
+### [Urban Flooding and Green Infrastructure](projects/urban-flooding.qmd)
+Urban flooding is becoming more frequent and severe under climate change, with disproportionate consequences for socially vulnerable communities. With civil engineering colleagues at Villanova and transportation researchers across the country, we ask how cities can use spatial data, community knowledge, and AI to plan stormwater and adaptation strategies that are both effective and equitable.
 :::
 
 ::: {.theme-card}
 ::: {.funder-tag}
-Ongoing
+Community gardens and the right to urban space
 :::
-### [Urban air pollution](projects/air-pollution.qmd)
-Mobile monitoring and spatial analysis of urban air pollution in Philadelphia with Dr. Kabindra Shakya (Villanova Chemistry); current work by Emily Myers links PM2.5 exposure to chronic disease across 500 US cities.
+### [Land in Common](projects/land-in-common.qmd)
+Vacant land is a persistent structural feature of US cities. Rather than treating vacancy as failure, we conceptualize urban vacant land as a generative space in which communities exercise creative rights, most visibly through community gardens and urban agriculture. As founding member and technical lead of the Philadelphia Garden Data Collaborative, my lab builds and maintains the only authoritative GIS dataset of active community gardens in Philadelphia.
+:::
+
+::: {.theme-card}
+::: {.funder-tag}
+Unequal access to urban nature
+:::
+### [Environmental Justice and Green Space](projects/environmental-justice.qmd)
+Urban green spaces, parks, and environmental amenities are unequally distributed within and across US cities, often along lines of race, income, and historical disinvestment. Through the SESYNC Parks for People working group and local work in Philadelphia, we ask why access to nature in the city remains so unequal, and what fine-scale spatial analysis can change about that. Equity is also the connective tissue across the rest of the program.
 :::
 
 :::
 
+## Cross-cutting
+
+::: {.theme-grid}
+
+::: {.theme-card}
+::: {.funder-tag}
+Spatial infrastructure for urban research
+:::
+### [Methods and Tools](projects/methods-tools.qmd)
+Our research generates methods, datasets, and platforms that outlast individual projects: the STURLA classification for three-dimensional urban form, a mobile platform for fine-scale air pollution monitoring developed with Dr. Kabindra Shakya, the Philadelphia Garden Data Collaborative platform, and contributions to the SESYNC Parks for People dataset.
+:::
+
+:::
+
+## Partners
+
+This work is sustained by long-term partnerships with academic and community institutions, including the Public Interest Law Center of Philadelphia, the Pennsylvania Horticultural Society, the Neighborhood Gardens Trust, Soil Generation, the Villanova Center for Resilient Water Systems, the SESYNC Parks for People working group, and the Leibniz Institute of Ecological Urban and Regional Development (IOER) in Leipzig.

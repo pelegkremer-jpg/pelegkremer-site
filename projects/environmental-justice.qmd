@@ -1,0 +1,57 @@
+---
+title: "Environmental Justice and Green Space"
+subtitle: "Unequal access to urban nature, and what spatial analysis can change about it"
+pagetitle: "Environmental Justice and Green Space | Peleg Kremer"
+description: "Why access to urban nature remains unequal, and what fine-scale spatial analysis can change."
+---
+
+![Unequal access to social, environmental, and health amenities in US urban parks (Winkler, Clark, Locke, Kremer et al. 2024, Nature Cities).](../assets/projects/parks-inequality.jpg){fig-alt="Park amenity inequality across US cities"}
+
+::: {.lead}
+Why does access to nature in the city remain so unequal, and what can fine-scale spatial analysis change about it? Urban green spaces, parks, and environmental amenities are unevenly distributed within and across US cities, often along lines of race, income, and historical disinvestment. Through the SESYNC Parks for People working group and local work in Philadelphia, my lab studies these disparities and the spatial frameworks that could begin to close them. Equity is also the connective tissue across the rest of the program: it shapes the flooding, garden, and urban-form work in equal measure.
+:::
+
+## What we do
+
+Two interconnected lines of work:
+
+- **National-scale analysis of amenity inequality.** Through the SESYNC Parks for People working group, we move park research beyond a binary question of access toward what parks actually contain, how they are used, and how their quality is measured, at a national scale.
+- **Local empirical grounding.** In Philadelphia, we map fine-scale environmental disparities, including particulate air pollution, onto historical patterns of redlining and disinvestment, connecting national narratives to local evidence.
+
+![Fine-scale particulate air pollution disparities in Philadelphia overlaid on historical patterns of redlining and disinvestment (Scolio, Bohra, Kremer, Shakya 2024, Atmosphere).](../assets/projects/pm25-redlining.jpg){fig-alt="PM2.5 air pollution and redlining overlay"}
+
+## Research vehicle
+
+This theme is carried primarily through the **SESYNC Parks for People working group**, a multi-institution collaboration synthesizing data on park access, quality, and use across US cities, rather than through a single dedicated grant. The local Philadelphia work connects to the lab's air pollution and garden research.
+
+## Featured publications
+
+Selected papers; the full list is on the [Publications](../publications.qmd) page.
+
+- Winkler, R. L., Clark, J. A., Locke, D. H., Kremer, P., Aronson, M. F., Hoover, F.-A., Joo, H. E., La Rosa, D., Lee, K. J., Lerman, S. B., Pearsall, H., Vargo, T. L., Nilon, C. H., Lepczyk, C. A. (2024). Unequal access to social, environmental and health amenities in US urban parks. *Nature Cities*, 1(12), 861-870. [DOI](https://doi.org/10.1038/s44284-024-00153-2)
+
+  *A national analysis of unequal access to social, environmental, and health amenities in US urban parks, showing that disparities are not only about whether parks exist but about what they contain.*
+
+- Lee, K., Aronson, M. F. J., Clark, J. A. G., Hoover, F.-A., Joo, H. E., Kremer, P., La Rosa, D., Larson, K. L., Lepczyk, C. A., Lerman, S. B., Locke, D. H., Nilon, C. H., Pearsall, H., Vargo, T. L. V. (2024). Limitations of existing park quality instruments and suggestions for future research. *Landscape and Urban Planning*, 249, 105127. [DOI](https://doi.org/10.1016/j.landurbplan.2024.105127)
+
+  *Reviews park-quality measurement instruments and proposes directions for the next generation of tools.*
+
+- Joo, H. E., Clark, J. A., Kremer, P., Aronson, M. F. (2024). Socio-environmental drivers of human-nature interactions in urban green spaces. *Urban Ecosystems*, 27(6), 2397-2413. [DOI](https://doi.org/10.1007/s11252-024-01593-3)
+
+  *Examines the socio-environmental drivers of how people actually interact with urban green spaces.*
+
+- Scolio, M., Bohra, C., Kremer, P., Shakya, K. M. (2024). Spatial analysis of intra-urban air pollution disparities through an environmental justice lens: a case study of Philadelphia, PA. *Atmosphere*, 15(7), 755. [DOI](https://doi.org/10.3390/atmos15070755)
+
+  *Grounds the national narrative locally, mapping fine-scale air pollution disparities in Philadelphia onto histories of redlining and disinvestment.*
+
+- Haase, D., Kabisch, S., Haase, A., Andersson, E., Banzhaf, E., Baró, F., et al. (2017). Greening cities, to be socially inclusive? About the alleged paradox of society and ecology in cities. *Habitat International*, 64, 41-48. [DOI](https://doi.org/10.1016/j.habitatint.2017.04.005)
+
+  *Articulates the apparent paradox between urban greening and social inclusion that motivates much of this work.*
+
+## Data and code
+
+Winkler, R. L., Clark, J. A. G., Locke, D. H., Kremer, P., Aronson, M. F. J., Hoover, F.-A., Joo, H. E., La Rosa, D., Lee, K. J., Lerman, S. B., Pearsall, H., Vargo, T. L. V., Nilon, C. H., Lepczyk, C. A. (2025). Data and code for analyzing unequal access to social, environmental, and health amenities in United States urban parks. Forest Service Research Data Archive, USDA Forest Service. [DOI](https://doi.org/10.2737/rds-2024-0039)
+
+## Partners and collaborators
+
+The SESYNC Parks for People working group, including Christopher Lepczyk (Auburn), Myla Aronson (Rutgers), Hamil Pearsall (Temple), Dexter Locke (USDA Forest Service), John Clark, Richelle Winkler, Timothy Vargo, Susannah Lerman, Charles Nilon, Fushcia-Ann Hoover, Hyun Eun Joo, Daniele La Rosa, Kelli Larson, and Kyung Jin Lee.
