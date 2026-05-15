@@ -17,7 +17,7 @@ Three interconnected lines of work:
 
 - **Three-dimensional classification of urban form.** The STURLA classification captures common compositions of buildings, vegetation, and pavement at the block scale. It was developed through a Berlin–New York City comparison, refined for New York City, extended to Philadelphia, and now applied via Google Earth Engine to more than 11,000 urban areas worldwide.
 - **Urban form and the heat people experience.** We link the structure of city blocks to surface and air temperature, including work that bridges remotely sensed surface temperature to the air temperature residents actually feel, and work that quantifies how the choice of analysis grid shapes conclusions.
-- **Fine-scale urban air pollution.** With Dr. Kabindra Shakya in Villanova Chemistry, we built a mobile platform for monitoring air and noise pollution in Philadelphia neighborhoods, and use it to study how pollution exposure varies with urban form and along lines of environmental justice.
+- **Fine-scale urban air pollution.** With Dr. Kabindra Shakya in my department, we built a mobile platform for monitoring air and noise pollution in Philadelphia neighborhoods, and use it to study how pollution exposure varies with urban form and along lines of environmental justice.
 
 ![Sensitivity of urban structure-temperature relationships to grid size across 399 grid configurations (Kremer, Weaver, Stewart 2026, Ecological Informatics).](../assets/projects/sturla-grid.png){fig-alt="R-squared vs grid size analysis"}
 
@@ -63,4 +63,4 @@ Recent contributors include Dennis Weaver and Justin Stewart (grid sensitivity a
 
 ## Partners and collaborators
 
-Dr. Dagmar Haase, Humboldt University of Berlin and the Leibniz Institute of Ecological Urban and Regional Development (IOER), Leipzig; Dr. Kabindra Shakya, Villanova University Department of Chemistry; Dr. Timon McPhearson, The New School; and Dr. Neele Larondelle.
+Dr. Dagmar Haase, Humboldt University of Berlin and the Leibniz Institute of Ecological Urban and Regional Development (IOER), Leipzig; Dr. Kabindra Shakya, Villanova University Department of Geography and the Environment; Dr. Timon McPhearson, The New School; and Dr. Neele Larondelle.
