@@ -1,14 +1,13 @@
 ---
 title: "Environmental Justice and Green Space"
-subtitle: "Unequal access to urban nature, and what spatial analysis can change about it"
 pagetitle: "Environmental Justice and Green Space | Peleg Kremer"
-description: "Why access to urban nature remains unequal, and what fine-scale spatial analysis can change."
+description: "Park amenity inequality and local environmental disparities in Philadelphia."
 ---
 
 ![Unequal access to social, environmental, and health amenities in US urban parks (Winkler, Clark, Locke, Kremer et al. 2024, Nature Cities).](../assets/projects/parks-inequality.jpg){fig-alt="Park amenity inequality across US cities"}
 
 ::: {.lead}
-Why does access to nature in the city remain so unequal, and what can fine-scale spatial analysis change about it? Urban green spaces, parks, and environmental amenities are unevenly distributed within and across US cities, often along lines of race, income, and historical disinvestment. From 2018 to 2024, the SESYNC Parks for People working group brought together a multi-institution collaboration to study these disparities at a national scale, and produced the sequence of papers below. Equity remains the connective tissue across the rest of my research program, shaping the flooding, garden, and urban-form work in equal measure.
+Urban green spaces, parks, and environmental amenities are unevenly distributed within and across US cities, often along lines of race, income, and historical disinvestment. From 2018 to 2024, the SESYNC Parks for People working group brought together a multi-institution collaboration to study these disparities at a national scale, and produced the sequence of papers below. Equity remains the connective tissue across the rest of my research program, shaping the flooding, garden, and urban-form work in equal measure.
 :::
 
 ## Two lines of work
