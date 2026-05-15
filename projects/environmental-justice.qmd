@@ -7,13 +7,16 @@ description: "Park amenity inequality and local environmental disparities in Phi
 ![Unequal access to social, environmental, and health amenities in US urban parks (Winkler, Clark, Locke, Kremer et al. 2024, Nature Cities).](../assets/projects/parks-inequality.jpg){fig-alt="Park amenity inequality across US cities"}
 
 ::: {.lead}
-Urban green spaces, parks, and environmental amenities are unevenly distributed within and across US cities, often along lines of race, income, and historical disinvestment. From 2018 to 2024, the SESYNC Parks for People working group brought together a multi-institution collaboration to study these disparities at a national scale, and produced the sequence of papers below. Equity remains the connective tissue across the rest of my research program, shaping the flooding, garden, and urban-form work in equal measure.
+Urban green spaces, parks, and environmental amenities are unevenly distributed within and across US cities, often along lines of race, income, and historical disinvestment. Equity is the connective tissue across my research program more broadly, shaping the flooding, garden, and urban-form work in equal measure.
 :::
 
-## Two lines of work
+## SESYNC Parks for People
 
-- **National-scale analysis of amenity inequality.** Through the SESYNC Parks for People working group, the collaboration moved park research beyond a binary question of access toward what parks actually contain, how they are used, and how their quality is measured.
-- **Local empirical grounding.** In Philadelphia, my lab maps fine-scale environmental disparities, including particulate air pollution, onto historical patterns of redlining and disinvestment, connecting national narratives to local evidence. This local work continues alongside the [Urban Structure and the Environment](urban-structure.qmd) and [Land in Common](land-in-common.qmd) themes.
+The SESYNC Parks for People workshop was a one-time multi-institution synthesis that produced two papers on park amenity inequality: Winkler et al. (2024) in *Nature Cities* and Lee et al. (2024) in *Landscape and Urban Planning*. See the publications below.
+
+## Local Philadelphia work
+
+Separately and on an ongoing basis, my lab maps fine-scale environmental disparities in Philadelphia, including particulate air pollution, onto historical patterns of redlining and disinvestment. This local work runs alongside the [Urban Structure and the Environment](urban-structure.qmd) and [Land in Common](land-in-common.qmd) themes rather than as a standalone effort.
 
 ![Fine-scale particulate air pollution disparities in Philadelphia overlaid on historical patterns of redlining and disinvestment (Scolio, Bohra, Kremer, Shakya 2024, Atmosphere).](../assets/projects/pm25-redlining.jpg){fig-alt="PM2.5 air pollution and redlining overlay"}
 
