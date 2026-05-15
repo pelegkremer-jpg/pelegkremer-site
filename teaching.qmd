@@ -20,12 +20,6 @@ I teach undergraduate and graduate courses in Geographic Information Systems, ur
 | GEV 7040 | Introduction to GIS | Graduate |
 | GEV 7041 | GIS for Environmental Systems | Graduate |
 
-## Other instruction
-
-- Independent studies and supervised research (15+ courses)
-- Senior thesis and master's thesis advising (see [Students](students.qmd))
-- Guest lectures across the Villanova curriculum, including GEV 7000 (Research Methods), the University Race and Justice course, and RES 4150 (Real Estate Development)
-
 ## Recognition
 
 - **Outstanding Faculty Mentor Teaching Award**, Villanova University, 2023
