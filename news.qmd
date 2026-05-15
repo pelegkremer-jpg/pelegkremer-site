@@ -23,8 +23,10 @@ Three Kremer-lab papers at the AAG annual meeting:
 ### Mar 2026 · Ecological Informatics
 **Kremer, P., Weaver, D., Stewart, J. D.** (2026). Sensitivity of urban structure-temperature relationships to grid parameterization. *Ecological Informatics*, 93, 103587. [DOI](https://doi.org/10.1016/j.ecoinf.2025.103587)
 
-### Mar 2026 · NSF HEGS ad hoc review
-Provided an NSF Human-Environment and Geographical Sciences ad hoc review.
+### 2026 · Papers in print
+
+- Rahman, M., Smith, V. B., **Kremer, P.**, Wadzuk, B. M., Jiao, X., Amur, A., Arabi, S. (2026). Incorporating artificial intelligence into the future of stormwater management. *Discover Water*.
+- Ermagun, A., Janatabadi, F., Safarloo, Z., **Kremer, P.**, Lindley, S. (2026). Urban flooding restructures mobility through coupled behavioral and network disruption: a systematic review of evidence. *Sustainable Cities and Society*, 107285. [Link](https://www.sciencedirect.com/science/article/pii/S2210670726001721)
 
 ## 2025
 
