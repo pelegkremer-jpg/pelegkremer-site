@@ -20,7 +20,7 @@ Three interconnected lines of work:
 - **Urban form and the heat people experience.** We link the structure of city blocks to surface and air temperature, including work that bridges remotely sensed surface temperature to the air temperature residents actually feel, and work that quantifies how the choice of analysis grid shapes conclusions.
 - **Fine-scale urban air pollution.** With Dr. Kabindra Shakya in my department, we built a mobile platform for monitoring air and noise pollution in Philadelphia neighborhoods, and use it to study how pollution exposure varies with urban form and along lines of environmental justice.
 
-## Past funding
+## Funding
 
 **NSF Geography and Spatial Sciences: Multi-Dimensional Structure of Urban Landscape and the Supply and Distribution of Ecosystem Services.** PI, with Shakya. 2018 to 2024. Established and extended the STURLA framework and the mobile air pollution monitoring program in Philadelphia.
 
@@ -44,7 +44,7 @@ Click any figure to enlarge.
 
 Selected papers; the full list is on the [Publications](../publications.qmd) page.
 
-- Kremer, P. (in review). Global analysis of urban structure and surface temperature. *Urban Climate*.
+- Kremer, P. Urban structure shapes land surface temperature: evidence from a global analysis of urban areas. *Urban Climate* (in review).
 
   *Applies STURLA via a Google Earth Engine pipeline to 11,214 urban areas across 178 countries, testing whether case-study temperature patterns generalize worldwide.*
 

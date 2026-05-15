@@ -50,3 +50,7 @@ Selected papers; the full list is on the [Publications](../publications.qmd) pag
 ## Data and code
 
 Winkler, R. L., Clark, J. A. G., Locke, D. H., Kremer, P., Aronson, M. F. J., Hoover, F.-A., Joo, H. E., La Rosa, D., Lee, K. J., Lerman, S. B., Pearsall, H., Vargo, T. L. V., Nilon, C. H., Lepczyk, C. A. (2025). Data and code for analyzing unequal access to social, environmental, and health amenities in United States urban parks. Forest Service Research Data Archive, USDA Forest Service. [DOI](https://doi.org/10.2737/rds-2024-0039)
+
+## Partners and collaborators
+
+The SESYNC Parks for People working group, including Christopher Lepczyk (Auburn), Myla Aronson (Rutgers), Hamil Pearsall (Temple), Dexter Locke (USDA Forest Service), Jeffrey A. G. Clark (Natural Areas Conservancy, New York), Richelle Winkler, Timothy Vargo, Susannah Lerman, Charles Nilon, Fushcia-Ann Hoover, Hogyeum Evan Joo (Rutgers University), Daniele La Rosa, Kelli Larson, and KangJae Jerry Lee (University of Utah).
