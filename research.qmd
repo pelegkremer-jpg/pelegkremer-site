@@ -31,7 +31,7 @@ Urban flooding is becoming more frequent and severe under climate change, with d
 ::: {.funder-tag}
 Community gardens and the right to urban space
 :::
-### [Land in Common](projects/land-in-common.qmd)
+### [Community Gardens and the Urban Commons](projects/land-in-common.qmd)
 Vacant land is a persistent structural feature of US cities. Rather than treating vacancy as failure, we conceptualize urban vacant land as a generative space in which communities exercise creative rights, most visibly through community gardens and urban agriculture. As founding member and technical lead of the Philadelphia Garden Data Collaborative, my lab builds and maintains the only authoritative GIS dataset of active community gardens in Philadelphia.
 :::
 

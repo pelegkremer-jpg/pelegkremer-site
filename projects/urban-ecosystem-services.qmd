@@ -16,7 +16,7 @@ Urban ecosystem services, the benefits people receive from urban nature, have fr
 Three interconnected lines of work:
 
 - **Human-nature interactions in urban green space.** With European and US colleagues, we examine the socio-environmental drivers of how people actually use and benefit from urban green space, and the apparent paradox that greening cities can produce both ecological and social value while also intensifying inequality through displacement.
-- **The social-ecological framing of urban nature.** Foundational work with Timon McPhearson and Zoé Hamstead in New York City established a social-ecological approach to urban vacant land and ecosystem service mapping. These papers anchor the broader urban ES framing that shapes my work today, and they appear here as well as on the [Land in Common](land-in-common.qmd) page where the vacant-land thread continues.
+- **The social-ecological framing of urban nature.** Foundational work with Timon McPhearson and Zoé Hamstead in New York City established a social-ecological approach to urban vacant land and ecosystem service mapping. These papers anchor the broader urban ES framing that shapes my work today, and they appear here as well as on the [Community Gardens and the Urban Commons](land-in-common.qmd) page where the vacant-land thread continues.
 - **Park amenity inequality and access.** Through the SESYNC Parks for People working group, we showed that inequality in urban parks is not only a question of whether parks exist, but of what they contain. A national US analysis published in *Nature Cities* documented systematic disparities in the social, environmental, and health amenities present in urban parks.
 
 ## Featured publications
@@ -41,11 +41,11 @@ Selected papers; the full list is on the [Publications](../publications.qmd) pag
 
 - Kremer, P., Hamstead, Z. A., McPhearson, T. (2013). A social-ecological assessment of vacant lots in New York City. *Landscape and Urban Planning*, 120, 218–233. [DOI](https://doi.org/10.1016/j.landurbplan.2013.05.003)
 
-  *Reframes vacant lots as a social-ecological resource rather than blight. Also featured on [Land in Common](land-in-common.qmd).*
+  *Reframes vacant lots as a social-ecological resource rather than blight. Also featured on [Community Gardens and the Urban Commons](land-in-common.qmd).*
 
 - McPhearson, T., Kremer, P., Hamstead, Z. A. (2013). Mapping ecosystem services in New York City: applying a social-ecological approach in urban vacant land. *Ecosystem Services*, 5, 11–26. [DOI](https://doi.org/10.1016/j.ecoser.2013.06.005)
 
-  *Maps the ecosystem services provided by vacant land across New York City. Also featured on [Land in Common](land-in-common.qmd).*
+  *Maps the ecosystem services provided by vacant land across New York City. Also featured on [Community Gardens and the Urban Commons](land-in-common.qmd).*
 
 ## Data and code
 

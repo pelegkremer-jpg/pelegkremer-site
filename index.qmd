@@ -133,7 +133,7 @@ Using spatial data, community knowledge, and AI to plan stormwater and flood ada
 ::: {.funder-tag}
 Community gardens and the right to urban space
 :::
-### [Land in Common](projects/land-in-common.qmd)
+### [Community Gardens and the Urban Commons](projects/land-in-common.qmd)
 Urban vacant land as a generative space, and the Philadelphia Garden Data Collaborative's work to document and protect community gardens.
 :::
 

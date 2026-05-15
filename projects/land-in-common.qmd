@@ -1,7 +1,7 @@
 ---
-title: "Land in Common"
-subtitle: "Community gardens, vacancy, and the right to urban space"
-pagetitle: "Land in Common | Peleg Kremer"
+title: "Community Gardens and the Urban Commons"
+subtitle: "Vacancy, community gardens, and the right to urban space"
+pagetitle: "Community Gardens and the Urban Commons | Peleg Kremer"
 description: "Urban vacant land, community gardens, and the Philadelphia Garden Data Collaborative."
 ---
 
