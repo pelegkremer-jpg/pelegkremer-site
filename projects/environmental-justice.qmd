@@ -8,21 +8,15 @@ description: "Why access to urban nature remains unequal, and what fine-scale sp
 ![Unequal access to social, environmental, and health amenities in US urban parks (Winkler, Clark, Locke, Kremer et al. 2024, Nature Cities).](../assets/projects/parks-inequality.jpg){fig-alt="Park amenity inequality across US cities"}
 
 ::: {.lead}
-Why does access to nature in the city remain so unequal, and what can fine-scale spatial analysis change about it? Urban green spaces, parks, and environmental amenities are unevenly distributed within and across US cities, often along lines of race, income, and historical disinvestment. Through the SESYNC Parks for People working group and local work in Philadelphia, my lab studies these disparities and the spatial frameworks that could begin to close them. Equity is also the connective tissue across the rest of the program: it shapes the flooding, garden, and urban-form work in equal measure.
+Why does access to nature in the city remain so unequal, and what can fine-scale spatial analysis change about it? Urban green spaces, parks, and environmental amenities are unevenly distributed within and across US cities, often along lines of race, income, and historical disinvestment. From 2018 to 2024, the SESYNC Parks for People working group brought together a multi-institution collaboration to study these disparities at a national scale, and produced the sequence of papers below. Equity remains the connective tissue across the rest of my research program, shaping the flooding, garden, and urban-form work in equal measure.
 :::
 
-## What we do
+## Two lines of work
 
-Two interconnected lines of work:
-
-- **National-scale analysis of amenity inequality.** Through the SESYNC Parks for People working group, we move park research beyond a binary question of access toward what parks actually contain, how they are used, and how their quality is measured, at a national scale.
-- **Local empirical grounding.** In Philadelphia, we map fine-scale environmental disparities, including particulate air pollution, onto historical patterns of redlining and disinvestment, connecting national narratives to local evidence.
+- **National-scale analysis of amenity inequality.** Through the SESYNC Parks for People working group, the collaboration moved park research beyond a binary question of access toward what parks actually contain, how they are used, and how their quality is measured.
+- **Local empirical grounding.** In Philadelphia, my lab maps fine-scale environmental disparities, including particulate air pollution, onto historical patterns of redlining and disinvestment, connecting national narratives to local evidence. This local work continues alongside the [Urban Structure and the Environment](urban-structure.qmd) and [Land in Common](land-in-common.qmd) themes.
 
 ![Fine-scale particulate air pollution disparities in Philadelphia overlaid on historical patterns of redlining and disinvestment (Scolio, Bohra, Kremer, Shakya 2024, Atmosphere).](../assets/projects/pm25-redlining.jpg){fig-alt="PM2.5 air pollution and redlining overlay"}
-
-## Research vehicle
-
-This theme is carried primarily through the **SESYNC Parks for People working group**, a multi-institution collaboration synthesizing data on park access, quality, and use across US cities, rather than through a single dedicated grant. The local Philadelphia work connects to the lab's air pollution and garden research.
 
 ## Featured publications
 

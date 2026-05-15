@@ -40,11 +40,7 @@ Vacant land is a persistent structural feature of US cities. Rather than treatin
 Unequal access to urban nature
 :::
 ### [Environmental Justice and Green Space](projects/environmental-justice.qmd)
-Urban green spaces, parks, and environmental amenities are unequally distributed within and across US cities, often along lines of race, income, and historical disinvestment. Through the SESYNC Parks for People working group and local work in Philadelphia, we ask why access to nature in the city remains so unequal, and what fine-scale spatial analysis can change about that. Equity is also the connective tissue across the rest of the program.
+Urban green spaces, parks, and environmental amenities are unequally distributed within and across US cities, often along lines of race, income, and historical disinvestment. Through the SESYNC Parks for People working group (now concluded) and local work in Philadelphia, my collaborators and I produced a sequence of papers on unequal access to urban nature. Equity remains the connective tissue across the rest of the program.
 :::
 
 :::
-
-## Partners
-
-This work is sustained by long-term partnerships with academic and community institutions, including the Public Interest Law Center of Philadelphia, the Pennsylvania Horticultural Society, the Neighborhood Gardens Trust, Soil Generation, the Villanova Center for Resilient Water Systems, the SESYNC Parks for People working group, and the Leibniz Institute of Ecological Urban and Regional Development (IOER) in Leipzig.
