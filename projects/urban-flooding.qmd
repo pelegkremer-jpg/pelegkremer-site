@@ -8,7 +8,7 @@ description: "Spatial data, AI, and community knowledge for equitable urban floo
 ![Incorporating community stormwater knowledge changes which neighborhoods are identified as flood-prone (Scolio et al. 2025, Environmental Research: Infrastructure and Sustainability).](../assets/projects/flood-community.jpg){fig-alt="Community-informed flood map of Philadelphia"}
 
 ::: {.lead}
-Urban flooding is becoming more frequent and severe under climate change. Its consequences are borne unevenly: low-lying, historically disinvested neighborhoods are flooded more often, recover more slowly, and have less voice in the planning systems that decide where stormwater infrastructure goes. My lab works with civil engineering colleagues at Villanova and transportation researchers at the University of Minnesota and elsewhere to ask how cities can use spatial data, community knowledge, and AI to plan flood mitigation, green stormwater infrastructure (GSI), and adaptation strategies that are both effective and equitable.
+Urban flooding is becoming more frequent and severe under climate change. Its consequences are borne unevenly: low-lying, historically disinvested neighborhoods are flooded more often, recover more slowly, and have less voice in the planning systems that decide where stormwater infrastructure goes. My lab works with civil engineering colleagues at Villanova and transportation researchers to ask how cities can use spatial data, community knowledge, and AI to plan flood mitigation, green stormwater infrastructure (GSI), and adaptation strategies that are both effective and equitable.
 :::
 
 > How can cities plan flood adaptation that is both effective and equitable?
