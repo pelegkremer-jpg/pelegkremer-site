@@ -21,7 +21,7 @@ Three interconnected lines of work:
 
 ![Sensitivity of urban structure-temperature relationships to grid size across 399 grid configurations (Kremer, Weaver, Stewart 2026, Ecological Informatics).](../assets/projects/sturla-grid.png){fig-alt="R-squared vs grid size analysis"}
 
-## Active funded projects
+## Past funding
 
 **NSF Geography and Spatial Sciences: Multi-Dimensional Structure of Urban Landscape and the Supply and Distribution of Ecosystem Services.** PI, with Shakya. 2018 to 2024. Established and extended the STURLA framework and the mobile air pollution monitoring program in Philadelphia.
 
