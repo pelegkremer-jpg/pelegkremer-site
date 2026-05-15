@@ -145,12 +145,4 @@ Unequal access to urban nature
 Why access to parks and environmental amenities remains unequal, and what fine-scale spatial analysis can change about it.
 :::
 
-::: {.theme-card}
-::: {.funder-tag}
-Spatial infrastructure for urban research
-:::
-### [Methods and Tools](projects/methods-tools.qmd)
-The methods, datasets, and platforms the lab builds and maintains across projects: STURLA, mobile air pollution monitoring, and the PGDC platform.
-:::
-
 :::

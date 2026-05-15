@@ -45,20 +45,6 @@ Urban green spaces, parks, and environmental amenities are unequally distributed
 
 :::
 
-## Cross-cutting
-
-::: {.theme-grid}
-
-::: {.theme-card}
-::: {.funder-tag}
-Spatial infrastructure for urban research
-:::
-### [Methods and Tools](projects/methods-tools.qmd)
-Our research generates methods, datasets, and platforms that outlast individual projects: the STURLA classification for three-dimensional urban form, a mobile platform for fine-scale air pollution monitoring developed with Dr. Kabindra Shakya, the Philadelphia Garden Data Collaborative platform, and contributions to the SESYNC Parks for People dataset.
-:::
-
-:::
-
 ## Partners
 
 This work is sustained by long-term partnerships with academic and community institutions, including the Public Interest Law Center of Philadelphia, the Pennsylvania Horticultural Society, the Neighborhood Gardens Trust, Soil Generation, the Villanova Center for Resilient Water Systems, the SESYNC Parks for People working group, and the Leibniz Institute of Ecological Urban and Regional Development (IOER) in Leipzig.
