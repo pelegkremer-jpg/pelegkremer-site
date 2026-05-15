@@ -2,7 +2,7 @@
 title: "Urban Ecosystem Services and Wellbeing"
 subtitle: "Parks, urban nature, and the social-ecological framing of cities"
 pagetitle: "Urban Ecosystem Services and Wellbeing | Peleg Kremer"
-description: "Parks, urban nature, and the social-ecological framing of cities."
+description: "Park amenity inequality, human-nature interactions, and the social-ecological foundations of urban ecosystem services research."
 ---
 
 ![Unequal access to social, environmental, and health amenities in US urban parks (Winkler, Clark, Locke, Kremer et al. 2024, Nature Cities).](../assets/projects/parks-inequality.jpg){fig-alt="Park amenity inequality across US cities"}
