@@ -27,7 +27,7 @@ Three interconnected lines of work:
 
 **NSF SCC-IRG Track 1: Integrating Community Dynamics, Environmental Data, and AI to Advance Green Stormwater Infrastructure Sustainability.** Co-PI with Smith (PI, Villanova Civil and Environmental Engineering), Jiao, and Wadzuk. 2024 to 2028. Builds an AI-supported decision framework for GSI siting, maintenance, and performance that integrates engineering, environmental, and community data.
 
-**NSF DISES: Abating Mobility Equity Gaps Induced by Nuisance Flooding in Underserved Communities.** Co-PI with Ermagun and Xiong (PIs, University of Minnesota), Smith, and Wadzuk. 2024 to 2028. A coupled human-natural systems study of how nuisance flooding disrupts mobility and access in vulnerable communities, and how adaptation strategies can close those gaps.
+**NSF DISES: Abating Mobility Equity Gaps Induced by Nuisance Flooding in Underserved Communities.** Co-PI with Ermagun (PI, George Mason University) and Xiong (PI, Villanova), Smith, and Wadzuk. 2024 to 2028. A coupled human-natural systems study of how nuisance flooding disrupts mobility and access in vulnerable communities, and how adaptation strategies can close those gaps.
 
 **NSF CDS&E: AI for Sustainable and Fair Green Stormwater Infrastructure Deployment.** Co-PI with Smith (PI). 2022 to 2025. Methodological foundation for the larger SCC-IRG award; developed AI-based approaches to identify equitable siting strategies for GSI.
 
@@ -76,4 +76,4 @@ See the [Students](../students.qmd) page for the full list.
 
 ## Partners and collaborators
 
-Drs. Virginia Smith, Bridget Wadzuk, Kelly Good, and Robert Traver, Villanova Civil and Environmental Engineering (Villanova Center for Resilient Water Systems); Drs. Alireza Ermagun and Xiongbing Jin, University of Minnesota Department of Civil, Environmental, and Geo-Engineering; Dr. Sarah Lindley, University of Manchester; and the Philadelphia Water Department and other municipal partners.
+Drs. Virginia Smith, Bridget Wadzuk, Kelly Good, Robert Traver, and Chenfeng Xiong, Villanova (Center for Resilient Water Systems and Civil and Environmental Engineering); Dr. Alireza Ermagun, George Mason University; Dr. Sarah Lindley, University of Manchester; and the Philadelphia Water Department and other municipal partners.
