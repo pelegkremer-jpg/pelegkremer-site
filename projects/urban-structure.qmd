@@ -3,6 +3,7 @@ title: "Urban Structure and the Environment"
 subtitle: "Urban form, heat, and air quality"
 pagetitle: "Urban Structure and the Environment | Peleg Kremer"
 description: "Three-dimensional urban form and its relationship to heat, air quality, and ecological function."
+lightbox: auto
 ---
 
 ![Global distribution of dominant STURLA classes across 11,214 urban areas in 178 countries.](../assets/projects/sturla-global.png){fig-alt="World map of urban structure classes"}
@@ -19,11 +20,25 @@ Three interconnected lines of work:
 - **Urban form and the heat people experience.** We link the structure of city blocks to surface and air temperature, including work that bridges remotely sensed surface temperature to the air temperature residents actually feel, and work that quantifies how the choice of analysis grid shapes conclusions.
 - **Fine-scale urban air pollution.** With Dr. Kabindra Shakya in my department, we built a mobile platform for monitoring air and noise pollution in Philadelphia neighborhoods, and use it to study how pollution exposure varies with urban form and along lines of environmental justice.
 
-![Sensitivity of urban structure-temperature relationships to grid size across 399 grid configurations (Kremer, Weaver, Stewart 2026, Ecological Informatics).](../assets/projects/sturla-grid.png){fig-alt="R-squared vs grid size analysis"}
-
 ## Past funding
 
 **NSF Geography and Spatial Sciences: Multi-Dimensional Structure of Urban Landscape and the Supply and Distribution of Ecosystem Services.** PI, with Shakya. 2018 to 2024. Established and extended the STURLA framework and the mobile air pollution monitoring program in Philadelphia.
+
+## Figure gallery
+
+Click any figure to enlarge.
+
+::: {layout-ncol=2}
+
+![Sensitivity of urban structure-temperature relationships to grid size (Kremer, Weaver, Stewart 2026, *Ecological Informatics*).](../assets/projects/sturla-grid.png){.gallery-thumb fig-alt="R-squared vs grid size analysis"}
+
+![Three-dimensional urban structure and surface temperature in Philadelphia (Mitz et al. 2021, *Frontiers in Environmental Science*).](../assets/projects/sturla-philadelphia.jpg){.gallery-thumb fig-alt="STURLA classes and surface temperature in Philadelphia"}
+
+![Surface temperature to air temperature relationship in Philadelphia (Scolio et al. 2024, *Urban Climate*).](../assets/projects/surface-air-temp.jpg){.gallery-thumb fig-alt="Surface vs. air temperature"}
+
+![Intra-urban PM2.5 disparities in Philadelphia overlaid on historical redlining (Scolio, Bohra, Kremer, Shakya 2024, *Atmosphere*).](../assets/projects/pm25-redlining.jpg){.gallery-thumb fig-alt="PM2.5 and redlining overlay"}
+
+:::
 
 ## Featured publications
 
@@ -45,8 +60,6 @@ Selected papers; the full list is on the [Publications](../publications.qmd) pag
 
   *Maps fine-scale particulate air pollution disparities in Philadelphia onto historical patterns of redlining and disinvestment.*
 
-![Fine-scale particulate air pollution disparities in Philadelphia overlaid on historical patterns of redlining and disinvestment (Scolio, Bohra, Kremer, Shakya 2024, Atmosphere).](../assets/projects/pm25-redlining.jpg){fig-alt="PM2.5 air pollution and redlining overlay"}
-
 - Hamstead, Z. A., Kremer, P., Larondelle, N., McPhearson, T., Haase, D. (2016). Classification of the heterogeneous structure of urban landscapes (STURLA) as an indicator of landscape function applied to surface temperature in New York City. *Ecological Indicators*, 70, 574-585. [DOI](https://doi.org/10.1016/j.ecolind.2015.10.014)
 
   *Establishes the STURLA methodology and links it to surface temperature in New York City.*
@@ -55,13 +68,9 @@ Selected papers; the full list is on the [Publications](../publications.qmd) pag
 
   *Extends STURLA to Philadelphia and links three-dimensional urban structure to surface temperature at the block scale.*
 
-![Three-dimensional urban structure and surface temperature in Philadelphia (Mitz et al. 2021, Frontiers in Environmental Science).](../assets/projects/sturla-philadelphia.jpg){fig-alt="STURLA classes and surface temperature in Philadelphia"}
-
 - Shakya, K. M., Kremer, P., Henderson, K., McMahon, M., Peltier, R. E., Bromberg, S., Stewart, J. (2019). Mobile monitoring of air and noise pollution in Philadelphia neighborhoods during summer 2017. *Environmental Pollution*, 255, 113195. [DOI](https://doi.org/10.1016/j.envpol.2019.113195)
 
   *Demonstrates the mobile monitoring platform for capturing fine-scale variation in air and noise pollution across the city.*
-
-![Surface temperature to air temperature relationship in the Philadelphia metropolitan area (Scolio et al. 2024, Urban Climate).](../assets/projects/surface-air-temp.jpg){fig-alt="Surface temperature vs. air temperature relationship"}
 
 ## Current team
 
