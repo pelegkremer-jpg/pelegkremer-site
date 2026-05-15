@@ -129,8 +129,7 @@ Selected papers; the full list is on the [Publications](../publications.qmd) pag
 
   *Describes the PGDC's approach to building durable, community-governed garden data infrastructure.*
 
-- Kremer, P., Hamstead, Z. A., McPhearson, T. (2013). A social-ecological assessment of vacant lots in New York City. *Landscape and Urban Planning*, 120, 218-233. [DOI](https://doi.org/10.1016/j.landurbplan.2013.05.003) [EJ]{.ej-tag}
-
+- Kremer, P., Hamstead, Z. A., McPhearson, T. (2013). A social-ecological assessment of vacant lots in New York City. *Landscape and Urban Planning*, 120, 218-233. [DOI](https://doi.org/10.1016/j.landurbplan.2013.05.003)
   *Reframes vacant lots as a social-ecological resource rather than blight, mapping their value to communities.*
 
 - McPhearson, T., Kremer, P., Hamstead, Z. A. (2013). Mapping ecosystem services in New York City: applying a social-ecological approach in urban vacant land. *Ecosystem Services*, 5, 11-26. [DOI](https://doi.org/10.1016/j.ecoser.2013.06.005)

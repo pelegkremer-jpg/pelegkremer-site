@@ -1,0 +1,52 @@
+---
+title: "Urban Ecosystem Services and Wellbeing"
+subtitle: "Parks, urban nature, and the social-ecological framing of cities"
+pagetitle: "Urban Ecosystem Services and Wellbeing | Peleg Kremer"
+description: "Parks, urban nature, and the social-ecological framing of cities."
+---
+
+![Unequal access to social, environmental, and health amenities in US urban parks (Winkler, Clark, Locke, Kremer et al. 2024, Nature Cities).](../assets/projects/parks-inequality.jpg){fig-alt="Park amenity inequality across US cities"}
+
+::: {.lead}
+Urban ecosystem services, the benefits people receive from urban nature, have framed my program from the start. With collaborators across the United States and Europe, my lab studies who benefits from urban green space and on what terms: access to parks and the amenities they contain, the everyday interactions between people and urban nature, and the social-ecological framing that connects ecological function to questions of equity and disinvestment. This theme houses my multi-institution synthesis work and several foundational papers that anchor the broader research program.
+:::
+
+## What we do
+
+Three interconnected lines of work:
+
+- **Human-nature interactions in urban green space.** With European and US colleagues, we examine the socio-environmental drivers of how people actually use and benefit from urban green space, and the apparent paradox that greening cities can produce both ecological and social value while also intensifying inequality through displacement.
+- **The social-ecological framing of urban nature.** Foundational work with Timon McPhearson and Zoé Hamstead in New York City established a social-ecological approach to urban vacant land and ecosystem service mapping. These papers anchor the broader urban ES framing that shapes my work today, and they appear here as well as on the [Land in Common](land-in-common.qmd) page where the vacant-land thread continues.
+- **Park amenity inequality and access.** Through the SESYNC Parks for People working group, we showed that inequality in urban parks is not only a question of whether parks exist, but of what they contain. A national US analysis published in *Nature Cities* documented systematic disparities in the social, environmental, and health amenities present in urban parks.
+
+## Featured publications
+
+Selected papers; the full list is on the [Publications](../publications.qmd) page.
+
+- Winkler, R. L., Clark, J. A., Locke, D. H., Kremer, P., Aronson, M. F., Hoover, F.-A., Joo, H. E., La Rosa, D., Lee, K. J., Lerman, S. B., Pearsall, H., Vargo, T. L., Nilon, C. H., Lepczyk, C. A. (2024). Unequal access to social, environmental and health amenities in US urban parks. *Nature Cities*, 1(12), 861–870. [DOI](https://doi.org/10.1038/s44284-024-00153-2)
+
+  *A national analysis showing that disparities in urban parks are not only about whether parks exist but about what they contain.*
+
+- Lee, K., Aronson, M. F. J., Clark, J. A. G., Hoover, F.-A., Joo, H. E., Kremer, P., La Rosa, D., Larson, K. L., Lepczyk, C. A., Lerman, S. B., Locke, D. H., Nilon, C. H., Pearsall, H., Vargo, T. L. V. (2024). Limitations of existing park quality instruments and suggestions for future research. *Landscape and Urban Planning*, 249, 105127. [DOI](https://doi.org/10.1016/j.landurbplan.2024.105127)
+
+  *Reviews park-quality measurement instruments and proposes directions for the next generation of tools.*
+
+- Joo, H. E., Clark, J. A., Kremer, P., Aronson, M. F. (2024). Socio-environmental drivers of human-nature interactions in urban green spaces. *Urban Ecosystems*, 27(6), 2397–2413. [DOI](https://doi.org/10.1007/s11252-024-01593-3)
+
+  *Examines the socio-environmental drivers of how people actually interact with urban green spaces.*
+
+- Haase, D., Kabisch, S., Haase, A., Andersson, E., Banzhaf, E., Baró, F., et al. (2017). Greening cities, to be socially inclusive? About the alleged paradox of society and ecology in cities. *Habitat International*, 64, 41–48. [DOI](https://doi.org/10.1016/j.habitatint.2017.04.005)
+
+  *Articulates the paradox between urban greening and social inclusion that frames much of this work.*
+
+- Kremer, P., Hamstead, Z. A., McPhearson, T. (2013). A social-ecological assessment of vacant lots in New York City. *Landscape and Urban Planning*, 120, 218–233. [DOI](https://doi.org/10.1016/j.landurbplan.2013.05.003)
+
+  *Reframes vacant lots as a social-ecological resource rather than blight. Also featured on [Land in Common](land-in-common.qmd).*
+
+- McPhearson, T., Kremer, P., Hamstead, Z. A. (2013). Mapping ecosystem services in New York City: applying a social-ecological approach in urban vacant land. *Ecosystem Services*, 5, 11–26. [DOI](https://doi.org/10.1016/j.ecoser.2013.06.005)
+
+  *Maps the ecosystem services provided by vacant land across New York City. Also featured on [Land in Common](land-in-common.qmd).*
+
+## Data and code
+
+Winkler, R. L., Clark, J. A. G., Locke, D. H., Kremer, P., Aronson, M. F. J., Hoover, F.-A., Joo, H. E., La Rosa, D., Lee, K. J., Lerman, S. B., Pearsall, H., Vargo, T. L. V., Nilon, C. H., Lepczyk, C. A. (2025). Data and code for analyzing unequal access to social, environmental, and health amenities in United States urban parks. Forest Service Research Data Archive, USDA Forest Service. [DOI](https://doi.org/10.2737/rds-2024-0039)

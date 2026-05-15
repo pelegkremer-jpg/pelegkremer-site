@@ -41,9 +41,11 @@ Selected papers; the full list is on the [Publications](../publications.qmd) pag
 
   *Bridges remotely sensed surface temperature to human-relevant air temperature, opening a path to use globally available remote sensing for urban heat exposure assessment.*
 
-- Scolio, M., Bohra, C., Kremer, P., Shakya, K. M. (2024). Spatial analysis of intra-urban air pollution disparities through an environmental justice lens: a case study of Philadelphia, PA. *Atmosphere*, 15(7), 755. [DOI](https://doi.org/10.3390/atmos15070755) [EJ]{.ej-tag}
+- Scolio, M., Bohra, C., Kremer, P., Shakya, K. M. (2024). Spatial analysis of intra-urban air pollution disparities through an environmental justice lens: a case study of Philadelphia, PA. *Atmosphere*, 15(7), 755. [DOI](https://doi.org/10.3390/atmos15070755)
 
   *Maps fine-scale particulate air pollution disparities in Philadelphia onto historical patterns of redlining and disinvestment.*
+
+![Fine-scale particulate air pollution disparities in Philadelphia overlaid on historical patterns of redlining and disinvestment (Scolio, Bohra, Kremer, Shakya 2024, Atmosphere).](../assets/projects/pm25-redlining.jpg){fig-alt="PM2.5 air pollution and redlining overlay"}
 
 - Hamstead, Z. A., Kremer, P., Larondelle, N., McPhearson, T., Haase, D. (2016). Classification of the heterogeneous structure of urban landscapes (STURLA) as an indicator of landscape function applied to surface temperature in New York City. *Ecological Indicators*, 70, 574-585. [DOI](https://doi.org/10.1016/j.ecolind.2015.10.014)
 

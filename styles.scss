@@ -261,22 +261,6 @@ hr { border: 0; border-top: 1px solid $rule; margin: 2.5rem 0; }
   margin-right: 0.5rem;
 }
 
-// Environmental justice cross-cutting tag
-.ej-tag {
-  display: inline-block;
-  font-size: 0.66rem;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-  font-weight: 600;
-  color: $terra;
-  border: 1px solid $terra;
-  border-radius: 3px;
-  padding: 0.05rem 0.35rem;
-  margin-left: 0.3rem;
-  vertical-align: 0.08em;
-  white-space: nowrap;
-}
-
 // Buttons
 .button-row { margin: 1.2rem 0; }
 .btn-quiet {

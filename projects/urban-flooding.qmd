@@ -37,12 +37,10 @@ Three interconnected lines of work:
 
 Selected papers; the full list is on the [Publications](../publications.qmd) page.
 
-- Scolio, M., Kremer, P., Smith, V., Amur, A., Wadzuk, B., Homet, K., Devlin, E., Al Mehedi, M. A., Moore, L. (2025). Delineating urban flooding when incorporating community stormwater knowledge. *Environmental Research: Infrastructure and Sustainability*, 5(1), 015008. [DOI](https://doi.org/10.1088/2634-4505/adad11) [EJ]{.ej-tag}
-
+- Scolio, M., Kremer, P., Smith, V., Amur, A., Wadzuk, B., Homet, K., Devlin, E., Al Mehedi, M. A., Moore, L. (2025). Delineating urban flooding when incorporating community stormwater knowledge. *Environmental Research: Infrastructure and Sustainability*, 5(1), 015008. [DOI](https://doi.org/10.1088/2634-4505/adad11)
   *Shows that incorporating community knowledge fundamentally changes which neighborhoods get identified as flood-prone, and argues for a rethinking of how flood risk is mapped.*
 
-- Scolio, M., Amur, A., Olson, E., Smith, V., Wadzuk, B., Homet, K., Devlin, E., Kremer, P. (2025). Reconceptualizing urban flood modeling: toward intersectional and equitable urban flood risk planning. *Sustainable Cities and Society*, 130, 106578. [DOI](https://doi.org/10.1016/j.scs.2025.106578) [EJ]{.ej-tag}
-
+- Scolio, M., Amur, A., Olson, E., Smith, V., Wadzuk, B., Homet, K., Devlin, E., Kremer, P. (2025). Reconceptualizing urban flood modeling: toward intersectional and equitable urban flood risk planning. *Sustainable Cities and Society*, 130, 106578. [DOI](https://doi.org/10.1016/j.scs.2025.106578)
   *Argues for an intersectional approach to flood-risk planning that bridges community legacies with future climate change. Companion to the community-knowledge paper.*
 
 - Ermagun, A., Janatabadi, F., Safarloo, Z., Kremer, P., Lindley, S. (2026). Urban flooding restructures mobility through coupled behavioral and network disruption: a systematic review of evidence. *Sustainable Cities and Society*, 107285. [Link](https://www.sciencedirect.com/science/article/pii/S2210670726001721)
@@ -57,8 +55,7 @@ Selected papers; the full list is on the [Publications](../publications.qmd) pag
 
   *Methodological advance in remote sensing of floods across urban-rural gradients.*
 
-- Marks, N. K., Hosseiny, H., Bill, V. P., Ahn, K. L., Crimmins, M. C., Kremer, P., Smith, V. B. (2022). Spatial integration of urban runoff modeling, heat, and social vulnerability for blue-green infrastructure planning and management. *Journal of Water Resources Planning and Management*, 148(11). [EJ]{.ej-tag}
-
+- Marks, N. K., Hosseiny, H., Bill, V. P., Ahn, K. L., Crimmins, M. C., Kremer, P., Smith, V. B. (2022). Spatial integration of urban runoff modeling, heat, and social vulnerability for blue-green infrastructure planning and management. *Journal of Water Resources Planning and Management*, 148(11).
   *Integrated runoff, heat, and social vulnerability framework. An early synthesis paper that anchors the program.*
 
 ![Citywide urban runoff modeling framework applied to Philadelphia (Hosseiny et al. 2020, Water).](../assets/projects/urban-runoff.jpg){fig-alt="Urban runoff modeling framework"}
@@ -73,7 +70,3 @@ Selected papers; the full list is on the [Publications](../publications.qmd) pag
 - **Mac Sanders** – human activity and social context around GSI sites in Kensington.
 
 See the [Students](../students.qmd) page for the full list.
-
-## Partners and collaborators
-
-Drs. Virginia Smith, Bridget Wadzuk, Kelly Good, Robert Traver, and Chenfeng Xiong, Villanova (Center for Resilient Water Systems and Civil and Environmental Engineering); Dr. Alireza Ermagun, George Mason University.

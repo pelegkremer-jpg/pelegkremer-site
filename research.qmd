@@ -4,7 +4,7 @@ pagetitle: "Research | Peleg Kremer"
 ---
 
 ::: {.lead}
-My lab investigates how the structure, function, and governance of urban social-ecological systems shape the distribution of environmental benefits and risks across cities. We use spatial analysis, GIS, remote sensing, and increasingly machine learning to ask how cities can become more sustainable, just, and resilient in the face of climate change, rapid urban growth, and persistent social inequity. Most of our fieldwork is in Philadelphia, with comparative and global work in collaboration with partners across the United States, Europe, and Asia.
+My lab investigates how the structure, function, and governance of urban social-ecological systems shape the distribution of environmental benefits and risks across cities. We use spatial analysis, GIS, remote sensing, and increasingly machine learning to ask how cities can become more sustainable, just, and resilient in the face of climate change, rapid urban growth, and persistent social inequity. Most of our fieldwork is in Philadelphia, with comparative and global work in collaboration with partners across the United States, Europe, and Asia. Across all four themes, we attend to how environmental burdens and benefits are distributed along lines of race, income, and historical disinvestment.
 :::
 
 ## Research themes
@@ -37,10 +37,10 @@ Vacant land is a persistent structural feature of US cities. Rather than treatin
 
 ::: {.theme-card}
 ::: {.funder-tag}
-Parks, equity, and amenity access
+Parks, urban nature, and the social-ecological framing of cities
 :::
-### [Environmental Justice and Green Space](projects/environmental-justice.qmd)
-Urban green spaces, parks, and environmental amenities are unequally distributed within and across US cities, often along lines of race, income, and historical disinvestment. Through the SESYNC Parks for People working group (now concluded) and local work in Philadelphia, my collaborators and I produced a sequence of papers on unequal access to urban nature. Equity remains the connective tissue across the rest of the program.
+### [Urban Ecosystem Services and Wellbeing](projects/urban-ecosystem-services.qmd)
+Urban ecosystem services have framed my program from the start. With collaborators across the United States and Europe, my lab studies who benefits from urban green space and on what terms: access to parks, the everyday interactions between people and urban nature, and the foundational social-ecological framing that anchors the rest of the research program.
 :::
 
 :::

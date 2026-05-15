@@ -139,10 +139,10 @@ Urban vacant land as a generative space, and the Philadelphia Garden Data Collab
 
 ::: {.theme-card}
 ::: {.funder-tag}
-Unequal access to urban nature
+Parks, urban nature, and the social-ecological framing of cities
 :::
-### [Environmental Justice and Green Space](projects/environmental-justice.qmd)
-Why access to parks and environmental amenities remains unequal, and what fine-scale spatial analysis can change about it.
+### [Urban Ecosystem Services and Wellbeing](projects/urban-ecosystem-services.qmd)
+Who benefits from urban green space and on what terms: access to parks, everyday human-nature interactions, and the social-ecological framing that anchors the rest of the program.
 :::
 
 :::
