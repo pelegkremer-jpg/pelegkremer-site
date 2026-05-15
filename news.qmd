@@ -10,7 +10,10 @@ Short, dated entries about new papers, talks, grants, and lab activity. Older it
 
 ## 2026
 
-### Apr 2026 · AAG San Francisco
+### Apr 2026 · Anna Kosierowski defends honors thesis
+On April 17, **Anna Kosierowski** defended her honors thesis, *Legacy of Redlining: A GIS-Based Study of Environmental Hazards and Social Vulnerability in Historically Redlined Neighborhoods*, during the Villanova Honors Program Senior Thesis Defense Day.
+
+### Mar 2026 · AAG San Francisco
 Three Kremer-lab papers at the AAG annual meeting:
 
 - *Cultivating Data: The Philadelphia Garden Data Collaborative's Approach to Urban Garden Preservation* (**Kremer**, Borowiak, Scolio).

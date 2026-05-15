@@ -82,6 +82,11 @@ What is new
 - ::: {.date}
   2026 · Apr
   :::
+  **Anna Kosierowski** defended her honors thesis, *Legacy of Redlining: A GIS-Based Study of Environmental Hazards and Social Vulnerability in Historically Redlined Neighborhoods*, during the Villanova Honors Program Senior Thesis Defense Day.
+
+- ::: {.date}
+  2026 · Mar
+  :::
   Three Kremer-lab papers at the AAG annual meeting in San Francisco: [PGDC's approach to urban garden preservation](projects/land-in-common.qmd), [measuring community garden security in Philadelphia](projects/land-in-common.qmd), and PM2.5 and chronic disease across 500 US cities.
 
 - ::: {.date}
@@ -98,11 +103,6 @@ What is new
   2025 · Jul
   :::
   Began as Associate Editor of [**Sustainable Cities and Society**](https://www.sciencedirect.com/journal/sustainable-cities-and-society).
-
-- ::: {.date}
-  2024 · Dec
-  :::
-  [*Unequal access to social, environmental and health amenities in US urban parks*](https://doi.org/10.1038/s44284-024-00153-2) published in **Nature Cities** (Winkler, Clark, Locke, Kremer et al.).
 :::
 
 [See all news](news.qmd){.btn-quiet .outline}
