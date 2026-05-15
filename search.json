@@ -137,7 +137,7 @@
     "href": "projects/urban-structure.html#what-we-do",
     "title": "Urban Structure and the Environment",
     "section": "What we do",
-    "text": "What we do\nThree interconnected lines of work:\n\nThree-dimensional classification of urban form. The STURLA classification captures common compositions of buildings, vegetation, and pavement at the block scale. It was developed through a Berlin–New York City comparison, refined for New York City, extended to Philadelphia, and now applied via Google Earth Engine to more than 11,000 urban areas worldwide.\nUrban form and the heat people experience. We link the structure of city blocks to surface and air temperature, including work that bridges remotely sensed surface temperature to the air temperature residents actually feel, and work that quantifies how the choice of analysis grid shapes conclusions.\nFine-scale urban air pollution. With Dr. Kabindra Shakya in Villanova Chemistry, we built a mobile platform for monitoring air and noise pollution in Philadelphia neighborhoods, and use it to study how pollution exposure varies with urban form and along lines of environmental justice.\n\n\n\n\nSensitivity of urban structure-temperature relationships to grid size across 399 grid configurations (Kremer, Weaver, Stewart 2026, Ecological Informatics)."
+    "text": "What we do\nThree interconnected lines of work:\n\nThree-dimensional classification of urban form. The STURLA classification captures common compositions of buildings, vegetation, and pavement at the block scale. It was developed through a Berlin–New York City comparison, refined for New York City, extended to Philadelphia, and now applied via Google Earth Engine to more than 11,000 urban areas worldwide.\nUrban form and the heat people experience. We link the structure of city blocks to surface and air temperature, including work that bridges remotely sensed surface temperature to the air temperature residents actually feel, and work that quantifies how the choice of analysis grid shapes conclusions.\nFine-scale urban air pollution. With Dr. Kabindra Shakya in my department, we built a mobile platform for monitoring air and noise pollution in Philadelphia neighborhoods, and use it to study how pollution exposure varies with urban form and along lines of environmental justice.\n\n\n\n\nSensitivity of urban structure-temperature relationships to grid size across 399 grid configurations (Kremer, Weaver, Stewart 2026, Ecological Informatics)."
   },
   {
     "objectID": "projects/urban-structure.html#active-funded-projects",
@@ -165,7 +165,7 @@
     "href": "projects/urban-structure.html#partners-and-collaborators",
     "title": "Urban Structure and the Environment",
     "section": "Partners and collaborators",
-    "text": "Partners and collaborators\nDr. Dagmar Haase, Humboldt University of Berlin and the Leibniz Institute of Ecological Urban and Regional Development (IOER), Leipzig; Dr. Kabindra Shakya, Villanova University Department of Chemistry; Dr. Timon McPhearson, The New School; and Dr. Neele Larondelle."
+    "text": "Partners and collaborators\nDr. Dagmar Haase, Humboldt University of Berlin and the Leibniz Institute of Ecological Urban and Regional Development (IOER), Leipzig; Dr. Kabindra Shakya, Villanova University Department of Geography and the Environment; Dr. Timon McPhearson, The New School; and Dr. Neele Larondelle."
   },
   {
     "objectID": "projects/environmental-justice.html",
