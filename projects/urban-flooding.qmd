@@ -76,4 +76,4 @@ See the [Students](../students.qmd) page for the full list.
 
 ## Partners and collaborators
 
-Drs. Virginia Smith, Bridget Wadzuk, Kelly Good, Robert Traver, and Chenfeng Xiong, Villanova (Center for Resilient Water Systems and Civil and Environmental Engineering); Dr. Alireza Ermagun, George Mason University; Dr. Sarah Lindley, University of Manchester; and the Philadelphia Water Department and other municipal partners.
+Drs. Virginia Smith, Bridget Wadzuk, Kelly Good, Robert Traver, and Chenfeng Xiong, Villanova (Center for Resilient Water Systems and Civil and Environmental Engineering); Dr. Alireza Ermagun, George Mason University.
