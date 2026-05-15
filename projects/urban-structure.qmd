@@ -60,7 +60,3 @@ Selected papers; the full list is on the [Publications](../publications.qmd) pag
 - **Emily Myers** – PM2.5 exposure, social vulnerability, and chronic disease across 500 US cities.
 
 Recent contributors include Dennis Weaver and Justin Stewart (grid sensitivity and temporal change), Madeline Scolio (surface-to-air temperature, air pollution and environmental justice), and Ben Terry (land-use regression for nitrogen dioxide). See the [Students](../students.qmd) page for the full list.
-
-## Partners and collaborators
-
-Dr. Dagmar Haase, Humboldt University of Berlin and the Leibniz Institute of Ecological Urban and Regional Development (IOER), Leipzig; Dr. Kabindra Shakya, Villanova University Department of Geography and the Environment; Dr. Timon McPhearson, The New School; and Dr. Neele Larondelle.
