@@ -15,8 +15,6 @@ I teach undergraduate and graduate courses in Geographic Information Systems, ur
 | GEV 3521 | GIS for Urban Sustainability | Undergraduate |
 | GEV 4301 | Topics: Google Earth Engine | Undergraduate / Graduate |
 | GEV 4700 | Geographic Information Systems | Undergraduate |
-| GEV 6005 | Senior Research Seminar | Undergraduate |
-| GEV 7030 | Proposal Development | Graduate |
 | GEV 7040 | Introduction to GIS | Graduate |
 | GEV 7041 | GIS for Environmental Systems | Graduate |
 
