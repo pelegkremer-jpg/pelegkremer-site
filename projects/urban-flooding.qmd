@@ -60,13 +60,3 @@ Selected papers; the full list is on the [Publications](../publications.qmd) pag
 
 ![Citywide urban runoff modeling framework applied to Philadelphia (Hosseiny et al. 2020, Water).](../assets/projects/urban-runoff.jpg){fig-alt="Urban runoff modeling framework"}
 
-## Current team
-
-- **Madeline Scolio** – equitable flood-risk modeling and community stormwater knowledge.
-- **Achira Amur** – machine learning for green stormwater infrastructure performance.
-- **Tefera Shibeshi** – modeling of urban nuisance flooding.
-- **Prottoy Roy** – spatiotemporal modeling of nuisance flood risk.
-- **Charles Wildonger** – heavy metal contamination and transport in green stormwater infrastructure.
-- **Mac Sanders** – human activity and social context around GSI sites in Kensington.
-
-See the [Students](../students.qmd) page for the full list.
