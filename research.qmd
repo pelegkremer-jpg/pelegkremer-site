@@ -4,7 +4,7 @@ pagetitle: "Research | Peleg Kremer"
 ---
 
 ::: {.lead}
-My lab investigates how the structure, function, and governance of urban social-ecological systems shape the distribution of environmental benefits and risks across cities. We use spatial analysis, GIS, remote sensing, and increasingly machine learning to ask how cities can become more sustainable, just, and resilient in the face of climate change, rapid urban growth, and persistent social inequity. Most of our fieldwork is in Philadelphia, with comparative and global work in collaboration with partners across the United States, Europe, and Asia. Across all four themes, we attend to how environmental burdens and benefits are distributed along lines of race, income, and historical disinvestment.
+My lab investigates how the structure, function, and governance of urban social-ecological systems shape the distribution of environmental benefits and risks across cities. We use spatial analysis, GIS, remote sensing, and increasingly machine learning to ask how cities can become more sustainable, just, and resilient in the face of climate change, rapid urban growth, and persistent social inequity. Most of our fieldwork is in Philadelphia, with comparative and global work in collaboration with partners across the United States and Europe. Across all four themes, we attend to how environmental burdens and benefits are distributed along lines of race, income, and historical disinvestment.
 :::
 
 ## Research themes
