@@ -1,55 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://pelegkremer.com/about.html</loc>
-    <lastmod>2026-05-19T22:55:43.991Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pelegkremer.com/teaching.html</loc>
-    <lastmod>2026-05-19T22:55:44.018Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pelegkremer.com/contact.html</loc>
-    <lastmod>2026-05-19T22:55:44.017Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pelegkremer.com/index.html</loc>
-    <lastmod>2026-05-19T22:55:44.017Z</lastmod>
-  </url>
-  <url>
     <loc>https://pelegkremer.com/projects/urban-structure.html</loc>
-    <lastmod>2026-05-19T22:55:44.018Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pelegkremer.com/projects/urban-flooding.html</loc>
-    <lastmod>2026-05-19T22:55:44.018Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pelegkremer.com/publications.html</loc>
-    <lastmod>2026-05-19T22:55:44.018Z</lastmod>
+    <lastmod>2026-05-31T20:46:15.711Z</lastmod>
   </url>
   <url>
     <loc>https://pelegkremer.com/projects/urban-ecosystem-services.html</loc>
-    <lastmod>2026-05-19T22:55:44.018Z</lastmod>
+    <lastmod>2026-05-31T20:46:15.711Z</lastmod>
   </url>
   <url>
-    <loc>https://pelegkremer.com/projects/land-in-common.html</loc>
-    <lastmod>2026-05-19T22:55:44.018Z</lastmod>
+    <loc>https://pelegkremer.com/index.html</loc>
+    <lastmod>2026-05-31T20:46:15.710Z</lastmod>
   </url>
   <url>
-    <loc>https://pelegkremer.com/cv.html</loc>
-    <lastmod>2026-05-19T22:55:44.017Z</lastmod>
+    <loc>https://pelegkremer.com/teaching.html</loc>
+    <lastmod>2026-05-31T20:46:15.711Z</lastmod>
   </url>
   <url>
-    <loc>https://pelegkremer.com/news.html</loc>
-    <lastmod>2026-05-19T22:55:44.017Z</lastmod>
+    <loc>https://pelegkremer.com/contact.html</loc>
+    <lastmod>2026-05-31T20:46:15.710Z</lastmod>
   </url>
   <url>
-    <loc>https://pelegkremer.com/students.html</loc>
-    <lastmod>2026-05-19T22:55:44.018Z</lastmod>
+    <loc>https://pelegkremer.com/publications.html</loc>
+    <lastmod>2026-05-31T20:46:15.711Z</lastmod>
   </url>
   <url>
     <loc>https://pelegkremer.com/research.html</loc>
-    <lastmod>2026-05-19T22:55:44.018Z</lastmod>
+    <lastmod>2026-05-31T20:46:15.711Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pelegkremer.com/about.html</loc>
+    <lastmod>2026-05-31T20:46:15.690Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pelegkremer.com/students.html</loc>
+    <lastmod>2026-05-31T20:46:15.711Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pelegkremer.com/cv.html</loc>
+    <lastmod>2026-05-31T20:46:15.710Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pelegkremer.com/news.html</loc>
+    <lastmod>2026-05-31T20:46:15.710Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pelegkremer.com/projects/urban-flooding.html</loc>
+    <lastmod>2026-05-31T20:46:15.711Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pelegkremer.com/projects/land-in-common.html</loc>
+    <lastmod>2026-05-31T20:46:15.710Z</lastmod>
   </url>
 </urlset>

@@ -1,52 +1,80 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "projects/urban-structure.html",
+    "href": "projects/urban-structure.html",
+    "title": "Urban Structure and the Environment",
     "section": "",
-    "text": "Dr. Peleg Kremer is an Associate Professor in the Department of Geography and the Environment at Villanova University, where she also serves as Program Director for Environmental Studies. Her lab focuses on spatial patterns in social-ecological systems and urban sustainability. Using interdisciplinary approaches in spatial analysis, GIS, and remote sensing, she investigates the relationships between urban environmental and ecological processes and the built environment, with active programs of work on urban heat, air quality, flooding, green stormwater infrastructure, and equitable access to green space in Philadelphia and other US cities.\nShe is currently Co-PI on four NSF awards and two William Penn Foundation grants, Associate Editor of Sustainable Cities and Society, and recipient of the 2023 Villanova Outstanding Faculty Mentor Award. She teaches undergraduate and graduate courses in Geographic Information Systems, urban sustainability, and the built environment, and has mentored more than two dozen graduate and undergraduate researchers since 2022.\nShe holds a PhD in Energy and Environmental Policy from the University of Delaware."
+    "text": "Global distribution of dominant STURLA classes across 11,214 urban areas in 178 countries."
   },
   {
-    "objectID": "about.html#appointments",
-    "href": "about.html#appointments",
-    "title": "About",
-    "section": "Appointments",
-    "text": "Appointments\n\n\n\n\n\n\n\nYears\nRole\n\n\n\n\n2022 – present\nAssociate Professor, Department of Geography and the Environment, Villanova University\n\n\n2021 – present\nProgram Director, Environmental Studies, Villanova University\n\n\n2016 – 2022\nAssistant Professor, Department of Geography and the Environment, Villanova University\n\n\n2015 – 2016\nVisiting Assistant Professor, Department of Geography and the Environment, Villanova University"
+    "objectID": "projects/urban-structure.html#what-we-do",
+    "href": "projects/urban-structure.html#what-we-do",
+    "title": "Urban Structure and the Environment",
+    "section": "What we do",
+    "text": "What we do\nThree interconnected lines of work:\n\nThree-dimensional classification of urban form. The STURLA classification captures common compositions of buildings, vegetation, and pavement at the block scale. It was developed through a Berlin–New York City comparison, refined for New York City, extended to Philadelphia, and now applied via Google Earth Engine to more than 11,000 urban areas worldwide.\nUrban form and the heat people experience. We link the structure of city blocks to surface and air temperature, including work that bridges remotely sensed surface temperature to the air temperature residents actually feel, and work that quantifies how the choice of analysis grid shapes conclusions.\nFine-scale urban air pollution. With Dr. Kabindra Shakya in my department, we built a mobile platform for monitoring air and noise pollution in Philadelphia neighborhoods, and use it to study how pollution exposure varies with urban form and along lines of environmental justice."
   },
   {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "About",
-    "section": "Education",
-    "text": "Education\n\n\n\nYear\nDegree\n\n\n\n\n2011\nPhD, Energy and Environmental Policy, University of Delaware\n\n\n2005\nM.A., Geography, Tel Aviv University\n\n\n2000\nB.Sc., Agricultural Economics, Hebrew University of Jerusalem"
+    "objectID": "projects/urban-structure.html#funding",
+    "href": "projects/urban-structure.html#funding",
+    "title": "Urban Structure and the Environment",
+    "section": "Funding",
+    "text": "Funding\nNSF Geography and Spatial Sciences: Multi-Dimensional Structure of Urban Landscape and the Supply and Distribution of Ecosystem Services. PI, with Shakya. 2018 to 2024. Established and extended the STURLA framework and the mobile air pollution monitoring program in Philadelphia."
   },
   {
-    "objectID": "about.html#awards-and-honors",
-    "href": "about.html#awards-and-honors",
-    "title": "About",
-    "section": "Awards and honors",
-    "text": "Awards and honors\n\nOutstanding Faculty Mentor Teaching Award, Villanova University, 2023\nWRA Innovation & Collaboration – Research Award, Water Resources Association of the Delaware River Basin, 2024"
+    "objectID": "projects/urban-structure.html#figure-gallery",
+    "href": "projects/urban-structure.html#figure-gallery",
+    "title": "Urban Structure and the Environment",
+    "section": "Figure gallery",
+    "text": "Figure gallery\nClick any figure to enlarge.\n\n\n\n\n\n\nSensitivity of urban structure-temperature relationships to grid size (Kremer, Weaver, Stewart 2026, Ecological Informatics).\n\n\n\n\n\n\n\nThree-dimensional urban structure and surface temperature in Philadelphia (Mitz et al. 2021, Frontiers in Environmental Science).\n\n\n\n\n\n\n\n\n\nSurface temperature to air temperature relationship in Philadelphia (Scolio et al. 2024, Urban Climate).\n\n\n\n\n\n\n\nIntra-urban PM2.5 disparities in Philadelphia overlaid on historical redlining (Scolio, Bohra, Kremer, Shakya 2024, Atmosphere)."
   },
   {
-    "objectID": "about.html#editorial-roles",
-    "href": "about.html#editorial-roles",
-    "title": "About",
-    "section": "Editorial roles",
-    "text": "Editorial roles\n\nAssociate Editor, Sustainable Cities and Society (2025 – present)\nLead Special Issue Editor, “Sustaining Cities under Environmental Extremes”, Sustainable Cities and Society (2024 – 2026)\nEditorial Review Board, Frontiers in Environmental Science: Land Use Dynamics (2018 – present)"
+    "objectID": "projects/urban-structure.html#featured-publications",
+    "href": "projects/urban-structure.html#featured-publications",
+    "title": "Urban Structure and the Environment",
+    "section": "Featured publications",
+    "text": "Featured publications\nSelected papers; the full list is on the Publications page.\n\nKremer, P. Urban structure shapes land surface temperature: evidence from a global analysis of urban areas. Urban Climate (in review).\nApplies STURLA via a Google Earth Engine pipeline to 11,214 urban areas across 178 countries, testing whether case-study temperature patterns generalize worldwide.\nKremer, P., Weaver, D., Stewart, J. D. (2026). Sensitivity of urban structure-temperature relationships to grid parameterization. Ecological Informatics, 93, 103587. DOI\nTests 399 grid configurations and shows that grid size, not orientation, drives results, with implications for any analysis that relies on gridded urban data.\nScolio, M., Kremer, P., Zhang, Y., Shakya, K. M. (2024). Spatial-temporal modeling of the relationship between surface temperature and air temperature in metropolitan urban systems. Urban Climate, 55, 101921. DOI\nBridges remotely sensed surface temperature to human-relevant air temperature, opening a path to use globally available remote sensing for urban heat exposure assessment.\nScolio, M., Bohra, C., Kremer, P., Shakya, K. M. (2024). Spatial analysis of intra-urban air pollution disparities through an environmental justice lens: a case study of Philadelphia, PA. Atmosphere, 15(7), 755. DOI\nMaps fine-scale particulate air pollution disparities in Philadelphia onto historical patterns of redlining and disinvestment.\nHamstead, Z. A., Kremer, P., Larondelle, N., McPhearson, T., Haase, D. (2016). Classification of the heterogeneous structure of urban landscapes (STURLA) as an indicator of landscape function applied to surface temperature in New York City. Ecological Indicators, 70, 574-585. DOI\nEstablishes the STURLA methodology and links it to surface temperature in New York City.\nMitz, E., Kremer, P., Larondelle, N., Stewart, J. D. (2021). Structure of urban landscape and surface temperature: a case study in Philadelphia, PA. Frontiers in Environmental Science, 9. DOI\nExtends STURLA to Philadelphia and links three-dimensional urban structure to surface temperature at the block scale.\nShakya, K. M., Kremer, P., Henderson, K., McMahon, M., Peltier, R. E., Bromberg, S., Stewart, J. (2019). Mobile monitoring of air and noise pollution in Philadelphia neighborhoods during summer 2017. Environmental Pollution, 255, 113195. DOI\nDemonstrates the mobile monitoring platform for capturing fine-scale variation in air and noise pollution across the city."
   },
   {
-    "objectID": "about.html#selected-service",
-    "href": "about.html#selected-service",
-    "title": "About",
-    "section": "Selected service",
-    "text": "Selected service\n\nCommittee Chair, GEV Committee on Diversity and Inclusion (2016 – present)\nSenior Review Panel, NSF Human-Environment and Geographical Sciences (2024)\nMember, Strategic Initiative for Climate, Justice, and Sustainability: Research Committee, Villanova (2024 – present)\nMember, CLAS DEI Committee (2020 – present)\nLong-standing partner, Philadelphia Garden Data Collaborative (2015 – present)"
+    "objectID": "projects/urban-ecosystem-services.html",
+    "href": "projects/urban-ecosystem-services.html",
+    "title": "Urban Ecosystem Services and Wellbeing",
+    "section": "",
+    "text": "Unequal access to social, environmental, and health amenities in US urban parks (Winkler, Clark, Locke, Kremer et al. 2024, Nature Cities)."
   },
   {
-    "objectID": "about.html#professional-memberships",
-    "href": "about.html#professional-memberships",
-    "title": "About",
-    "section": "Professional memberships",
-    "text": "Professional memberships\nAmerican Association of Geographers · American Geophysical Union · Association for Environmental Studies and Sciences"
+    "objectID": "projects/urban-ecosystem-services.html#what-we-do",
+    "href": "projects/urban-ecosystem-services.html#what-we-do",
+    "title": "Urban Ecosystem Services and Wellbeing",
+    "section": "What we do",
+    "text": "What we do\nThree interconnected lines of work:\n\nHuman-nature interactions in urban green space. With European and US colleagues, we examine the socio-environmental drivers of how people actually use and benefit from urban green space, and the apparent paradox that greening cities can produce both ecological and social value while also intensifying inequality through displacement.\nThe social-ecological framing of urban nature. Foundational work with Timon McPhearson and Zoé Hamstead in New York City established a social-ecological approach to urban vacant land and ecosystem service mapping. These papers anchor the broader urban ES framing that shapes my work today, and they appear here as well as on the Community Gardens and the Urban Commons page where the vacant-land thread continues.\nPark amenity inequality and access. Through the SESYNC Parks for People working group, we showed that inequality in urban parks is not only a question of whether parks exist, but of what they contain. A national US analysis published in Nature Cities documented systematic disparities in the social, environmental, and health amenities present in urban parks."
+  },
+  {
+    "objectID": "projects/urban-ecosystem-services.html#featured-publications",
+    "href": "projects/urban-ecosystem-services.html#featured-publications",
+    "title": "Urban Ecosystem Services and Wellbeing",
+    "section": "Featured publications",
+    "text": "Featured publications\nSelected papers; the full list is on the Publications page.\n\nWinkler, R. L., Clark, J. A., Locke, D. H., Kremer, P., Aronson, M. F., Hoover, F.-A., Joo, H. E., La Rosa, D., Lee, K. J., Lerman, S. B., Pearsall, H., Vargo, T. L., Nilon, C. H., Lepczyk, C. A. (2024). Unequal access to social, environmental and health amenities in US urban parks. Nature Cities, 1(12), 861–870. DOI\nA national analysis showing that disparities in urban parks are not only about whether parks exist but about what they contain.\nLee, K., Aronson, M. F. J., Clark, J. A. G., Hoover, F.-A., Joo, H. E., Kremer, P., La Rosa, D., Larson, K. L., Lepczyk, C. A., Lerman, S. B., Locke, D. H., Nilon, C. H., Pearsall, H., Vargo, T. L. V. (2024). Limitations of existing park quality instruments and suggestions for future research. Landscape and Urban Planning, 249, 105127. DOI\nReviews park-quality measurement instruments and proposes directions for the next generation of tools.\nJoo, H. E., Clark, J. A., Kremer, P., Aronson, M. F. (2024). Socio-environmental drivers of human-nature interactions in urban green spaces. Urban Ecosystems, 27(6), 2397–2413. DOI\nExamines the socio-environmental drivers of how people actually interact with urban green spaces.\nHaase, D., Kabisch, S., Haase, A., Andersson, E., Banzhaf, E., Baró, F., et al. (2017). Greening cities, to be socially inclusive? About the alleged paradox of society and ecology in cities. Habitat International, 64, 41–48. DOI\nArticulates the paradox between urban greening and social inclusion that frames much of this work.\nKremer, P., Hamstead, Z. A., McPhearson, T. (2013). A social-ecological assessment of vacant lots in New York City. Landscape and Urban Planning, 120, 218–233. DOI\nReframes vacant lots as a social-ecological resource rather than blight. Also featured on Community Gardens and the Urban Commons.\nMcPhearson, T., Kremer, P., Hamstead, Z. A. (2013). Mapping ecosystem services in New York City: applying a social-ecological approach in urban vacant land. Ecosystem Services, 5, 11–26. DOI\nMaps the ecosystem services provided by vacant land across New York City. Also featured on Community Gardens and the Urban Commons."
+  },
+  {
+    "objectID": "projects/urban-ecosystem-services.html#data-and-code",
+    "href": "projects/urban-ecosystem-services.html#data-and-code",
+    "title": "Urban Ecosystem Services and Wellbeing",
+    "section": "Data and code",
+    "text": "Data and code\nWinkler, R. L., Clark, J. A. G., Locke, D. H., Kremer, P., Aronson, M. F. J., Hoover, F.-A., Joo, H. E., La Rosa, D., Lee, K. J., Lerman, S. B., Pearsall, H., Vargo, T. L. V., Nilon, C. H., Lepczyk, C. A. (2025). Data and code for analyzing unequal access to social, environmental, and health amenities in United States urban parks. Forest Service Research Data Archive, USDA Forest Service. DOI"
+  },
+  {
+    "objectID": "projects/urban-ecosystem-services.html#partners-and-collaborators",
+    "href": "projects/urban-ecosystem-services.html#partners-and-collaborators",
+    "title": "Urban Ecosystem Services and Wellbeing",
+    "section": "Partners and collaborators",
+    "text": "Partners and collaborators\nThe SESYNC Parks for People working group, including Christopher Lepczyk (Auburn), Myla Aronson (Rutgers), Hamil Pearsall (Temple), Dexter Locke (USDA Forest Service), Jeffrey A. G. Clark (Natural Areas Conservancy, New York), Richelle Winkler, Timothy Vargo, Susannah Lerman, Charles Nilon, Fushcia-Ann Hoover, Hogyeum Evan Joo (Rutgers University), Daniele La Rosa, Kelli Larson, and KangJae Jerry Lee (University of Utah)."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Peleg Kremer",
+    "section": "",
+    "text": "Associate Professor  ·  Villanova University\n\n\nSpatial analysis for just and sustainable urban social-ecological systems. My lab uses GIS, remote sensing, and machine learning to understand how the structure and governance of cities shape who experiences environmental burdens and who receives environmental benefits, with a focus on urban heat, air quality, flooding, green stormwater infrastructure, and equitable access to green space in Philadelphia and beyond.\n\n\nResearch Publications CV\n\n\n\n\n\n\n\nActive funded research\n\n\n\n\nNSF SCC-IRG · Track 1\n\n\nIntegrating Community Dynamics, Environmental Data, and AI to Advance Green Stormwater Infrastructure Sustainability\n\n\nCo-PI · 2024 to 2028\n\n\n\n\nNSF DISES\n\n\nAbating Mobility Equity Gaps Induced by Nuisance Flooding in Underserved Communities\n\n\nCo-PI · 2024 to 2028\n\n\n\n\nWilliam Penn Foundation\n\n\nBeyond Land Precarity: Building a Garden Database and Platform to Support Philadelphia Growers\n\n\nPI · 2025 to 2027\n\n\n\n\nWhat is new\n\n\n\n\n2026 · Apr\n\nAnna Kosierowski defended her honors thesis, Legacy of Redlining: A GIS-Based Study of Environmental Hazards and Social Vulnerability in Historically Redlined Neighborhoods, during the Villanova Honors Program Senior Thesis Defense Day.\n\n2026 · Mar\n\nThree Kremer-lab papers at the AAG annual meeting in San Francisco: PGDC’s approach to urban garden preservation, measuring community garden security in Philadelphia, and PM2.5 and chronic disease across 500 US cities.\n\n2026 · Mar\n\nSensitivity of urban structure-temperature relationships to grid parameterization out in Ecological Informatics with Dennis Weaver and Justin Stewart.\n\n2025 · Oct\n\nWPF Webinar with Craig Borowiak: Roots at Risk: How Secure are Philadelphia Urban Gardens?\n\n2025 · Jul\n\nBegan as Associate Editor of Sustainable Cities and Society.\n\n\nSee all news\n\nResearch themes\n\n\n\n\nUrban form, heat, and air quality\n\n\nUrban Structure and the Environment\nHow the three-dimensional structure of cities shapes the heat residents experience and the air they breathe, from Philadelphia case studies to a global analysis.\n\n\n\n\nSpatial data, AI, and community knowledge\n\n\nUrban Flooding and Green Infrastructure\nUsing spatial data, community knowledge, and AI to plan stormwater and flood adaptation that is both effective and equitable.\n\n\n\n\nCommunity gardens and the right to urban space\n\n\nCommunity Gardens and the Urban Commons\nUrban vacant land as a generative space, and the Philadelphia Garden Data Collaborative’s work to document and protect community gardens.\n\n\n\n\nParks, urban nature, and the social-ecological framing of cities\n\n\nUrban Ecosystem Services and Wellbeing\nWho benefits from urban green space and on what terms: access to parks, everyday human-nature interactions, and the social-ecological framing that anchors the rest of the program."
   },
   {
     "objectID": "teaching.html",
@@ -112,76 +140,6 @@
     "text": "For prospective students\nI advise master’s students in the GEV graduate program and serve on dissertation committees across Villanova. Strong candidates typically have a background in geography, environmental science, planning, or a related field, and experience with GIS or programming (R or Python). Funded research assistantships are sometimes available through active grants; please email with a CV and a one-paragraph statement of interest."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Peleg Kremer",
-    "section": "",
-    "text": "Associate Professor  ·  Villanova University\n\n\nSpatial analysis for just and sustainable urban social-ecological systems. My lab uses GIS, remote sensing, and machine learning to understand how the structure and governance of cities shape who experiences environmental burdens and who receives environmental benefits, with a focus on urban heat, air quality, flooding, green stormwater infrastructure, and equitable access to green space in Philadelphia and beyond.\n\n\nResearch Publications CV\n\n\n\n\n\n\n\nActive funded research\n\n\n\n\nNSF SCC-IRG · Track 1\n\n\nIntegrating Community Dynamics, Environmental Data, and AI to Advance Green Stormwater Infrastructure Sustainability\n\n\nCo-PI · 2024 to 2028\n\n\n\n\nNSF DISES\n\n\nAbating Mobility Equity Gaps Induced by Nuisance Flooding in Underserved Communities\n\n\nCo-PI · 2024 to 2028\n\n\n\n\nWilliam Penn Foundation\n\n\nBeyond Land Precarity: Building a Garden Database and Platform to Support Philadelphia Growers\n\n\nPI · 2025 to 2027\n\n\n\n\nWhat is new\n\n\n\n\n2026 · Apr\n\nAnna Kosierowski defended her honors thesis, Legacy of Redlining: A GIS-Based Study of Environmental Hazards and Social Vulnerability in Historically Redlined Neighborhoods, during the Villanova Honors Program Senior Thesis Defense Day.\n\n2026 · Mar\n\nThree Kremer-lab papers at the AAG annual meeting in San Francisco: PGDC’s approach to urban garden preservation, measuring community garden security in Philadelphia, and PM2.5 and chronic disease across 500 US cities.\n\n2026 · Mar\n\nSensitivity of urban structure-temperature relationships to grid parameterization out in Ecological Informatics with Dennis Weaver and Justin Stewart.\n\n2025 · Oct\n\nWPF Webinar with Craig Borowiak: Roots at Risk: How Secure are Philadelphia Urban Gardens?\n\n2025 · Jul\n\nBegan as Associate Editor of Sustainable Cities and Society.\n\n\nSee all news\n\nResearch themes\n\n\n\n\nUrban form, heat, and air quality\n\n\nUrban Structure and the Environment\nHow the three-dimensional structure of cities shapes the heat residents experience and the air they breathe, from Philadelphia case studies to a global analysis.\n\n\n\n\nSpatial data, AI, and community knowledge\n\n\nUrban Flooding and Green Infrastructure\nUsing spatial data, community knowledge, and AI to plan stormwater and flood adaptation that is both effective and equitable.\n\n\n\n\nCommunity gardens and the right to urban space\n\n\nCommunity Gardens and the Urban Commons\nUrban vacant land as a generative space, and the Philadelphia Garden Data Collaborative’s work to document and protect community gardens.\n\n\n\n\nParks, urban nature, and the social-ecological framing of cities\n\n\nUrban Ecosystem Services and Wellbeing\nWho benefits from urban green space and on what terms: access to parks, everyday human-nature interactions, and the social-ecological framing that anchors the rest of the program."
-  },
-  {
-    "objectID": "projects/urban-structure.html",
-    "href": "projects/urban-structure.html",
-    "title": "Urban Structure and the Environment",
-    "section": "",
-    "text": "Global distribution of dominant STURLA classes across 11,214 urban areas in 178 countries."
-  },
-  {
-    "objectID": "projects/urban-structure.html#what-we-do",
-    "href": "projects/urban-structure.html#what-we-do",
-    "title": "Urban Structure and the Environment",
-    "section": "What we do",
-    "text": "What we do\nThree interconnected lines of work:\n\nThree-dimensional classification of urban form. The STURLA classification captures common compositions of buildings, vegetation, and pavement at the block scale. It was developed through a Berlin–New York City comparison, refined for New York City, extended to Philadelphia, and now applied via Google Earth Engine to more than 11,000 urban areas worldwide.\nUrban form and the heat people experience. We link the structure of city blocks to surface and air temperature, including work that bridges remotely sensed surface temperature to the air temperature residents actually feel, and work that quantifies how the choice of analysis grid shapes conclusions.\nFine-scale urban air pollution. With Dr. Kabindra Shakya in my department, we built a mobile platform for monitoring air and noise pollution in Philadelphia neighborhoods, and use it to study how pollution exposure varies with urban form and along lines of environmental justice."
-  },
-  {
-    "objectID": "projects/urban-structure.html#funding",
-    "href": "projects/urban-structure.html#funding",
-    "title": "Urban Structure and the Environment",
-    "section": "Funding",
-    "text": "Funding\nNSF Geography and Spatial Sciences: Multi-Dimensional Structure of Urban Landscape and the Supply and Distribution of Ecosystem Services. PI, with Shakya. 2018 to 2024. Established and extended the STURLA framework and the mobile air pollution monitoring program in Philadelphia."
-  },
-  {
-    "objectID": "projects/urban-structure.html#figure-gallery",
-    "href": "projects/urban-structure.html#figure-gallery",
-    "title": "Urban Structure and the Environment",
-    "section": "Figure gallery",
-    "text": "Figure gallery\nClick any figure to enlarge.\n\n\n\n\n\n\nSensitivity of urban structure-temperature relationships to grid size (Kremer, Weaver, Stewart 2026, Ecological Informatics).\n\n\n\n\n\n\n\nThree-dimensional urban structure and surface temperature in Philadelphia (Mitz et al. 2021, Frontiers in Environmental Science).\n\n\n\n\n\n\n\n\n\nSurface temperature to air temperature relationship in Philadelphia (Scolio et al. 2024, Urban Climate).\n\n\n\n\n\n\n\nIntra-urban PM2.5 disparities in Philadelphia overlaid on historical redlining (Scolio, Bohra, Kremer, Shakya 2024, Atmosphere)."
-  },
-  {
-    "objectID": "projects/urban-structure.html#featured-publications",
-    "href": "projects/urban-structure.html#featured-publications",
-    "title": "Urban Structure and the Environment",
-    "section": "Featured publications",
-    "text": "Featured publications\nSelected papers; the full list is on the Publications page.\n\nKremer, P. Urban structure shapes land surface temperature: evidence from a global analysis of urban areas. Urban Climate (in review).\nApplies STURLA via a Google Earth Engine pipeline to 11,214 urban areas across 178 countries, testing whether case-study temperature patterns generalize worldwide.\nKremer, P., Weaver, D., Stewart, J. D. (2026). Sensitivity of urban structure-temperature relationships to grid parameterization. Ecological Informatics, 93, 103587. DOI\nTests 399 grid configurations and shows that grid size, not orientation, drives results, with implications for any analysis that relies on gridded urban data.\nScolio, M., Kremer, P., Zhang, Y., Shakya, K. M. (2024). Spatial-temporal modeling of the relationship between surface temperature and air temperature in metropolitan urban systems. Urban Climate, 55, 101921. DOI\nBridges remotely sensed surface temperature to human-relevant air temperature, opening a path to use globally available remote sensing for urban heat exposure assessment.\nScolio, M., Bohra, C., Kremer, P., Shakya, K. M. (2024). Spatial analysis of intra-urban air pollution disparities through an environmental justice lens: a case study of Philadelphia, PA. Atmosphere, 15(7), 755. DOI\nMaps fine-scale particulate air pollution disparities in Philadelphia onto historical patterns of redlining and disinvestment.\nHamstead, Z. A., Kremer, P., Larondelle, N., McPhearson, T., Haase, D. (2016). Classification of the heterogeneous structure of urban landscapes (STURLA) as an indicator of landscape function applied to surface temperature in New York City. Ecological Indicators, 70, 574-585. DOI\nEstablishes the STURLA methodology and links it to surface temperature in New York City.\nMitz, E., Kremer, P., Larondelle, N., Stewart, J. D. (2021). Structure of urban landscape and surface temperature: a case study in Philadelphia, PA. Frontiers in Environmental Science, 9. DOI\nExtends STURLA to Philadelphia and links three-dimensional urban structure to surface temperature at the block scale.\nShakya, K. M., Kremer, P., Henderson, K., McMahon, M., Peltier, R. E., Bromberg, S., Stewart, J. (2019). Mobile monitoring of air and noise pollution in Philadelphia neighborhoods during summer 2017. Environmental Pollution, 255, 113195. DOI\nDemonstrates the mobile monitoring platform for capturing fine-scale variation in air and noise pollution across the city."
-  },
-  {
-    "objectID": "projects/urban-flooding.html",
-    "href": "projects/urban-flooding.html",
-    "title": "Urban Flooding and Green Infrastructure",
-    "section": "",
-    "text": "Incorporating community stormwater knowledge changes which neighborhoods are identified as flood-prone (Scolio et al. 2025, Environmental Research: Infrastructure and Sustainability)."
-  },
-  {
-    "objectID": "projects/urban-flooding.html#what-we-do",
-    "href": "projects/urban-flooding.html#what-we-do",
-    "title": "Urban Flooding and Green Infrastructure",
-    "section": "What we do",
-    "text": "What we do\nThree interconnected lines of work:\n\nEquitable GSI planning and performance. Where rain gardens, bioswales, and green roofs should go, why they often underperform once installed, and how performance varies with maintenance, site conditions, and the social context they sit in.\nCommunity-informed flood modeling. Who counts as flood-prone depends on how you measure flooding. Incorporating lived experience and community stormwater knowledge changes which neighborhoods get identified as at-risk, and it changes the maps planners use.\nFlooding, mobility, and access to opportunity. Chronic, low-grade nuisance flooding restructures how people move through cities and reach jobs, care, and services. We are modeling those disruptions and the equity gaps they produce.\n\n\n\n\nGSI maintenance vulnerability across Philadelphia (Homet, Kremer, Smith, Strader 2022, Frontiers in Environmental Science)."
-  },
-  {
-    "objectID": "projects/urban-flooding.html#active-funded-projects",
-    "href": "projects/urban-flooding.html#active-funded-projects",
-    "title": "Urban Flooding and Green Infrastructure",
-    "section": "Active funded projects",
-    "text": "Active funded projects\nNSF SCC-IRG Track 1: Integrating Community Dynamics, Environmental Data, and AI to Advance Green Stormwater Infrastructure Sustainability. Co-PI with Smith (PI, Villanova Civil and Environmental Engineering), Jiao, and Wadzuk. 2024 to 2028. Builds an AI-supported decision framework for GSI siting, maintenance, and performance that integrates engineering, environmental, and community data.\nNSF DISES: Abating Mobility Equity Gaps Induced by Nuisance Flooding in Underserved Communities. Co-PI with Ermagun (PI, George Mason University) and Xiong (PI, Villanova), Smith, and Wadzuk. 2024 to 2028. A coupled human-natural systems study of how nuisance flooding disrupts mobility and access in vulnerable communities, and how adaptation strategies can close those gaps.\nNSF CDS&E: AI for Sustainable and Fair Green Stormwater Infrastructure Deployment. Co-PI with Smith (PI). 2022 to 2025. Methodological foundation for the larger SCC-IRG award; developed AI-based approaches to identify equitable siting strategies for GSI.\nNSF SCC Planning Grant: Community Dynamics and GSI. Co-PI with Smith (PI). 2022 to 2023. Built the interdisciplinary team and conceptual framework that became the SCC-IRG award."
-  },
-  {
-    "objectID": "projects/urban-flooding.html#featured-publications",
-    "href": "projects/urban-flooding.html#featured-publications",
-    "title": "Urban Flooding and Green Infrastructure",
-    "section": "Featured publications",
-    "text": "Featured publications\nSelected papers; the full list is on the Publications page.\n\nScolio, M., Kremer, P., Smith, V., Amur, A., Wadzuk, B., Homet, K., Devlin, E., Al Mehedi, M. A., Moore, L. (2025). Delineating urban flooding when incorporating community stormwater knowledge. Environmental Research: Infrastructure and Sustainability, 5(1), 015008. DOI Shows that incorporating community knowledge fundamentally changes which neighborhoods get identified as flood-prone, and argues for a rethinking of how flood risk is mapped.\nScolio, M., Amur, A., Olson, E., Smith, V., Wadzuk, B., Homet, K., Devlin, E., Kremer, P. (2025). Reconceptualizing urban flood modeling: toward intersectional and equitable urban flood risk planning. Sustainable Cities and Society, 130, 106578. DOI Argues for an intersectional approach to flood-risk planning that bridges community legacies with future climate change. Companion to the community-knowledge paper.\nErmagun, A., Janatabadi, F., Safarloo, Z., Kremer, P., Lindley, S. (2026). Urban flooding restructures mobility through coupled behavioral and network disruption: a systematic review of evidence. Sustainable Cities and Society, 107285. Link\nSets the agenda for the DISES project by synthesizing what is known about how flooding reshapes urban mobility.\nRahman, M., Smith, V. B., Kremer, P., Wadzuk, B. M., Jiao, X., Amur, A., Arabi, S. (2026). Incorporating artificial intelligence into the future of stormwater management. Discover Water.\nMaps where AI methods can and cannot productively contribute to stormwater management, framing the SCC-IRG research agenda.\nAl Mehedi, M. A., Smith, V., Kremer, P. (2025). A comparative analysis of urban and peri-urban flood identification using SAR imagery. PLOS Water, 4(9), e0000269. DOI\nMethodological advance in remote sensing of floods across urban-rural gradients.\nMarks, N. K., Hosseiny, H., Bill, V. P., Ahn, K. L., Crimmins, M. C., Kremer, P., Smith, V. B. (2022). Spatial integration of urban runoff modeling, heat, and social vulnerability for blue-green infrastructure planning and management. Journal of Water Resources Planning and Management, 148(11). Integrated runoff, heat, and social vulnerability framework. An early synthesis paper that anchors the program.\n\n\n\n\nCitywide urban runoff modeling framework applied to Philadelphia (Hosseiny et al. 2020, Water)."
-  },
-  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
@@ -224,102 +182,102 @@
     "text": "In review and forthcoming\n\n\nKremer, P. Urban structure shapes land surface temperature: evidence from a global analysis of urban areas. Urban Climate (in review).\nKremer, P., Borowiak, C., Scolio, M. Beyond land precarity: building a garden database and platform to support Philadelphia growers. Journal of Agriculture, Food Systems, and Community Development.\nSmith, V. B., Kremer, P., Amur, A., Scolio, M., Wadzuk, B. M., Arabi, S., Cooney, S. E., Jiao, X. From smart to insightful: integrating technology and community engagement for green stormwater infrastructure management. Urban Forestry & Urban Greening.\nArabi, S., Yaméogo, D. D. S., Kremer, P., Smith, V. B. Geospatial foundation models for water resources management: current status and paths forward. Environmental Modelling & Software.\nFreeman, A., Pinton, D., Langley, J. A., Sansom, L., Doughty, C., Kremer, P., Canestrelli, A., Chambers, L., Chapman, S. K. (2025). Mangrove presence is associated with lower rates of coastal wetland loss at marsh-mangrove ecotone. Estuaries and Coasts.\nKremer, P., Goldsmith, S. T., Berrios, L., Arnold, L. R. Total and bioaccessible metal concentrations in river flood sediment deposits in two urban communities following Hurricane Ida. GeoHealth."
   },
   {
-    "objectID": "projects/urban-ecosystem-services.html",
-    "href": "projects/urban-ecosystem-services.html",
-    "title": "Urban Ecosystem Services and Wellbeing",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
     "section": "",
-    "text": "Unequal access to social, environmental, and health amenities in US urban parks (Winkler, Clark, Locke, Kremer et al. 2024, Nature Cities)."
+    "text": "My lab investigates how the structure, function, and governance of urban social-ecological systems shape the distribution of environmental benefits and risks across cities. We use spatial analysis, GIS, remote sensing, and increasingly machine learning to ask how cities can become more sustainable, just, and resilient in the face of climate change, rapid urban growth, and persistent social inequity. Most of our fieldwork is in Philadelphia, with comparative and global work in collaboration with partners across the United States and Europe. Across all four themes, we attend to how environmental burdens and benefits are distributed along lines of race, income, and historical disinvestment."
   },
   {
-    "objectID": "projects/urban-ecosystem-services.html#what-we-do",
-    "href": "projects/urban-ecosystem-services.html#what-we-do",
-    "title": "Urban Ecosystem Services and Wellbeing",
-    "section": "What we do",
-    "text": "What we do\nThree interconnected lines of work:\n\nHuman-nature interactions in urban green space. With European and US colleagues, we examine the socio-environmental drivers of how people actually use and benefit from urban green space, and the apparent paradox that greening cities can produce both ecological and social value while also intensifying inequality through displacement.\nThe social-ecological framing of urban nature. Foundational work with Timon McPhearson and Zoé Hamstead in New York City established a social-ecological approach to urban vacant land and ecosystem service mapping. These papers anchor the broader urban ES framing that shapes my work today, and they appear here as well as on the Community Gardens and the Urban Commons page where the vacant-land thread continues.\nPark amenity inequality and access. Through the SESYNC Parks for People working group, we showed that inequality in urban parks is not only a question of whether parks exist, but of what they contain. A national US analysis published in Nature Cities documented systematic disparities in the social, environmental, and health amenities present in urban parks."
+    "objectID": "research.html#research-themes",
+    "href": "research.html#research-themes",
+    "title": "Research",
+    "section": "Research themes",
+    "text": "Research themes\n\n\n\nUrban form, heat, and air quality\n\n\nUrban Structure and the Environment\nHow does the way buildings, vegetation, and pavement combine at the block scale shape what residents breathe and the heat they experience? With colleagues in Berlin, Leipzig, and Philadelphia, we developed the Structure of Urban Landscapes (STURLA) classification to capture three-dimensional urban form, and now use it across cities to ask how composition shapes temperature, air quality, and ecological function.\n\n\n\n\nSpatial data, AI, and community knowledge\n\n\nUrban Flooding and Green Infrastructure\nUrban flooding is becoming more frequent and severe under climate change, with disproportionate consequences for socially vulnerable communities. With civil engineering colleagues at Villanova and transportation researchers across the country, we ask how cities can use spatial data, community knowledge, and AI to plan stormwater and adaptation strategies that are both effective and equitable.\n\n\n\n\nCommunity gardens and the right to urban space\n\n\nCommunity Gardens and the Urban Commons\nVacant land is a persistent structural feature of US cities. Rather than treating vacancy as failure, we conceptualize urban vacant land as a generative space in which communities exercise creative rights, most visibly through community gardens and urban agriculture. As founding member and technical lead of the Philadelphia Garden Data Collaborative, my lab builds and maintains the only authoritative GIS dataset of active community gardens in Philadelphia.\n\n\n\n\nParks, urban nature, and the social-ecological framing of cities\n\n\nUrban Ecosystem Services and Wellbeing\nUrban ecosystem services have framed my program from the start. With collaborators across the United States and Europe, my lab studies who benefits from urban green space and on what terms: access to parks, the everyday interactions between people and urban nature, and the foundational social-ecological framing that anchors the rest of the research program."
   },
   {
-    "objectID": "projects/urban-ecosystem-services.html#featured-publications",
-    "href": "projects/urban-ecosystem-services.html#featured-publications",
-    "title": "Urban Ecosystem Services and Wellbeing",
-    "section": "Featured publications",
-    "text": "Featured publications\nSelected papers; the full list is on the Publications page.\n\nWinkler, R. L., Clark, J. A., Locke, D. H., Kremer, P., Aronson, M. F., Hoover, F.-A., Joo, H. E., La Rosa, D., Lee, K. J., Lerman, S. B., Pearsall, H., Vargo, T. L., Nilon, C. H., Lepczyk, C. A. (2024). Unequal access to social, environmental and health amenities in US urban parks. Nature Cities, 1(12), 861–870. DOI\nA national analysis showing that disparities in urban parks are not only about whether parks exist but about what they contain.\nLee, K., Aronson, M. F. J., Clark, J. A. G., Hoover, F.-A., Joo, H. E., Kremer, P., La Rosa, D., Larson, K. L., Lepczyk, C. A., Lerman, S. B., Locke, D. H., Nilon, C. H., Pearsall, H., Vargo, T. L. V. (2024). Limitations of existing park quality instruments and suggestions for future research. Landscape and Urban Planning, 249, 105127. DOI\nReviews park-quality measurement instruments and proposes directions for the next generation of tools.\nJoo, H. E., Clark, J. A., Kremer, P., Aronson, M. F. (2024). Socio-environmental drivers of human-nature interactions in urban green spaces. Urban Ecosystems, 27(6), 2397–2413. DOI\nExamines the socio-environmental drivers of how people actually interact with urban green spaces.\nHaase, D., Kabisch, S., Haase, A., Andersson, E., Banzhaf, E., Baró, F., et al. (2017). Greening cities, to be socially inclusive? About the alleged paradox of society and ecology in cities. Habitat International, 64, 41–48. DOI\nArticulates the paradox between urban greening and social inclusion that frames much of this work.\nKremer, P., Hamstead, Z. A., McPhearson, T. (2013). A social-ecological assessment of vacant lots in New York City. Landscape and Urban Planning, 120, 218–233. DOI\nReframes vacant lots as a social-ecological resource rather than blight. Also featured on Community Gardens and the Urban Commons.\nMcPhearson, T., Kremer, P., Hamstead, Z. A. (2013). Mapping ecosystem services in New York City: applying a social-ecological approach in urban vacant land. Ecosystem Services, 5, 11–26. DOI\nMaps the ecosystem services provided by vacant land across New York City. Also featured on Community Gardens and the Urban Commons."
-  },
-  {
-    "objectID": "projects/urban-ecosystem-services.html#data-and-code",
-    "href": "projects/urban-ecosystem-services.html#data-and-code",
-    "title": "Urban Ecosystem Services and Wellbeing",
-    "section": "Data and code",
-    "text": "Data and code\nWinkler, R. L., Clark, J. A. G., Locke, D. H., Kremer, P., Aronson, M. F. J., Hoover, F.-A., Joo, H. E., La Rosa, D., Lee, K. J., Lerman, S. B., Pearsall, H., Vargo, T. L. V., Nilon, C. H., Lepczyk, C. A. (2025). Data and code for analyzing unequal access to social, environmental, and health amenities in United States urban parks. Forest Service Research Data Archive, USDA Forest Service. DOI"
-  },
-  {
-    "objectID": "projects/urban-ecosystem-services.html#partners-and-collaborators",
-    "href": "projects/urban-ecosystem-services.html#partners-and-collaborators",
-    "title": "Urban Ecosystem Services and Wellbeing",
-    "section": "Partners and collaborators",
-    "text": "Partners and collaborators\nThe SESYNC Parks for People working group, including Christopher Lepczyk (Auburn), Myla Aronson (Rutgers), Hamil Pearsall (Temple), Dexter Locke (USDA Forest Service), Jeffrey A. G. Clark (Natural Areas Conservancy, New York), Richelle Winkler, Timothy Vargo, Susannah Lerman, Charles Nilon, Fushcia-Ann Hoover, Hogyeum Evan Joo (Rutgers University), Daniele La Rosa, Kelli Larson, and KangJae Jerry Lee (University of Utah)."
-  },
-  {
-    "objectID": "projects/land-in-common.html",
-    "href": "projects/land-in-common.html",
-    "title": "Community Gardens and the Urban Commons",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "Vacant land is a persistent structural feature of US cities, often comprising 12 to 15 percent of land area. Rather than treating vacancy as failure, my lab conceptualizes urban vacant land as a generative space in which communities exercise creative rights, most visibly through community gardens and urban agriculture. As founding member and technical lead of the Philadelphia Garden Data Collaborative, my lab builds and maintains the only authoritative GIS dataset of active community gardens in Philadelphia and uses it to inform policy and protect gardens at risk of loss."
+    "text": "Dr. Peleg Kremer is an Associate Professor in the Department of Geography and the Environment at Villanova University, where she also serves as Program Director for Environmental Studies. Her lab focuses on spatial patterns in social-ecological systems and urban sustainability. Using interdisciplinary approaches in spatial analysis, GIS, and remote sensing, she investigates the relationships between urban environmental and ecological processes and the built environment, with active programs of work on urban heat, air quality, flooding, green stormwater infrastructure, and equitable access to green space in Philadelphia and other US cities.\nShe is currently Co-PI on four NSF awards and two William Penn Foundation grants, Associate Editor of Sustainable Cities and Society, and recipient of the 2023 Villanova Outstanding Faculty Mentor Award. She teaches undergraduate and graduate courses in Geographic Information Systems, urban sustainability, and the built environment, and has mentored more than two dozen graduate and undergraduate researchers since 2022.\nShe holds a PhD in Energy and Environmental Policy from the University of Delaware."
   },
   {
-    "objectID": "projects/land-in-common.html#what-we-do",
-    "href": "projects/land-in-common.html#what-we-do",
-    "title": "Community Gardens and the Urban Commons",
-    "section": "What we do",
-    "text": "What we do\nThree interconnected lines of work:\n\nVacant land as a social-ecological resource. Early work in New York City reframed vacant lots from blight to a generative urban resource, mapping their ecosystem services and social value rather than only their disuse.\nAuthoritative garden data. Through the Philadelphia Garden Data Collaborative, we build and maintain Philadelphia’s first unified, parcel-level dataset of active community gardens, kept current through field verification and remote sensing.\nFrom data to protection. We translate that dataset into policy analysis, City Council testimony, and the sheriff sale monitoring system that lets advocates intervene before a garden is lost."
+    "objectID": "about.html#appointments",
+    "href": "about.html#appointments",
+    "title": "About",
+    "section": "Appointments",
+    "text": "Appointments\n\n\n\n\n\n\n\nYears\nRole\n\n\n\n\n2022 – present\nAssociate Professor, Department of Geography and the Environment, Villanova University\n\n\n2021 – present\nProgram Director, Environmental Studies, Villanova University\n\n\n2016 – 2022\nAssistant Professor, Department of Geography and the Environment, Villanova University\n\n\n2015 – 2016\nVisiting Assistant Professor, Department of Geography and the Environment, Villanova University"
   },
   {
-    "objectID": "projects/land-in-common.html#the-philadelphia-garden-data-collaborative",
-    "href": "projects/land-in-common.html#the-philadelphia-garden-data-collaborative",
-    "title": "Community Gardens and the Urban Commons",
-    "section": "The Philadelphia Garden Data Collaborative",
-    "text": "The Philadelphia Garden Data Collaborative\nThe Philadelphia Garden Data Collaborative (PGDC) is a partnership between academics and Philadelphia civic organizations, founded in 2014 to fill a persistent data gap. Partial records of community gardens existed across multiple organizations, but each was incomplete and held in isolation. PGDC’s first task was collating these disparate datasets into Philadelphia’s first unified, parcel-level garden database. Today PGDC documents 556 gardens across 1,421 parcels, spanning ten garden types (community, school, church, individual, market farm, orchard, and more).\nPhiladelphia’s 2023 Urban Agriculture Strategic Plan recognized PGDC as the authoritative data source for community gardens citywide, the first time garden data infrastructure was formally embedded in municipal planning.\n\nA decade of community-engaged garden data\n\n\n\n2014\n\n\nFounding members begin collaboration on Philadelphia garden data.\n\n\n\n\n2015–2016\n\n\nDisparate datasets from PHS, NGT, and prior surveys collated into Philadelphia’s first unified garden database.\n\n\n\n\n2016\n\n\nGarden database supports analysis for an urban agriculture hearing at Philadelphia City Council.\n\n\n\n\n2019\n\n\nPGDC officially formed; second iteration of the garden database developed for Philadelphia’s Urban Ag Plan.\n\n\n\n\n2021\n\n\nAnalysis of garden parcels with US Bank liens and tax delinquency to support lien-based preservation advocacy.\n\n\n\n\n2022\n\n\nGarden and parcel dataset restructured and expanded.\n\n\n\n\n2024\n\n\nFull field validation of all gardens and parcels; security index and gentrification analysis completed. Sheriff sale monitoring system launched.\n\n\n\n\n2025 to now\n\n\nFunding secured to develop the database into a platform for the urban agriculture community; ongoing analysis and outreach."
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\n\n\n\nYear\nDegree\n\n\n\n\n2011\nPhD, Energy and Environmental Policy, University of Delaware\n\n\n2005\nM.A., Geography, Tel Aviv University\n\n\n2000\nB.Sc., Agricultural Economics, Hebrew University of Jerusalem"
   },
   {
-    "objectID": "projects/land-in-common.html#why-garden-security-matters",
-    "href": "projects/land-in-common.html#why-garden-security-matters",
-    "title": "Community Gardens and the Urban Commons",
-    "section": "Why garden security matters",
-    "text": "Why garden security matters\nPhiladelphia’s community gardens face threats from development pressure, insecure land tenure, and policy neglect. The numbers:\n\n61.7% of garden parcels have insecure tenure.\n~140 gardens lost since 2008, including 49 in the past five years.\n209 sites (41%) face active gentrification pressure.\n\nGardens face a double threat: gentrification displaces gardens in rising markets, while disinvestment leads to abandonment in declining ones."
+    "objectID": "about.html#awards-and-honors",
+    "href": "about.html#awards-and-honors",
+    "title": "About",
+    "section": "Awards and honors",
+    "text": "Awards and honors\n\nOutstanding Faculty Mentor Teaching Award, Villanova University, 2023\nWRA Innovation & Collaboration – Research Award, Water Resources Association of the Delaware River Basin, 2024"
   },
   {
-    "objectID": "projects/land-in-common.html#the-sheriff-sale-monitoring-system",
-    "href": "projects/land-in-common.html#the-sheriff-sale-monitoring-system",
-    "title": "Community Gardens and the Urban Commons",
-    "section": "The sheriff sale monitoring system",
-    "text": "The sheriff sale monitoring system\nIn July 2024, PGDC launched a weekly automated monitoring system that cross-references Philadelphia’s list of properties scheduled for tax-lien auction against the PGDC database of garden parcel locations. For the first time, garden advocates can intervene before a garden is lost, not after.\n20+ garden parcels saved from sheriff sale since launch. 90% of sheriff-sold properties since July 2019 were in areas at or below the poverty line, so the system also prioritizes protection where it is most urgently needed."
+    "objectID": "about.html#editorial-roles",
+    "href": "about.html#editorial-roles",
+    "title": "About",
+    "section": "Editorial roles",
+    "text": "Editorial roles\n\nAssociate Editor, Sustainable Cities and Society (2025 – present)\nLead Special Issue Editor, “Sustaining Cities under Environmental Extremes”, Sustainable Cities and Society (2024 – 2026)\nEditorial Review Board, Frontiers in Environmental Science: Land Use Dynamics (2018 – present)"
   },
   {
-    "objectID": "projects/land-in-common.html#active-funded-projects",
-    "href": "projects/land-in-common.html#active-funded-projects",
-    "title": "Community Gardens and the Urban Commons",
-    "section": "Active funded projects",
-    "text": "Active funded projects\nBeyond Land Precarity: Building a Garden Database and Platform to Support Philadelphia Growers. PI, with Borowiak (Co-PI). 2025 to 2027. Supported by the William Penn Foundation and the PhilaChange Foundation. Extends PGDC’s empirical and policy work into the construction of an active garden database and a public platform that growers, civic organizations, and city agencies can use."
+    "objectID": "about.html#selected-service",
+    "href": "about.html#selected-service",
+    "title": "About",
+    "section": "Selected service",
+    "text": "Selected service\n\nCommittee Chair, GEV Committee on Diversity and Inclusion (2016 – present)\nSenior Review Panel, NSF Human-Environment and Geographical Sciences (2024)\nMember, Strategic Initiative for Climate, Justice, and Sustainability: Research Committee, Villanova (2024 – present)\nMember, CLAS DEI Committee (2020 – present)\nLong-standing partner, Philadelphia Garden Data Collaborative (2015 – present)"
   },
   {
-    "objectID": "projects/land-in-common.html#featured-publications",
-    "href": "projects/land-in-common.html#featured-publications",
-    "title": "Community Gardens and the Urban Commons",
-    "section": "Featured publications",
-    "text": "Featured publications\nSelected papers; the full list is on the Publications page.\n\nKremer, P., Borowiak, C., Scolio, M. (2026, in review). Beyond land precarity: building a garden database and platform to support Philadelphia growers. Journal of Agriculture, Food Systems, and Community Development.\nDescribes the PGDC’s approach to building durable, community-governed garden data infrastructure.\nKremer, P., Hamstead, Z. A., McPhearson, T. (2013). A social-ecological assessment of vacant lots in New York City. Landscape and Urban Planning, 120, 218-233. DOI Reframes vacant lots as a social-ecological resource rather than blight, mapping their value to communities.\nMcPhearson, T., Kremer, P., Hamstead, Z. A. (2013). Mapping ecosystem services in New York City: applying a social-ecological approach in urban vacant land. Ecosystem Services, 5, 11-26. DOI\nMaps the ecosystem services provided by vacant land across New York City.\nKremer, P., Hamstead, Z. (2015). Transformation of urban vacant lots for the common good: an introduction to the special issue. Cities and the Environment, 8(2). Link\nFrames vacant land as a site where communities exercise creative rights to urban space.\nGittleman, M., Farmer, C. J., Kremer, P., McPhearson, T. (2017). Estimating stormwater runoff for community gardens in New York City. Urban Ecosystems, 20(1), 129-139. DOI\nQuantifies the stormwater benefits that community gardens provide to the city."
+    "objectID": "about.html#professional-memberships",
+    "href": "about.html#professional-memberships",
+    "title": "About",
+    "section": "Professional memberships",
+    "text": "Professional memberships\nAmerican Association of Geographers · American Geophysical Union · Association for Environmental Studies and Sciences"
   },
   {
-    "objectID": "projects/land-in-common.html#current-team",
-    "href": "projects/land-in-common.html#current-team",
-    "title": "Community Gardens and the Urban Commons",
-    "section": "Current team",
-    "text": "Current team\nMadeline Scolio, Sarah Scheller, and Sophia Lemmons currently work on PGDC garden security, gentrification analysis, and the garden database. See the Students page for the full list."
+    "objectID": "students.html",
+    "href": "students.html",
+    "title": "Students",
+    "section": "",
+    "text": "Working with students is one of the most rewarding parts of this job. Below are current advisees and alumni, with brief project descriptions. If you are a prospective student interested in spatial analysis of urban systems, please be in touch."
   },
   {
-    "objectID": "projects/land-in-common.html#partners-and-collaborators",
-    "href": "projects/land-in-common.html#partners-and-collaborators",
-    "title": "Community Gardens and the Urban Commons",
-    "section": "Partners and collaborators",
-    "text": "Partners and collaborators\nDr. Craig Borowiak, Haverford College (academic co-PI); the Garden Justice Legal Initiative of the Public Interest Law Center of Philadelphia; the Pennsylvania Horticultural Society; the Neighborhood Gardens Trust; and Soil Generation."
+    "objectID": "students.html#current-graduate-students",
+    "href": "students.html#current-graduate-students",
+    "title": "Students",
+    "section": "Current graduate students",
+    "text": "Current graduate students\n\nCharles Wildonger – Heavy metal contamination and transport in green stormwater infrastructure.\nMac Sanders – Observational analysis of human activity, physical conditions, and social context around GSI sites in Kensington, Philadelphia.\nProttoy Roy – Spatiotemporal modeling of nuisance flood risk: a critical review of urban-scale approaches.\nEmily Myers – Relating air pollution, social vulnerability and health outcomes in 500 US cities.\nSarah Scheller – Impacts of gentrification on garden land security."
+  },
+  {
+    "objectID": "students.html#current-undergraduate-students",
+    "href": "students.html#current-undergraduate-students",
+    "title": "Students",
+    "section": "Current undergraduate students",
+    "text": "Current undergraduate students\n\nAnna Kosierowski – Honors thesis: Legacy of Redlining: A GIS-Based Study of Environmental Hazards and Social Vulnerability in Historically Redlined Neighborhoods.\nSophia Lemmons – Philadelphia Garden Data Collaborative."
+  },
+  {
+    "objectID": "students.html#lab-alumni-graduate",
+    "href": "students.html#lab-alumni-graduate",
+    "title": "Students",
+    "section": "Lab alumni · graduate",
+    "text": "Lab alumni · graduate\n\nLuis Berrios-Hyden – Spatial distribution of AMF diversity and heavy metal soil concentrations as a function of urban structure in Philadelphia.\nLucas Cummings – Air pollution and urban structure in Philadelphia.\nKenny Douyon – Land security assessment of community gardens in Philadelphia.\nGeorge Kowalski – Supermarket use and sociodemographic distribution.\nKate Homet – Measuring the impacts of environmental, social, and maintenance variables on green stormwater infrastructure in Philadelphia.\nRadley Reist – Comparative analysis of urban structure and surface temperature.\nCharlotte Shade – The use of green infrastructure and its effect on climate resilience in Philadelphia."
+  },
+  {
+    "objectID": "students.html#lab-alumni-undergraduate",
+    "href": "students.html#lab-alumni-undergraduate",
+    "title": "Students",
+    "section": "Lab alumni · undergraduate",
+    "text": "Lab alumni · undergraduate\n\nMadeline Scolio – Senior thesis, now lead author on multiple peer-reviewed papers including Scolio et al. 2024 (Urban Climate) and Scolio et al. 2025 (Sustainable Cities and Society; Environmental Research: Infrastructure and Sustainability).\nAlec Henderson – Honors thesis on species distribution modeling of American chestnuts in Pennsylvania (Henderson, Santoro, Kremer 2022, Frontiers in Ecology and Evolution; Henderson et al. 2023, Forest Ecology and Management).\nKate Henderson – Honors thesis on niche modeling of tody birds in the Greater Antilles.\nRylie Fryberger – Community garden closures in Philadelphia and the Philadelphia Community Gardens Survey.\nAnna Johnson – Food swamps and obesity in Indianapolis.\nGabi Manganello – Flooding impacts of sea level rise on Long Beach Island, NJ.\nMary Corrigan – Green space and obesity prevalence in San Diego and Phoenix.\nMichael Donodeo – Tourist demand for SEPTA stations during the 2026 World Cup.\nCameron Lomerson – Remote sensing of air pollution in the Philadelphia metro before and during the COVID-19 pandemic.\nMegan Gaughan – Air pollution along a major urban artery.\nOlivia Pistella – Park quality and environmental justice.\nCharlotte Bohra – Air quality in Philadelphia from an environmental justice lens.\nKaitlyn Smith – Crime rates and temperature in Philadelphia.\nMarie Mullen – Wind farm site suitability in Pennsylvania.\nBrent Jenkins – Surface temperature and air temperature in a peri-urban environment.\nHalina Takahashi – Urban structure and ecosystem services.\nBeatriz De Jesus – Sustainability perception assessment.\nKirsten Ahn – Local flooding, heat, and health outcomes in Philadelphia.\nRebecca McDonough – Air pollution analysis in Philadelphia.\nAmira Temple – Spatial distribution of the local food system in Philadelphia.\nMeghan Conway – Social vulnerability and air pollution.\nErik Mitz – Urban structure and surface temperature in Philadelphia (Mitz et al. 2021, Frontiers in Environmental Science).\nAshley Seyfried – Urban form and greenspace distribution: a nationwide spatial-temporal study.\nJoe Dangler – Morphological impacts of post-tropical cyclone Sandy on Long Beach, NY.\nMeghan McMahon – Fine-scale analysis of Philadelphia air pollution.\nAlexandra Henninger – Food production in urban farms.\nRachel Walsh – Spatial patterns in organic farming and farm tenure across the USA.\nGavin Lewis – Verification and analysis of community gardens in Philadelphia."
   },
   {
     "objectID": "cv.html",
@@ -427,52 +385,94 @@
     "text": "2023\n\nMay 2023 · Outstanding Faculty Mentor Award\nAwarded the Villanova Outstanding Faculty Mentor Teaching Award."
   },
   {
-    "objectID": "students.html",
-    "href": "students.html",
-    "title": "Students",
+    "objectID": "projects/urban-flooding.html",
+    "href": "projects/urban-flooding.html",
+    "title": "Urban Flooding and Green Infrastructure",
     "section": "",
-    "text": "Working with students is one of the most rewarding parts of this job. Below are current advisees and alumni, with brief project descriptions. If you are a prospective student interested in spatial analysis of urban systems, please be in touch."
+    "text": "Incorporating community stormwater knowledge changes which neighborhoods are identified as flood-prone (Scolio et al. 2025, Environmental Research: Infrastructure and Sustainability)."
   },
   {
-    "objectID": "students.html#current-graduate-students",
-    "href": "students.html#current-graduate-students",
-    "title": "Students",
-    "section": "Current graduate students",
-    "text": "Current graduate students\n\nCharles Wildonger – Heavy metal contamination and transport in green stormwater infrastructure.\nMac Sanders – Observational analysis of human activity, physical conditions, and social context around GSI sites in Kensington, Philadelphia.\nProttoy Roy – Spatiotemporal modeling of nuisance flood risk: a critical review of urban-scale approaches.\nEmily Myers – Relating air pollution, social vulnerability and health outcomes in 500 US cities.\nSarah Scheller – Impacts of gentrification on garden land security."
+    "objectID": "projects/urban-flooding.html#what-we-do",
+    "href": "projects/urban-flooding.html#what-we-do",
+    "title": "Urban Flooding and Green Infrastructure",
+    "section": "What we do",
+    "text": "What we do\nThree interconnected lines of work:\n\nEquitable GSI planning and performance. Where rain gardens, bioswales, and green roofs should go, why they often underperform once installed, and how performance varies with maintenance, site conditions, and the social context they sit in.\nCommunity-informed flood modeling. Who counts as flood-prone depends on how you measure flooding. Incorporating lived experience and community stormwater knowledge changes which neighborhoods get identified as at-risk, and it changes the maps planners use.\nFlooding, mobility, and access to opportunity. Chronic, low-grade nuisance flooding restructures how people move through cities and reach jobs, care, and services. We are modeling those disruptions and the equity gaps they produce.\n\n\n\n\nGSI maintenance vulnerability across Philadelphia (Homet, Kremer, Smith, Strader 2022, Frontiers in Environmental Science)."
   },
   {
-    "objectID": "students.html#current-undergraduate-students",
-    "href": "students.html#current-undergraduate-students",
-    "title": "Students",
-    "section": "Current undergraduate students",
-    "text": "Current undergraduate students\n\nAnna Kosierowski – Honors thesis: Legacy of Redlining: A GIS-Based Study of Environmental Hazards and Social Vulnerability in Historically Redlined Neighborhoods.\nSophia Lemmons – Philadelphia Garden Data Collaborative."
+    "objectID": "projects/urban-flooding.html#active-funded-projects",
+    "href": "projects/urban-flooding.html#active-funded-projects",
+    "title": "Urban Flooding and Green Infrastructure",
+    "section": "Active funded projects",
+    "text": "Active funded projects\nNSF SCC-IRG Track 1: Integrating Community Dynamics, Environmental Data, and AI to Advance Green Stormwater Infrastructure Sustainability. Co-PI with Smith (PI, Villanova Civil and Environmental Engineering), Jiao, and Wadzuk. 2024 to 2028. Builds an AI-supported decision framework for GSI siting, maintenance, and performance that integrates engineering, environmental, and community data.\nNSF DISES: Abating Mobility Equity Gaps Induced by Nuisance Flooding in Underserved Communities. Co-PI with Ermagun (PI, George Mason University) and Xiong (PI, Villanova), Smith, and Wadzuk. 2024 to 2028. A coupled human-natural systems study of how nuisance flooding disrupts mobility and access in vulnerable communities, and how adaptation strategies can close those gaps.\nNSF CDS&E: AI for Sustainable and Fair Green Stormwater Infrastructure Deployment. Co-PI with Smith (PI). 2022 to 2025. Methodological foundation for the larger SCC-IRG award; developed AI-based approaches to identify equitable siting strategies for GSI.\nNSF SCC Planning Grant: Community Dynamics and GSI. Co-PI with Smith (PI). 2022 to 2023. Built the interdisciplinary team and conceptual framework that became the SCC-IRG award."
   },
   {
-    "objectID": "students.html#lab-alumni-graduate",
-    "href": "students.html#lab-alumni-graduate",
-    "title": "Students",
-    "section": "Lab alumni · graduate",
-    "text": "Lab alumni · graduate\n\nLuis Berrios-Hyden – Spatial distribution of AMF diversity and heavy metal soil concentrations as a function of urban structure in Philadelphia.\nLucas Cummings – Air pollution and urban structure in Philadelphia.\nKenny Douyon – Land security assessment of community gardens in Philadelphia.\nGeorge Kowalski – Supermarket use and sociodemographic distribution.\nKate Homet – Measuring the impacts of environmental, social, and maintenance variables on green stormwater infrastructure in Philadelphia.\nRadley Reist – Comparative analysis of urban structure and surface temperature.\nCharlotte Shade – The use of green infrastructure and its effect on climate resilience in Philadelphia."
+    "objectID": "projects/urban-flooding.html#featured-publications",
+    "href": "projects/urban-flooding.html#featured-publications",
+    "title": "Urban Flooding and Green Infrastructure",
+    "section": "Featured publications",
+    "text": "Featured publications\nSelected papers; the full list is on the Publications page.\n\nScolio, M., Kremer, P., Smith, V., Amur, A., Wadzuk, B., Homet, K., Devlin, E., Al Mehedi, M. A., Moore, L. (2025). Delineating urban flooding when incorporating community stormwater knowledge. Environmental Research: Infrastructure and Sustainability, 5(1), 015008. DOI Shows that incorporating community knowledge fundamentally changes which neighborhoods get identified as flood-prone, and argues for a rethinking of how flood risk is mapped.\nScolio, M., Amur, A., Olson, E., Smith, V., Wadzuk, B., Homet, K., Devlin, E., Kremer, P. (2025). Reconceptualizing urban flood modeling: toward intersectional and equitable urban flood risk planning. Sustainable Cities and Society, 130, 106578. DOI Argues for an intersectional approach to flood-risk planning that bridges community legacies with future climate change. Companion to the community-knowledge paper.\nErmagun, A., Janatabadi, F., Safarloo, Z., Kremer, P., Lindley, S. (2026). Urban flooding restructures mobility through coupled behavioral and network disruption: a systematic review of evidence. Sustainable Cities and Society, 107285. Link\nSets the agenda for the DISES project by synthesizing what is known about how flooding reshapes urban mobility.\nRahman, M., Smith, V. B., Kremer, P., Wadzuk, B. M., Jiao, X., Amur, A., Arabi, S. (2026). Incorporating artificial intelligence into the future of stormwater management. Discover Water.\nMaps where AI methods can and cannot productively contribute to stormwater management, framing the SCC-IRG research agenda.\nAl Mehedi, M. A., Smith, V., Kremer, P. (2025). A comparative analysis of urban and peri-urban flood identification using SAR imagery. PLOS Water, 4(9), e0000269. DOI\nMethodological advance in remote sensing of floods across urban-rural gradients.\nMarks, N. K., Hosseiny, H., Bill, V. P., Ahn, K. L., Crimmins, M. C., Kremer, P., Smith, V. B. (2022). Spatial integration of urban runoff modeling, heat, and social vulnerability for blue-green infrastructure planning and management. Journal of Water Resources Planning and Management, 148(11). Integrated runoff, heat, and social vulnerability framework. An early synthesis paper that anchors the program.\n\n\n\n\nCitywide urban runoff modeling framework applied to Philadelphia (Hosseiny et al. 2020, Water)."
   },
   {
-    "objectID": "students.html#lab-alumni-undergraduate",
-    "href": "students.html#lab-alumni-undergraduate",
-    "title": "Students",
-    "section": "Lab alumni · undergraduate",
-    "text": "Lab alumni · undergraduate\n\nMadeline Scolio – Senior thesis, now lead author on multiple peer-reviewed papers including Scolio et al. 2024 (Urban Climate) and Scolio et al. 2025 (Sustainable Cities and Society; Environmental Research: Infrastructure and Sustainability).\nAlec Henderson – Honors thesis on species distribution modeling of American chestnuts in Pennsylvania (Henderson, Santoro, Kremer 2022, Frontiers in Ecology and Evolution; Henderson et al. 2023, Forest Ecology and Management).\nKate Henderson – Honors thesis on niche modeling of tody birds in the Greater Antilles.\nRylie Fryberger – Community garden closures in Philadelphia and the Philadelphia Community Gardens Survey.\nAnna Johnson – Food swamps and obesity in Indianapolis.\nGabi Manganello – Flooding impacts of sea level rise on Long Beach Island, NJ.\nMary Corrigan – Green space and obesity prevalence in San Diego and Phoenix.\nMichael Donodeo – Tourist demand for SEPTA stations during the 2026 World Cup.\nCameron Lomerson – Remote sensing of air pollution in the Philadelphia metro before and during the COVID-19 pandemic.\nMegan Gaughan – Air pollution along a major urban artery.\nOlivia Pistella – Park quality and environmental justice.\nCharlotte Bohra – Air quality in Philadelphia from an environmental justice lens.\nKaitlyn Smith – Crime rates and temperature in Philadelphia.\nMarie Mullen – Wind farm site suitability in Pennsylvania.\nBrent Jenkins – Surface temperature and air temperature in a peri-urban environment.\nHalina Takahashi – Urban structure and ecosystem services.\nBeatriz De Jesus – Sustainability perception assessment.\nKirsten Ahn – Local flooding, heat, and health outcomes in Philadelphia.\nRebecca McDonough – Air pollution analysis in Philadelphia.\nAmira Temple – Spatial distribution of the local food system in Philadelphia.\nMeghan Conway – Social vulnerability and air pollution.\nErik Mitz – Urban structure and surface temperature in Philadelphia (Mitz et al. 2021, Frontiers in Environmental Science).\nAshley Seyfried – Urban form and greenspace distribution: a nationwide spatial-temporal study.\nJoe Dangler – Morphological impacts of post-tropical cyclone Sandy on Long Beach, NY.\nMeghan McMahon – Fine-scale analysis of Philadelphia air pollution.\nAlexandra Henninger – Food production in urban farms.\nRachel Walsh – Spatial patterns in organic farming and farm tenure across the USA.\nGavin Lewis – Verification and analysis of community gardens in Philadelphia."
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
+    "objectID": "projects/land-in-common.html",
+    "href": "projects/land-in-common.html",
+    "title": "Community Gardens and the Urban Commons",
     "section": "",
-    "text": "My lab investigates how the structure, function, and governance of urban social-ecological systems shape the distribution of environmental benefits and risks across cities. We use spatial analysis, GIS, remote sensing, and increasingly machine learning to ask how cities can become more sustainable, just, and resilient in the face of climate change, rapid urban growth, and persistent social inequity. Most of our fieldwork is in Philadelphia, with comparative and global work in collaboration with partners across the United States, Europe, and Asia. Across all four themes, we attend to how environmental burdens and benefits are distributed along lines of race, income, and historical disinvestment."
+    "text": "Vacant land is a persistent structural feature of US cities, often comprising 12 to 15 percent of land area. Rather than treating vacancy as failure, my lab conceptualizes urban vacant land as a generative space in which communities exercise creative rights, most visibly through community gardens and urban agriculture. As founding member and technical lead of the Philadelphia Garden Data Collaborative, my lab builds and maintains the only authoritative GIS dataset of active community gardens in Philadelphia and uses it to inform policy and protect gardens at risk of loss."
   },
   {
-    "objectID": "research.html#research-themes",
-    "href": "research.html#research-themes",
-    "title": "Research",
-    "section": "Research themes",
-    "text": "Research themes\n\n\n\nUrban form, heat, and air quality\n\n\nUrban Structure and the Environment\nHow does the way buildings, vegetation, and pavement combine at the block scale shape what residents breathe and the heat they experience? With colleagues in Berlin, Leipzig, and Philadelphia, we developed the Structure of Urban Landscapes (STURLA) classification to capture three-dimensional urban form, and now use it across cities to ask how composition shapes temperature, air quality, and ecological function.\n\n\n\n\nSpatial data, AI, and community knowledge\n\n\nUrban Flooding and Green Infrastructure\nUrban flooding is becoming more frequent and severe under climate change, with disproportionate consequences for socially vulnerable communities. With civil engineering colleagues at Villanova and transportation researchers across the country, we ask how cities can use spatial data, community knowledge, and AI to plan stormwater and adaptation strategies that are both effective and equitable.\n\n\n\n\nCommunity gardens and the right to urban space\n\n\nCommunity Gardens and the Urban Commons\nVacant land is a persistent structural feature of US cities. Rather than treating vacancy as failure, we conceptualize urban vacant land as a generative space in which communities exercise creative rights, most visibly through community gardens and urban agriculture. As founding member and technical lead of the Philadelphia Garden Data Collaborative, my lab builds and maintains the only authoritative GIS dataset of active community gardens in Philadelphia.\n\n\n\n\nParks, urban nature, and the social-ecological framing of cities\n\n\nUrban Ecosystem Services and Wellbeing\nUrban ecosystem services have framed my program from the start. With collaborators across the United States and Europe, my lab studies who benefits from urban green space and on what terms: access to parks, the everyday interactions between people and urban nature, and the foundational social-ecological framing that anchors the rest of the research program."
+    "objectID": "projects/land-in-common.html#what-we-do",
+    "href": "projects/land-in-common.html#what-we-do",
+    "title": "Community Gardens and the Urban Commons",
+    "section": "What we do",
+    "text": "What we do\nThree interconnected lines of work:\n\nVacant land as a social-ecological resource. Early work in New York City reframed vacant lots from blight to a generative urban resource, mapping their ecosystem services and social value rather than only their disuse.\nAuthoritative garden data. Through the Philadelphia Garden Data Collaborative, we build and maintain Philadelphia’s first unified, parcel-level dataset of active community gardens, kept current through field verification and remote sensing.\nFrom data to protection. We translate that dataset into policy analysis, City Council testimony, and the sheriff sale monitoring system that lets advocates intervene before a garden is lost."
+  },
+  {
+    "objectID": "projects/land-in-common.html#the-philadelphia-garden-data-collaborative",
+    "href": "projects/land-in-common.html#the-philadelphia-garden-data-collaborative",
+    "title": "Community Gardens and the Urban Commons",
+    "section": "The Philadelphia Garden Data Collaborative",
+    "text": "The Philadelphia Garden Data Collaborative\nThe Philadelphia Garden Data Collaborative (PGDC) is a partnership between academics and Philadelphia civic organizations, founded in 2014 to fill a persistent data gap. Partial records of community gardens existed across multiple organizations, but each was incomplete and held in isolation. PGDC’s first task was collating these disparate datasets into Philadelphia’s first unified, parcel-level garden database. Today PGDC documents 556 gardens across 1,421 parcels, spanning ten garden types (community, school, church, individual, market farm, orchard, and more).\nPhiladelphia’s 2023 Urban Agriculture Strategic Plan recognized PGDC as the authoritative data source for community gardens citywide, the first time garden data infrastructure was formally embedded in municipal planning.\n\nA decade of community-engaged garden data\n\n\n\n2014\n\n\nFounding members begin collaboration on Philadelphia garden data.\n\n\n\n\n2015–2016\n\n\nDisparate datasets from PHS, NGT, and prior surveys collated into Philadelphia’s first unified garden database.\n\n\n\n\n2016\n\n\nGarden database supports analysis for an urban agriculture hearing at Philadelphia City Council.\n\n\n\n\n2019\n\n\nPGDC officially formed; second iteration of the garden database developed for Philadelphia’s Urban Ag Plan.\n\n\n\n\n2021\n\n\nAnalysis of garden parcels with US Bank liens and tax delinquency to support lien-based preservation advocacy.\n\n\n\n\n2022\n\n\nGarden and parcel dataset restructured and expanded.\n\n\n\n\n2024\n\n\nFull field validation of all gardens and parcels; security index and gentrification analysis completed. Sheriff sale monitoring system launched.\n\n\n\n\n2025 to now\n\n\nFunding secured to develop the database into a platform for the urban agriculture community; ongoing analysis and outreach."
+  },
+  {
+    "objectID": "projects/land-in-common.html#why-garden-security-matters",
+    "href": "projects/land-in-common.html#why-garden-security-matters",
+    "title": "Community Gardens and the Urban Commons",
+    "section": "Why garden security matters",
+    "text": "Why garden security matters\nPhiladelphia’s community gardens face threats from development pressure, insecure land tenure, and policy neglect. The numbers:\n\n61.7% of garden parcels have insecure tenure.\n~140 gardens lost since 2008, including 49 in the past five years.\n209 sites (41%) face active gentrification pressure.\n\nGardens face a double threat: gentrification displaces gardens in rising markets, while disinvestment leads to abandonment in declining ones."
+  },
+  {
+    "objectID": "projects/land-in-common.html#the-sheriff-sale-monitoring-system",
+    "href": "projects/land-in-common.html#the-sheriff-sale-monitoring-system",
+    "title": "Community Gardens and the Urban Commons",
+    "section": "The sheriff sale monitoring system",
+    "text": "The sheriff sale monitoring system\nIn July 2024, PGDC launched a weekly automated monitoring system that cross-references Philadelphia’s list of properties scheduled for tax-lien auction against the PGDC database of garden parcel locations. For the first time, garden advocates can intervene before a garden is lost, not after.\n20+ garden parcels saved from sheriff sale since launch. 90% of sheriff-sold properties since July 2019 were in areas at or below the poverty line, so the system also prioritizes protection where it is most urgently needed."
+  },
+  {
+    "objectID": "projects/land-in-common.html#active-funded-projects",
+    "href": "projects/land-in-common.html#active-funded-projects",
+    "title": "Community Gardens and the Urban Commons",
+    "section": "Active funded projects",
+    "text": "Active funded projects\nBeyond Land Precarity: Building a Garden Database and Platform to Support Philadelphia Growers. PI, with Borowiak (Co-PI). 2025 to 2027. Supported by the William Penn Foundation and the PhilaChange Foundation. Extends PGDC’s empirical and policy work into the construction of an active garden database and a public platform that growers, civic organizations, and city agencies can use."
+  },
+  {
+    "objectID": "projects/land-in-common.html#featured-publications",
+    "href": "projects/land-in-common.html#featured-publications",
+    "title": "Community Gardens and the Urban Commons",
+    "section": "Featured publications",
+    "text": "Featured publications\nSelected papers; the full list is on the Publications page.\n\nKremer, P., Borowiak, C., Scolio, M. (2026, in review). Beyond land precarity: building a garden database and platform to support Philadelphia growers. Journal of Agriculture, Food Systems, and Community Development.\nDescribes the PGDC’s approach to building durable, community-governed garden data infrastructure.\nKremer, P., Hamstead, Z. A., McPhearson, T. (2013). A social-ecological assessment of vacant lots in New York City. Landscape and Urban Planning, 120, 218-233. DOI Reframes vacant lots as a social-ecological resource rather than blight, mapping their value to communities.\nMcPhearson, T., Kremer, P., Hamstead, Z. A. (2013). Mapping ecosystem services in New York City: applying a social-ecological approach in urban vacant land. Ecosystem Services, 5, 11-26. DOI\nMaps the ecosystem services provided by vacant land across New York City.\nKremer, P., Hamstead, Z. (2015). Transformation of urban vacant lots for the common good: an introduction to the special issue. Cities and the Environment, 8(2). Link\nFrames vacant land as a site where communities exercise creative rights to urban space.\nGittleman, M., Farmer, C. J., Kremer, P., McPhearson, T. (2017). Estimating stormwater runoff for community gardens in New York City. Urban Ecosystems, 20(1), 129-139. DOI\nQuantifies the stormwater benefits that community gardens provide to the city."
+  },
+  {
+    "objectID": "projects/land-in-common.html#current-team",
+    "href": "projects/land-in-common.html#current-team",
+    "title": "Community Gardens and the Urban Commons",
+    "section": "Current team",
+    "text": "Current team\nMadeline Scolio, Sarah Scheller, and Sophia Lemmons currently work on PGDC garden security, gentrification analysis, and the garden database. See the Students page for the full list."
+  },
+  {
+    "objectID": "projects/land-in-common.html#partners-and-collaborators",
+    "href": "projects/land-in-common.html#partners-and-collaborators",
+    "title": "Community Gardens and the Urban Commons",
+    "section": "Partners and collaborators",
+    "text": "Partners and collaborators\nDr. Craig Borowiak, Haverford College (academic co-PI); the Garden Justice Legal Initiative of the Public Interest Law Center of Philadelphia; the Pennsylvania Horticultural Society; the Neighborhood Gardens Trust; and Soil Generation."
   }
 ]
