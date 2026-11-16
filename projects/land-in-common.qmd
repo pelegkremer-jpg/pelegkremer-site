@@ -146,7 +146,7 @@ Selected papers; the full list is on the [Publications](../publications.qmd) pag
 
 ## Current team
 
-**Liz Wills**, Platform Development Program Manager, leads the garden database corrections and the platform build with CivicMapper. **Madeline Scolio** and **Sarah Scheller** work on PGDC garden security and gentrification analysis. See the [Students](../students.qmd) page for the full list of student researchers.
+**Liz Wills**, Platform Development Program Manager, leads the garden database corrections and the platform build with CivicMapper. **Madeline Scolio**, **Sarah Scheller** and **Sophia Lemmons** work on PGDC garden security, gentrification analysis and the garden database. See the [Students](../students.qmd) page for the full list of student researchers.
 
 ## Partners and collaborators
 
