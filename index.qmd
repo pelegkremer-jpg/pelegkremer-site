@@ -78,12 +78,17 @@ PI · 2025 to 2027
 What is new
 :::
 
-<!-- Generated from news.qmd by build_site.py on 2026-11-15: the newest five entries. Edit news.qmd, not this block. -->
+<!-- Generated from news.qmd by build_site.py on 2026-11-16: the newest five entries. Edit news.qmd, not this block. -->
 ::: {.news-strip}
 - ::: {.date}
   2026
   :::
   **Papers in print.** Nine papers appeared in 2026, in [Urban Climate](https://doi.org/10.1016/j.uclim.2026.103096), [Earth's Future](https://doi.org/10.1029/2026EF008834), the [Journal of Agriculture, Food Systems, and Community Development](https://doi.org/10.5304/jafscd.2026.154.017), [Estuaries and Coasts](https://doi.org/10.1007/s12237-026-01757-8), [Scientific Reports](https://doi.org/10.1038/s41598-026-67716-2), the [Journal of Flood Risk Management](https://doi.org/10.1111/jfr3.70246), [Sustainable Cities and Society](https://doi.org/10.1016/j.scs.2026.107285), [Discover Applied Sciences](https://doi.org/10.1007/s42452-026-08488-2) and [Ecological Informatics](https://doi.org/10.1016/j.ecoinf.2025.103587).
+
+- ::: {.date}
+  2026 · Nov
+  :::
+  **Community Land Leadership Cohort panel.** Invited panelist on *Financing, Data, and Storytelling: Making the Case for Community Land* at the Philadelphia and Camden Community Land Leadership Cohort convening (Open Space Institute, with Just Strategies and the William Penn Foundation), The Discovery Center, November 12, speaking on how mapping and property data help protect community gardens.
 
 - ::: {.date}
   2026 · Nov
@@ -99,11 +104,6 @@ What is new
   2026 · Oct
   :::
   **Middle States AAG, Philadelphia.** Two lab posters at the Middle States Division meeting, Thomas Jefferson University, October 23 to 24.
-
-- ::: {.date}
-  2026 · Oct
-  :::
-  **VUSP Stormwater Symposium, Villanova.** Three lab posters at the Villanova Urban Stormwater Partnership symposium, October 14 to 15.
 :::
 
 [See all news](news.qmd){.btn-quiet .outline}

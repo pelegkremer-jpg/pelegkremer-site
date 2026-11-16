@@ -8,19 +8,7 @@ description: "Peer-reviewed publications, book chapters, and other scholarly out
 A current list of peer-reviewed journal articles, edited books and chapters, and selected other scholarly outputs. For the most up-to-date list with citation counts, see [Google Scholar](https://scholar.google.com/citations?user=bk56N0IAAAAJ&hl=en). BibTeX for everything below is available in [references.bib](references.bib).
 :::
 
-<!-- Generated from Academic_record_system/registry/publications.csv on 2026-11-14 by build_site.py. Edit the registry, not this file. -->
-
-<!-- Generated from Academic_record_system/registry/publications.csv on 2026-11-15 by build_site.py. Edit the registry, not this file. -->
-
-<!-- Generated from Academic_record_system/registry/publications.csv on 2026-11-15 by build_site.py. Edit the registry, not this file. -->
-
-<!-- Generated from Academic_record_system/registry/publications.csv on 2026-11-15 by build_site.py. Edit the registry, not this file. -->
-
-<!-- Generated from Academic_record_system/registry/publications.csv on 2026-11-15 by build_site.py. Edit the registry, not this file. -->
-
-<!-- Generated from Academic_record_system/registry/publications.csv on 2026-11-15 by build_site.py. Edit the registry, not this file. -->
-
-<!-- Generated from Academic_record_system/registry/publications.csv on 2026-11-15 by build_site.py. Edit the registry, not this file. -->
+<!-- Generated from Academic_record_system/registry/publications.csv on 2026-11-16 by build_site.py. Edit the registry, not this file. -->
 
 ## Edited books
 
