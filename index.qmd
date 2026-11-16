@@ -78,31 +78,32 @@ PI · 2025 to 2027
 What is new
 :::
 
+<!-- Generated from news.qmd by build_site.py on 2026-11-15: the newest five entries. Edit news.qmd, not this block. -->
 ::: {.news-strip}
 - ::: {.date}
-  2026 · Apr
+  2026
   :::
-  **Anna Kosierowski** defended her honors thesis, *Legacy of Redlining: A GIS-Based Study of Environmental Hazards and Social Vulnerability in Historically Redlined Neighborhoods*, during the Villanova Honors Program Senior Thesis Defense Day.
+  **Papers in print.** Nine papers appeared in 2026, in [Urban Climate](https://doi.org/10.1016/j.uclim.2026.103096), [Earth's Future](https://doi.org/10.1029/2026EF008834), the [Journal of Agriculture, Food Systems, and Community Development](https://doi.org/10.5304/jafscd.2026.154.017), [Estuaries and Coasts](https://doi.org/10.1007/s12237-026-01757-8), [Scientific Reports](https://doi.org/10.1038/s41598-026-67716-2), the [Journal of Flood Risk Management](https://doi.org/10.1111/jfr3.70246), [Sustainable Cities and Society](https://doi.org/10.1016/j.scs.2026.107285), [Discover Applied Sciences](https://doi.org/10.1007/s42452-026-08488-2) and [Ecological Informatics](https://doi.org/10.1016/j.ecoinf.2025.103587).
 
 - ::: {.date}
-  2026 · Mar
+  2026 · Nov
   :::
-  Three Kremer-lab papers at the AAG annual meeting in San Francisco: [PGDC's approach to urban garden preservation](projects/land-in-common.qmd), [measuring community garden security in Philadelphia](projects/land-in-common.qmd), and PM2.5 and chronic disease across 500 US cities.
+  **Pennsylvania Geographical Society, West Chester.** Three lab posters at the PGS annual meeting, West Chester University, November 6.
 
 - ::: {.date}
-  2026 · Mar
+  2026 · Oct
   :::
-  [*Sensitivity of urban structure-temperature relationships to grid parameterization*](https://doi.org/10.1016/j.ecoinf.2025.103587) out in **Ecological Informatics** with Dennis Weaver and Justin Stewart.
+  **Villanova Graduate Student Fall Symposium.** Three lab posters at the university's graduate symposium, October 30.
 
 - ::: {.date}
-  2025 · Oct
+  2026 · Oct
   :::
-  WPF Webinar with Craig Borowiak: [*Roots at Risk: How Secure are Philadelphia Urban Gardens?*](https://vimeo.com/1129186476)
+  **Middle States AAG, Philadelphia.** Two lab posters at the Middle States Division meeting, Thomas Jefferson University, October 23 to 24.
 
 - ::: {.date}
-  2025 · Jul
+  2026 · Oct
   :::
-  Began as Associate Editor of [**Sustainable Cities and Society**](https://www.sciencedirect.com/journal/sustainable-cities-and-society).
+  **VUSP Stormwater Symposium, Villanova.** Three lab posters at the Villanova Urban Stormwater Partnership symposium, October 14 to 15.
 :::
 
 [See all news](news.qmd){.btn-quiet .outline}

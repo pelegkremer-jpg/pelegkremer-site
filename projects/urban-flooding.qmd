@@ -47,7 +47,7 @@ Selected papers; the full list is on the [Publications](../publications.qmd) pag
 
   *Sets the agenda for the DISES project by synthesizing what is known about how flooding reshapes urban mobility.*
 
-- Rahman, M., Smith, V. B., Kremer, P., Wadzuk, B. M., Jiao, X., Amur, A., Arabi, S. (2026). Incorporating artificial intelligence into the future of stormwater management. *Discover Water*.
+- Rahman, M., Smith, V. B., Kremer, P., Wadzuk, B. M., Jiao, X., Amur, A., Arabi, S. (2026). Incorporating artificial intelligence into the future of stormwater management. *Discover Applied Sciences*, 8(5), 524.
 
   *Maps where AI methods can and cannot productively contribute to stormwater management, framing the SCC-IRG research agenda.*
 

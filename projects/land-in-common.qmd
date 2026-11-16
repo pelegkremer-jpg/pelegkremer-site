@@ -125,7 +125,7 @@ In July 2024, PGDC launched a weekly automated monitoring system that cross-refe
 
 Selected papers; the full list is on the [Publications](../publications.qmd) page.
 
-- Kremer, P., Borowiak, C., Scolio, M. (2026, in review). Beyond land precarity: building a garden database and platform to support Philadelphia growers. *Journal of Agriculture, Food Systems, and Community Development*.
+- Kremer, P., Borowiak, C., Scolio, M. (2026). Building protective data infrastructure for urban community gardens: Lessons from the Philadelphia Garden Data Collaborative. *Journal of Agriculture, Food Systems, and Community Development*. [DOI](https://doi.org/10.5304/jafscd.2026.154.017)
 
   *Describes the PGDC's approach to building durable, community-governed garden data infrastructure.*
 

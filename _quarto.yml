@@ -1,6 +1,11 @@
 project:
   type: website
   output-dir: _site
+  render:
+    - "*.qmd"
+    - "projects/*.qmd"
+    - "!CONTEXT.md"
+    - "!README.md"
   resources:
     - CNAME
 
@@ -44,7 +49,7 @@ website:
       Villanova University
     center: |
       [Email](mailto:peleg.kremer@villanova.edu) &nbsp;·&nbsp;
-      [Google Scholar](https://scholar.google.com/citations?hl=en&user=bk56N0IAAAAJ) &nbsp;·&nbsp;
+      [Google Scholar](https://scholar.google.com/citations?user=bk56N0IAAAAJ&hl=en) &nbsp;·&nbsp;
       [ORCID](https://orcid.org/0000-0001-6844-5557) &nbsp;·&nbsp;
       [LinkedIn](https://www.linkedin.com/in/peleg-kremer-79656415/)
     right: |

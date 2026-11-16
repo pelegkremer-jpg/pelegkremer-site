@@ -4,14 +4,56 @@ pagetitle: "News | Peleg Kremer"
 description: "Recent papers, talks, grants, and lab updates."
 ---
 
-::: {.lead}
-Short, dated entries about new papers, talks, grants, and lab activity. Older items roll off the front page but stay on this list. For full coverage of conference activity, see the CV.
-:::
-
 ## 2026
 
-### Apr 2026 · Anna Kosierowski defends honors thesis
-On April 17, **Anna Kosierowski** defended her honors thesis, *Legacy of Redlining: A GIS-Based Study of Environmental Hazards and Social Vulnerability in Historically Redlined Neighborhoods*, during the Villanova Honors Program Senior Thesis Defense Day.
+### 2026 · Papers in print
+Nine papers appeared in 2026, in [Urban Climate](https://doi.org/10.1016/j.uclim.2026.103096), [Earth's Future](https://doi.org/10.1029/2026EF008834), the [Journal of Agriculture, Food Systems, and Community Development](https://doi.org/10.5304/jafscd.2026.154.017), [Estuaries and Coasts](https://doi.org/10.1007/s12237-026-01757-8), [Scientific Reports](https://doi.org/10.1038/s41598-026-67716-2), the [Journal of Flood Risk Management](https://doi.org/10.1111/jfr3.70246), [Sustainable Cities and Society](https://doi.org/10.1016/j.scs.2026.107285), [Discover Applied Sciences](https://doi.org/10.1007/s42452-026-08488-2) and [Ecological Informatics](https://doi.org/10.1016/j.ecoinf.2025.103587):
+
+- **Kremer, P.**, Borowiak, C., Scolio, M. (2026). Building protective data infrastructure for urban community gardens: Lessons from the Philadelphia Garden Data Collaborative. *Journal of Agriculture, Food Systems, and Community Development*. [DOI](https://doi.org/10.5304/jafscd.2026.154.017)
+- **Kremer, P.** (2026). Scaling urban structure-temperature analysis: Global application of the STURLA classification to 11,214 urban areas. *Urban Climate*, 69, 103096. [DOI](https://doi.org/10.1016/j.uclim.2026.103096)
+- Robert, E., **Kremer, P.**, Good, K. (2026). Integrating Social Vulnerability Index with Potential Upstream Iodine Effects on Downstream Community Water Systems. *Earth's Future*, 14(9), e2026EF008834. [DOI](https://doi.org/10.1029/2026EF008834)
+- Al Mehedi, M. A., Smith, V., **Kremer, P.** (2026). Comparative Analysis of Urban Flood Mapping Using Sentinel-1 SAR Imagery and Machine Learning. *Journal of Flood Risk Management*, 19(3), e70246. [DOI](https://doi.org/10.1111/jfr3.70246)
+- Freeman, A., Pinton, D., Langley, J. A., Sansom, L., Doughty, C., **Kremer, P.**, Canestrelli, A., Chambers, L., Chapman, S. K. (2026). Mangrove presence is associated with lower rates of coastal wetland loss at marsh-mangrove ecotone. *Estuaries and Coasts*, 49, 150. [DOI](https://doi.org/10.1007/s12237-026-01757-8)
+- Arabi, S., Smith, V. B., **Kremer, P.**, Wadzuk, B. M., Jiao, X. (2026). Satellite-based condition assessment of urban green stormwater infrastructure using a hybrid machine learning framework. *Scientific Reports*. [DOI](https://doi.org/10.1038/s41598-026-67716-2)
+- **Kremer, P.**, Lindley, S. J., Ermagun, A. (2026). Sustaining cities under environmental extremes: An editorial. *Sustainable Cities and Society*, 147, 107489. [DOI](https://doi.org/10.1016/j.scs.2026.107489)
+- Rahman, M., Smith, V. B., **Kremer, P.**, Wadzuk, B. M., Jiao, X., Amur, A., Arabi, S. (2026). Incorporating artificial intelligence into the future of stormwater management. *Discover Applied Sciences*, 8(5), 524. [DOI](https://doi.org/10.1007/s42452-026-08488-2)
+- Ermagun, A., Janatabadi, F., Safarloo, Z., **Kremer, P.**, Lindley, S. (2026). Urban flooding restructures mobility through coupled behavioral and network disruption: a systematic review of evidence. *Sustainable Cities and Society*, 107285. [Link](https://www.sciencedirect.com/science/article/pii/S2210670726001721)
+
+### Nov 2026 · Pennsylvania Geographical Society, West Chester
+Three lab posters at the PGS annual meeting, West Chester University, November 6:
+
+- Roy, **Kremer**, Smith. *Can GIS-based Tools Capture Urban Nuisance Flooding? Evaluating the Limitations of Sentinel-1 in Validating Nuisance Flood Simulations in Philadelphia, Pennsylvania*.
+- Sanders, **Kremer**, Coonfield, Smith, Gandy, Arabi. *An Observational Analysis of Human Activity, Physical Conditions, and Social Context Around Green Stormwater Infrastructure Sites in Kensington, Philadelphia*.
+- Wildonger, Goldsmith, Good, **Kremer**, Smith. *Heavy Metal Transport and Bioavailability Across Particle Size Fractions in Green Stormwater Infrastructure Receiving Highway Runoff*.
+
+### Oct 2026 · Villanova Graduate Student Fall Symposium
+Three lab posters at the university's graduate symposium, October 30:
+
+- Wildonger, Goldsmith, Good, **Kremer**, Smith. *Transport and Bioavailability of Heavy Metals Across Grain Sizes From Highway Sediments Deposited in Receiving GSI Installations*.
+- Sanders, **Kremer**, Coonfield, Smith, Gandy. *An Observational Analysis of Human Activity, Physical Conditions, and Social Context Around Green Stormwater Infrastructure Sites in Kensington, Philadelphia*.
+- Roy, **Kremer**, Smith. *Evaluating Urban Nuisance Flood Detectability Using Sentinel-1 SAR Imagery and Multi-Source Flood Reports*.
+
+### Oct 2026 · Middle States AAG, Philadelphia
+Two lab posters at the Middle States Division meeting, Thomas Jefferson University, October 23 to 24:
+
+- Roy, **Kremer**, Smith. *Can GIS-based Tools Capture Urban Nuisance Flooding? Evaluating the Limitations of Sentinel-1 in Validating Nuisance Flood Simulations in Philadelphia, PA*.
+- Sanders, **Kremer**, Coonfield, Smith, Gandy, Arabi. *An Observational Analysis of Human Activity, Physical Conditions, and Social Context Around Green Stormwater Infrastructure Sites in Kensington, Philadelphia*.
+
+### Oct 2026 · VUSP Stormwater Symposium, Villanova
+Three lab posters at the Villanova Urban Stormwater Partnership symposium, October 14 to 15:
+
+- Wildonger, Goldsmith, Good, **Kremer**, Smith. *Transport and Bioavailability of Heavy Metals Across Grain Sizes From Highway Sediments Deposited in Receiving GSI Installations*.
+- Sanders, **Kremer**, Coonfield, Smith, Gandy. *An Observational Analysis of Human Activity, Physical Conditions, and Social Context Around Green Stormwater Infrastructure Sites in Kensington, Philadelphia*.
+- Roy, **Kremer**, Smith. *Can GIS-Based Tools Capture Urban Nuisance Flooding? Testing the ArcGIS Pro Flood Simulation Tool in Germantown, Philadelphia*.
+
+### Oct 2026 · Talks in Rome and Denver
+Two talks on October 14, one in Rome and one in Denver:
+
+- **Kremer**, Borowiak, Scolio. *Community Data as a Tool for Urban Garden Preservation and Food Justice in Philadelphia*. Villanova Sustainability Conference, "Responding to the Cry of the Earth and the Cry of the Poor," The Patristicum, Rome, October 14.
+- Salanitri, Goldsmith, Weston, **Kremer**. *Impact of Land Use/Land Cover Practices and Configuration on Freshwater Salinization Syndrome Solute and Nutrient Export in Two Suburban Headwater Streams*. GSA Connects 2026, Denver, October 14.
+
+### Apr 2026 · Anna Koisewroski defends honors thesis
+On April 17, **Anna Koisewroski** defended her honors thesis, *Legacy of Redlining: A GIS-Based Study of Environmental Hazards and Social Vulnerability in Historically Redlined Neighborhoods*, during the Villanova Honors Program Senior Thesis Defense Day.
 
 ### Mar 2026 · AAG San Francisco
 Three Kremer-lab papers at the AAG annual meeting:
@@ -23,10 +65,6 @@ Three Kremer-lab papers at the AAG annual meeting:
 ### Mar 2026 · Ecological Informatics
 **Kremer, P., Weaver, D., Stewart, J. D.** (2026). Sensitivity of urban structure-temperature relationships to grid parameterization. *Ecological Informatics*, 93, 103587. [DOI](https://doi.org/10.1016/j.ecoinf.2025.103587)
 
-### 2026 · Papers in print
-
-- Rahman, M., Smith, V. B., **Kremer, P.**, Wadzuk, B. M., Jiao, X., Amur, A., Arabi, S. (2026). Incorporating artificial intelligence into the future of stormwater management. *Discover Water*. [Link](https://link.springer.com/article/10.1007/s42452-026-08488-2)
-- Ermagun, A., Janatabadi, F., Safarloo, Z., **Kremer, P.**, Lindley, S. (2026). Urban flooding restructures mobility through coupled behavioral and network disruption: a systematic review of evidence. *Sustainable Cities and Society*, 107285. [Link](https://www.sciencedirect.com/science/article/pii/S2210670726001721)
 
 ## 2025
 

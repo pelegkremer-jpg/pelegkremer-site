@@ -13,16 +13,16 @@ Working with students is one of the most rewarding parts of this job. Below are 
 - **Charles Wildonger** – Heavy metal contamination and transport in green stormwater infrastructure.
 - **Mac Sanders** – Observational analysis of human activity, physical conditions, and social context around GSI sites in Kensington, Philadelphia.
 - **Prottoy Roy** – Spatiotemporal modeling of nuisance flood risk: a critical review of urban-scale approaches.
-- **Emily Myers** – Relating air pollution, social vulnerability and health outcomes in 500 US cities.
-- **Sarah Scheller** – Impacts of gentrification on garden land security.
+- **Joe Rielly** – M.S. capstone: a science-informed stewardship plan for a historic estate under restoration in Lloyd Harbor, NY.
 
 ## Current undergraduate students
 
-- **Anna Kosierowski** – Honors thesis: *Legacy of Redlining: A GIS-Based Study of Environmental Hazards and Social Vulnerability in Historically Redlined Neighborhoods*.
-- **Sophia Lemmons** – Philadelphia Garden Data Collaborative.
+- **Sophia Lemmons** – Senior thesis on the quality and availability of menstrual products in underserved neighborhoods in Philadelphia; previously a research assistant with the Philadelphia Garden Data Collaborative.
 
 ## Lab alumni · graduate
 
+- **Emily Myers** (M.S. 2026) – Relating air pollution, social vulnerability and health outcomes in 500 US cities.
+- **Sarah Scheller** (M.S. 2026) – Assessing garden precarity in Philadelphia with a built-environment and socioeconomic gentrification index.
 - **Luis Berrios-Hyden** – Spatial distribution of AMF diversity and heavy metal soil concentrations as a function of urban structure in Philadelphia.
 - **Lucas Cummings** – Air pollution and urban structure in Philadelphia.
 - **Kenny Douyon** – Land security assessment of community gardens in Philadelphia.
@@ -33,6 +33,7 @@ Working with students is one of the most rewarding parts of this job. Below are 
 
 ## Lab alumni · undergraduate
 
+- **Anna Koisewroski** – Honors thesis (2026): *Legacy of Redlining: A GIS-Based Study of Environmental Hazards and Social Vulnerability in Historically Redlined Neighborhoods*.
 - **Madeline Scolio** – Senior thesis, now lead author on multiple peer-reviewed papers including Scolio et al. 2024 (*Urban Climate*) and Scolio et al. 2025 (*Sustainable Cities and Society*; *Environmental Research: Infrastructure and Sustainability*).
 - **Alec Henderson** – Honors thesis on species distribution modeling of American chestnuts in Pennsylvania (Henderson, Santoro, Kremer 2022, *Frontiers in Ecology and Evolution*; Henderson et al. 2023, *Forest Ecology and Management*).
 - **Kate Henderson** – Honors thesis on niche modeling of tody birds in the Greater Antilles.

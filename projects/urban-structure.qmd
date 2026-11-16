@@ -44,7 +44,7 @@ Click any figure to enlarge.
 
 Selected papers; the full list is on the [Publications](../publications.qmd) page.
 
-- Kremer, P. Urban structure shapes land surface temperature: evidence from a global analysis of urban areas. *Urban Climate* (in review).
+- Kremer, P. (2026). Scaling urban structure-temperature analysis: Global application of the STURLA classification to 11,214 urban areas. *Urban Climate*, 69, 103096. [DOI](https://doi.org/10.1016/j.uclim.2026.103096)
 
   *Applies STURLA via a Google Earth Engine pipeline to 11,214 urban areas across 178 countries, testing whether case-study temperature patterns generalize worldwide.*
 
