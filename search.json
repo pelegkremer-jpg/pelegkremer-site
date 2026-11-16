@@ -221,7 +221,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Dr. Peleg Kremer is an Associate Professor in the Department of Geography and the Environment at Villanova University, where she also serves as Program Director for Environmental Studies. Her lab focuses on spatial patterns in social-ecological systems and urban sustainability. Using interdisciplinary approaches in spatial analysis, GIS, and remote sensing, she investigates the relationships between urban environmental and ecological processes and the built environment, with active programs of work on urban heat, air quality, flooding, green stormwater infrastructure, and equitable access to green space in Philadelphia and other US cities.\nShe is currently Co-PI on four NSF awards and two William Penn Foundation grants, Associate Editor of Sustainable Cities and Society, and recipient of the 2023 Villanova Outstanding Faculty Mentor Award. She teaches undergraduate and graduate courses in Geographic Information Systems, urban sustainability, and the built environment, and has mentored more than two dozen graduate and undergraduate researchers since 2022.\nShe holds a PhD in Energy and Environmental Policy from the University of Delaware."
+    "text": "I am an Associate Professor in the Department of Geography and the Environment at Villanova University, where I also direct the Environmental Studies Program. My lab studies spatial patterns in social-ecological systems and urban sustainability. Using spatial analysis, GIS and remote sensing, I investigate how urban environmental and ecological processes relate to the built environment, with active work on urban heat, air quality, flooding, green stormwater infrastructure, and equitable access to green space in Philadelphia and other US cities.\nI am Co-PI on two NSF awards (SCC-IRG and DISES), PI of a William Penn Foundation grant supporting the Philadelphia Garden Data Collaborative, Associate Editor of Sustainable Cities and Society, and recipient of the 2023 Villanova Outstanding Faculty Mentor Award. I teach undergraduate and graduate courses in Geographic Information Systems, urban sustainability and the built environment, and have mentored dozens of graduate and undergraduate researchers.\nI hold a PhD in Energy and Environmental Policy from the University of Delaware."
   },
   {
     "objectID": "about.html#appointments",
@@ -256,7 +256,7 @@
     "href": "about.html#selected-service",
     "title": "About",
     "section": "Selected service",
-    "text": "Selected service\n\nCommittee Chair, GEV Committee on Diversity and Inclusion (2016 – present)\nSenior Review Panel, NSF Human-Environment and Geographical Sciences (2024)\nMember, Strategic Initiative for Climate, Justice, and Sustainability: Research Committee, Villanova (2024 – present)\nMember, CLAS DEI Committee (2020 – present)\nLong-standing partner, Philadelphia Garden Data Collaborative (2015 – present)"
+    "text": "Selected service\n\nCommittee Chair, GEV Committee on Diversity and Inclusion (2016 – 2023)\nSenior Review Panel, NSF Human-Environment and Geographical Sciences (2024)\nMember, Strategic Initiative for Climate, Justice, and Sustainability: Research Committee, Villanova (2024 – present)\nMember, CLAS DEI Committee (2020 – present)\nLong-standing partner, Philadelphia Garden Data Collaborative (2015 – present)"
   },
   {
     "objectID": "about.html#professional-memberships",
@@ -264,6 +264,13 @@
     "title": "About",
     "section": "Professional memberships",
     "text": "Professional memberships\nAmerican Association of Geographers · American Geophysical Union · Association for Environmental Studies and Sciences"
+  },
+  {
+    "objectID": "about.html#short-bio",
+    "href": "about.html#short-bio",
+    "title": "About",
+    "section": "Short bio",
+    "text": "Short bio\nFor introductions and programs. Peleg Kremer is an Associate Professor of Geography and the Environment at Villanova University and Director of its Environmental Studies Program. Her research uses spatial analysis, GIS and remote sensing to study how urban structure shapes environmental processes and their distribution across cities, with current projects on urban heat, flooding, green stormwater infrastructure and community gardens in Philadelphia. She is Co-PI on two NSF awards, leads the data work of the Philadelphia Garden Data Collaborative, and is Associate Editor of Sustainable Cities and Society. She holds a PhD in Energy and Environmental Policy from the University of Delaware."
   },
   {
     "objectID": "contact.html",
@@ -361,7 +368,7 @@
     "href": "projects/land-in-common.html#current-team",
     "title": "Community Gardens and the Urban Commons",
     "section": "Current team",
-    "text": "Current team\nLiz Wills, Platform Development Program Manager, leads the garden database corrections and the platform build with CivicMapper. Madeline Scolio and Sarah Scheller work on PGDC garden security and gentrification analysis. See the Students page for the full list of student researchers."
+    "text": "Current team\nLiz Wills, Platform Development Program Manager, leads the garden database corrections and the platform build with CivicMapper. Madeline Scolio, Sarah Scheller and Sophia Lemmons work on PGDC garden security, gentrification analysis and the garden database. See the Students page for the full list of student researchers."
   },
   {
     "objectID": "projects/land-in-common.html#partners-and-collaborators",
@@ -452,7 +459,7 @@
     "href": "students.html#current-undergraduate-students",
     "title": "Students",
     "section": "Current undergraduate students",
-    "text": "Current undergraduate students\n\nSophia Lemmons – Senior thesis on the quality and availability of menstrual products in underserved neighborhoods in Philadelphia; previously a research assistant with the Philadelphia Garden Data Collaborative."
+    "text": "Current undergraduate students\n\nSophia Lemmons – Senior thesis on the quality and availability of menstrual products in underserved neighborhoods in Philadelphia; research assistant with the Philadelphia Garden Data Collaborative."
   },
   {
     "objectID": "students.html#lab-alumni-graduate",
