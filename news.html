@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.38">
+<meta name="generator" content="quarto-1.11.9">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -13,10 +13,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -36,14 +39,15 @@ ul.task-list li input[type="checkbox"] {
 <link href="./assets/favicon.ico" rel="icon">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/scrollable-regions/scrollable-regions.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-63b5708e65d6cd79cd7618c58d0c21e7.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-7242c000a23ed0f533d5faa70f0b1d25.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-d96b8dc61f1f51e5fb9b1fa5aa125079.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -83,19 +87,18 @@ ul.task-list li input[type="checkbox"] {
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
-<body class="nav-fixed quarto-light">
+<body class="nav-fixed quarto-light"><a id="quarto-skip-link" class="visually-hidden-focusable" href="#quarto-document-content">Skip to main content</a>
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark" aria-label="Site">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Peleg Kremer</span>
     </a>
   </div>
-            <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -140,6 +143,7 @@ ul.task-list li input[type="checkbox"] {
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
 </div>
+            <div id="quarto-search" class="" title="Search"></div>
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -149,7 +153,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content column-page" id="quarto-document-content" tabindex="-1">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -175,14 +179,69 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<div class="lead">
-<p>Short, dated entries about new papers, talks, grants, and lab activity. Older items roll off the front page but stay on this list. For full coverage of conference activity, see the CV.</p>
-</div>
 <section id="section" class="level2">
 <h2 class="anchored" data-anchor-id="section">2026</h2>
-<section id="apr-2026-anna-kosierowski-defends-honors-thesis" class="level3">
-<h3 class="anchored" data-anchor-id="apr-2026-anna-kosierowski-defends-honors-thesis">Apr 2026 · Anna Kosierowski defends honors thesis</h3>
-<p>On April 17, <strong>Anna Kosierowski</strong> defended her honors thesis, <em>Legacy of Redlining: A GIS-Based Study of Environmental Hazards and Social Vulnerability in Historically Redlined Neighborhoods</em>, during the Villanova Honors Program Senior Thesis Defense Day.</p>
+<section id="papers-in-print" class="level3">
+<h3 class="anchored" data-anchor-id="papers-in-print">2026 · Papers in print</h3>
+<p>Nine papers appeared in 2026, in <a href="https://doi.org/10.1016/j.uclim.2026.103096">Urban Climate</a>, <a href="https://doi.org/10.1029/2026EF008834">Earth’s Future</a>, the <a href="https://doi.org/10.5304/jafscd.2026.154.017">Journal of Agriculture, Food Systems, and Community Development</a>, <a href="https://doi.org/10.1007/s12237-026-01757-8">Estuaries and Coasts</a>, <a href="https://doi.org/10.1038/s41598-026-67716-2">Scientific Reports</a>, the <a href="https://doi.org/10.1111/jfr3.70246">Journal of Flood Risk Management</a>, <a href="https://doi.org/10.1016/j.scs.2026.107285">Sustainable Cities and Society</a>, <a href="https://doi.org/10.1007/s42452-026-08488-2">Discover Applied Sciences</a> and <a href="https://doi.org/10.1016/j.ecoinf.2025.103587">Ecological Informatics</a>:</p>
+<ul>
+<li><strong>Kremer, P.</strong>, Borowiak, C., Scolio, M. (2026). Building protective data infrastructure for urban community gardens: Lessons from the Philadelphia Garden Data Collaborative. <em>Journal of Agriculture, Food Systems, and Community Development</em>. <a href="https://doi.org/10.5304/jafscd.2026.154.017">DOI</a></li>
+<li><strong>Kremer, P.</strong> (2026). Scaling urban structure-temperature analysis: Global application of the STURLA classification to 11,214 urban areas. <em>Urban Climate</em>, 69, 103096. <a href="https://doi.org/10.1016/j.uclim.2026.103096">DOI</a></li>
+<li>Robert, E., <strong>Kremer, P.</strong>, Good, K. (2026). Integrating Social Vulnerability Index with Potential Upstream Iodine Effects on Downstream Community Water Systems. <em>Earth’s Future</em>, 14(9), e2026EF008834. <a href="https://doi.org/10.1029/2026EF008834">DOI</a></li>
+<li>Al Mehedi, M. A., Smith, V., <strong>Kremer, P.</strong> (2026). Comparative Analysis of Urban Flood Mapping Using Sentinel-1 SAR Imagery and Machine Learning. <em>Journal of Flood Risk Management</em>, 19(3), e70246. <a href="https://doi.org/10.1111/jfr3.70246">DOI</a></li>
+<li>Freeman, A., Pinton, D., Langley, J. A., Sansom, L., Doughty, C., <strong>Kremer, P.</strong>, Canestrelli, A., Chambers, L., Chapman, S. K. (2026). Mangrove presence is associated with lower rates of coastal wetland loss at marsh-mangrove ecotone. <em>Estuaries and Coasts</em>, 49, 150. <a href="https://doi.org/10.1007/s12237-026-01757-8">DOI</a></li>
+<li>Arabi, S., Smith, V. B., <strong>Kremer, P.</strong>, Wadzuk, B. M., Jiao, X. (2026). Satellite-based condition assessment of urban green stormwater infrastructure using a hybrid machine learning framework. <em>Scientific Reports</em>. <a href="https://doi.org/10.1038/s41598-026-67716-2">DOI</a></li>
+<li><strong>Kremer, P.</strong>, Lindley, S. J., Ermagun, A. (2026). Sustaining cities under environmental extremes: An editorial. <em>Sustainable Cities and Society</em>, 147, 107489. <a href="https://doi.org/10.1016/j.scs.2026.107489">DOI</a></li>
+<li>Rahman, M., Smith, V. B., <strong>Kremer, P.</strong>, Wadzuk, B. M., Jiao, X., Amur, A., Arabi, S. (2026). Incorporating artificial intelligence into the future of stormwater management. <em>Discover Applied Sciences</em>, 8(5), 524. <a href="https://doi.org/10.1007/s42452-026-08488-2">DOI</a></li>
+<li>Ermagun, A., Janatabadi, F., Safarloo, Z., <strong>Kremer, P.</strong>, Lindley, S. (2026). Urban flooding restructures mobility through coupled behavioral and network disruption: a systematic review of evidence. <em>Sustainable Cities and Society</em>, 107285. <a href="https://www.sciencedirect.com/science/article/pii/S2210670726001721">Link</a></li>
+</ul>
+</section>
+<section id="nov-2026-pennsylvania-geographical-society-west-chester" class="level3">
+<h3 class="anchored" data-anchor-id="nov-2026-pennsylvania-geographical-society-west-chester">Nov 2026 · Pennsylvania Geographical Society, West Chester</h3>
+<p>Three lab posters at the PGS annual meeting, West Chester University, November 6:</p>
+<ul>
+<li>Roy, <strong>Kremer</strong>, Smith. <em>Can GIS-based Tools Capture Urban Nuisance Flooding? Evaluating the Limitations of Sentinel-1 in Validating Nuisance Flood Simulations in Philadelphia, Pennsylvania</em>.</li>
+<li>Sanders, <strong>Kremer</strong>, Coonfield, Smith, Gandy, Arabi. <em>An Observational Analysis of Human Activity, Physical Conditions, and Social Context Around Green Stormwater Infrastructure Sites in Kensington, Philadelphia</em>.</li>
+<li>Wildonger, Goldsmith, Good, <strong>Kremer</strong>, Smith. <em>Heavy Metal Transport and Bioavailability Across Particle Size Fractions in Green Stormwater Infrastructure Receiving Highway Runoff</em>.</li>
+</ul>
+</section>
+<section id="oct-2026-villanova-graduate-student-fall-symposium" class="level3">
+<h3 class="anchored" data-anchor-id="oct-2026-villanova-graduate-student-fall-symposium">Oct 2026 · Villanova Graduate Student Fall Symposium</h3>
+<p>Three lab posters at the university’s graduate symposium, October 30:</p>
+<ul>
+<li>Wildonger, Goldsmith, Good, <strong>Kremer</strong>, Smith. <em>Transport and Bioavailability of Heavy Metals Across Grain Sizes From Highway Sediments Deposited in Receiving GSI Installations</em>.</li>
+<li>Sanders, <strong>Kremer</strong>, Coonfield, Smith, Gandy. <em>An Observational Analysis of Human Activity, Physical Conditions, and Social Context Around Green Stormwater Infrastructure Sites in Kensington, Philadelphia</em>.</li>
+<li>Roy, <strong>Kremer</strong>, Smith. <em>Evaluating Urban Nuisance Flood Detectability Using Sentinel-1 SAR Imagery and Multi-Source Flood Reports</em>.</li>
+</ul>
+</section>
+<section id="oct-2026-middle-states-aag-philadelphia" class="level3">
+<h3 class="anchored" data-anchor-id="oct-2026-middle-states-aag-philadelphia">Oct 2026 · Middle States AAG, Philadelphia</h3>
+<p>Two lab posters at the Middle States Division meeting, Thomas Jefferson University, October 23 to 24:</p>
+<ul>
+<li>Roy, <strong>Kremer</strong>, Smith. <em>Can GIS-based Tools Capture Urban Nuisance Flooding? Evaluating the Limitations of Sentinel-1 in Validating Nuisance Flood Simulations in Philadelphia, PA</em>.</li>
+<li>Sanders, <strong>Kremer</strong>, Coonfield, Smith, Gandy, Arabi. <em>An Observational Analysis of Human Activity, Physical Conditions, and Social Context Around Green Stormwater Infrastructure Sites in Kensington, Philadelphia</em>.</li>
+</ul>
+</section>
+<section id="oct-2026-vusp-stormwater-symposium-villanova" class="level3">
+<h3 class="anchored" data-anchor-id="oct-2026-vusp-stormwater-symposium-villanova">Oct 2026 · VUSP Stormwater Symposium, Villanova</h3>
+<p>Three lab posters at the Villanova Urban Stormwater Partnership symposium, October 14 to 15:</p>
+<ul>
+<li>Wildonger, Goldsmith, Good, <strong>Kremer</strong>, Smith. <em>Transport and Bioavailability of Heavy Metals Across Grain Sizes From Highway Sediments Deposited in Receiving GSI Installations</em>.</li>
+<li>Sanders, <strong>Kremer</strong>, Coonfield, Smith, Gandy. <em>An Observational Analysis of Human Activity, Physical Conditions, and Social Context Around Green Stormwater Infrastructure Sites in Kensington, Philadelphia</em>.</li>
+<li>Roy, <strong>Kremer</strong>, Smith. <em>Can GIS-Based Tools Capture Urban Nuisance Flooding? Testing the ArcGIS Pro Flood Simulation Tool in Germantown, Philadelphia</em>.</li>
+</ul>
+</section>
+<section id="oct-2026-talks-in-rome-and-denver" class="level3">
+<h3 class="anchored" data-anchor-id="oct-2026-talks-in-rome-and-denver">Oct 2026 · Talks in Rome and Denver</h3>
+<p>Two talks on October 14, one in Rome and one in Denver:</p>
+<ul>
+<li><strong>Kremer</strong>, Borowiak, Scolio. <em>Community Data as a Tool for Urban Garden Preservation and Food Justice in Philadelphia</em>. Villanova Sustainability Conference, “Responding to the Cry of the Earth and the Cry of the Poor,” The Patristicum, Rome, October 14.</li>
+<li>Salanitri, Goldsmith, Weston, <strong>Kremer</strong>. <em>Impact of Land Use/Land Cover Practices and Configuration on Freshwater Salinization Syndrome Solute and Nutrient Export in Two Suburban Headwater Streams</em>. GSA Connects 2026, Denver, October 14.</li>
+</ul>
+</section>
+<section id="apr-2026-anna-koisewroski-defends-honors-thesis" class="level3">
+<h3 class="anchored" data-anchor-id="apr-2026-anna-koisewroski-defends-honors-thesis">Apr 2026 · Anna Koisewroski defends honors thesis</h3>
+<p>On April 17, <strong>Anna Koisewroski</strong> defended her honors thesis, <em>Legacy of Redlining: A GIS-Based Study of Environmental Hazards and Social Vulnerability in Historically Redlined Neighborhoods</em>, during the Villanova Honors Program Senior Thesis Defense Day.</p>
 </section>
 <section id="mar-2026-aag-san-francisco" class="level3">
 <h3 class="anchored" data-anchor-id="mar-2026-aag-san-francisco">Mar 2026 · AAG San Francisco</h3>
@@ -196,13 +255,6 @@ ul.task-list li input[type="checkbox"] {
 <section id="mar-2026-ecological-informatics" class="level3">
 <h3 class="anchored" data-anchor-id="mar-2026-ecological-informatics">Mar 2026 · Ecological Informatics</h3>
 <p><strong>Kremer, P., Weaver, D., Stewart, J. D.</strong> (2026). Sensitivity of urban structure-temperature relationships to grid parameterization. <em>Ecological Informatics</em>, 93, 103587. <a href="https://doi.org/10.1016/j.ecoinf.2025.103587">DOI</a></p>
-</section>
-<section id="papers-in-print" class="level3">
-<h3 class="anchored" data-anchor-id="papers-in-print">2026 · Papers in print</h3>
-<ul>
-<li>Rahman, M., Smith, V. B., <strong>Kremer, P.</strong>, Wadzuk, B. M., Jiao, X., Amur, A., Arabi, S. (2026). Incorporating artificial intelligence into the future of stormwater management. <em>Discover Water</em>. <a href="https://link.springer.com/article/10.1007/s42452-026-08488-2">Link</a></li>
-<li>Ermagun, A., Janatabadi, F., Safarloo, Z., <strong>Kremer, P.</strong>, Lindley, S. (2026). Urban flooding restructures mobility through coupled behavioral and network disruption: a systematic review of evidence. <em>Sustainable Cities and Society</em>, 107285. <a href="https://www.sciencedirect.com/science/article/pii/S2210670726001721">Link</a></li>
-</ul>
 </section>
 </section>
 <section id="section-1" class="level2">
@@ -357,7 +409,8 @@ ul.task-list li input[type="checkbox"] {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
       // Inspect non-navigation links and adorn them if external
-     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      window.quartoDecorateExternalLinks = function (root) {
+     var links = (root || window.document).querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
       for (var i=0; i<links.length; i++) {
         const link = links[i];
         if (!isInternal(link.href)) {
@@ -366,8 +419,69 @@ ul.task-list li input[type="checkbox"] {
           if (link.dataset.originalHref !== undefined) {
             link.href = link.dataset.originalHref;
           }
+          if (!link.classList.contains('no-external-icon')) {
+          }
         }
       }
+      };
+      window.quartoDecorateExternalLinks(window.document);
+    // Esc closes the popup (WCAG 1.4.13) and focus leaving both trigger and
+    // popup closes it (WCAG 2.4.11); tippy handles neither for interactive popups.
+    const hideOnEscAndFocusOut = {
+      name: 'hideOnEscAndFocusOut',
+      defaultValue: true,
+      fn(instance) {
+        const dismiss = () => {
+          // A show scheduled by the trigger delay would otherwise reopen it
+          instance.clearDelayTimeouts();
+          instance.hide();
+        };
+        const onKeyDown = (event) => {
+          if (event.key !== 'Escape') {
+            return;
+          }
+          // Keep Esc from also reaching page handlers (e.g. reveal.js overview),
+          // except an open reveal.js slide menu, which Esc should close too.
+          // The menu handles keys only when its keyboard option is on.
+          const menuHandlesEsc = window.Reveal?.getPlugin?.('menu')?.isOpen() &&
+            window.Reveal.getConfig().menu?.keyboard !== false;
+          if (!menuHandlesEsc) {
+            event.stopPropagation();
+          }
+          if (instance.popper.contains(window.document.activeElement)) {
+            // Disabled while refocusing so the focus trigger does not reopen it
+            instance.disable();
+            instance.reference.focus();
+            instance.enable();
+          }
+          dismiss();
+        };
+        const onFocusOut = (event) => {
+          const target = event.relatedTarget;
+          if (target && !instance.reference.contains(target) &&
+              !instance.popper.contains(target)) {
+            dismiss();
+          }
+        };
+        // On the trigger too: a click trigger (code-annotations: select) has no
+        // blur handling. Attached for the instance's lifetime so leaving the
+        // trigger also cancels a show still pending on the trigger delay.
+        instance.reference.addEventListener('focusout', onFocusOut);
+        return {
+          onShow() {
+            window.document.addEventListener('keydown', onKeyDown, true);
+            instance.popper.addEventListener('focusout', onFocusOut);
+          },
+          onHide() {
+            window.document.removeEventListener('keydown', onKeyDown, true);
+            instance.popper.removeEventListener('focusout', onFocusOut);
+          },
+          onDestroy() {
+            instance.reference.removeEventListener('focusout', onFocusOut);
+          },
+        };
+      },
+    };
     function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
       const config = {
         allowHTML: true,
@@ -381,6 +495,7 @@ ul.task-list li input[type="checkbox"] {
         interactiveBorder: 10,
         theme: 'quarto',
         placement: 'bottom-start',
+        plugins: [hideOnEscAndFocusOut],
       };
       if (contentFn) {
         config.content = contentFn;
@@ -543,44 +658,54 @@ ul.task-list li input[type="checkbox"] {
           const lineIds = lines.map((line) => {
             return targetCell + "-" + line;
           })
-          let top = null;
-          let height = null;
-          let parent = null;
+          // Each band is positioned against its own containing block, which is
+          // not the offsetParent of the lines, so place it from client rects.
+          const placeBand = (band, firstEl, lastEl, codeBlock) => {
+            const container = band.offsetParent;
+            if (container === null) {
+              return;
+            }
+            const containerRect = container.getBoundingClientRect();
+            // Reveal.js scales slides with a transform, so convert client
+            // pixels back to the CSS pixels of the container.
+            const scale = containerRect.height / container.offsetHeight || 1;
+            const firstRect = firstEl.getBoundingClientRect();
+            const lastRect = lastEl.getBoundingClientRect();
+            const top = (firstRect.top - containerRect.top) / scale - container.clientTop + container.scrollTop;
+            const height = (lastRect.bottom - firstRect.top) / scale;
+            band.style.top = top - 2 + "px";
+            band.style.height = height + 4 + "px";
+            if (codeBlock) {
+              // Without the copy button wrapper, the containing block is wider
+              // than the code block, so span the code block explicitly.
+              const blockRect = codeBlock.getBoundingClientRect();
+              band.style.left = (blockRect.left - containerRect.left) / scale - container.clientLeft + container.scrollLeft + "px";
+              band.style.width = blockRect.width / scale + "px";
+            }
+          };
           if (lineIds.length > 0) {
-              //compute the position of the single el (top and bottom and make a div)
-              const el = window.document.getElementById(lineIds[0]);
-              top = el.offsetTop;
-              height = el.offsetHeight;
-              parent = el.parentElement.parentElement;
-            if (lineIds.length > 1) {
-              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
-              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
-              height = bottom - top;
+            const el = window.document.getElementById(lineIds[0]);
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const parent = el.parentElement.parentElement;
+            // cook up a div (if necessary) and position it
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
             }
-            if (top !== null && height !== null && parent !== null) {
-              // cook up a div (if necessary) and position it 
-              let div = window.document.getElementById("code-annotation-line-highlight");
-              if (div === null) {
-                div = window.document.createElement("div");
-                div.setAttribute("id", "code-annotation-line-highlight");
-                div.style.position = 'absolute';
-                parent.appendChild(div);
-              }
-              div.style.top = top - 2 + "px";
-              div.style.height = height + 4 + "px";
-              div.style.left = 0;
-              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
-              if (gutterDiv === null) {
-                gutterDiv = window.document.createElement("div");
-                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
-                gutterDiv.style.position = 'absolute';
-                const codeCell = window.document.getElementById(targetCell);
-                const gutter = codeCell.querySelector('.code-annotation-gutter');
-                gutter.appendChild(gutterDiv);
-              }
-              gutterDiv.style.top = top - 2 + "px";
-              gutterDiv.style.height = height + 4 + "px";
+            placeBand(div, el, lastEl, parent.closest("div.sourceCode") || parent);
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
             }
+            placeBand(gutterDiv, el, lastEl);
             selectedAnnoteEl = annoteEl;
           }
         };
@@ -679,6 +804,9 @@ ul.task-list li input[type="checkbox"] {
     }
   });
   </script>
+  <script type="application/javascript">
+  window.quartoScrollableRegionsLabels = {"code":"Scrollable code","output":"Scrollable output"};
+  </script>
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
@@ -686,7 +814,7 @@ ul.task-list li input[type="checkbox"] {
 <p>Peleg Kremer<br> Department of Geography and the Environment<br> Villanova University</p>
 </div>   
     <div class="nav-footer-center">
-<p><a href="mailto:peleg.kremer@villanova.edu">Email</a> &nbsp;·&nbsp; <a href="https://scholar.google.com/citations?hl=en&amp;user=bk56N0IAAAAJ">Google Scholar</a> &nbsp;·&nbsp; <a href="https://orcid.org/0000-0001-6844-5557">ORCID</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/peleg-kremer-79656415/">LinkedIn</a></p>
+<p><a href="mailto:peleg.kremer@villanova.edu">Email</a> &nbsp;·&nbsp; <a href="https://scholar.google.com/citations?user=bk56N0IAAAAJ&amp;hl=en">Google Scholar</a> &nbsp;·&nbsp; <a href="https://orcid.org/0000-0001-6844-5557">ORCID</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/peleg-kremer-79656415/">LinkedIn</a></p>
 </div>
     <div class="nav-footer-right">
 <p>© 2026 Peleg Kremer. Built with <a href="https://quarto.org">Quarto</a>.</p>
